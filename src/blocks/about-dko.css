@@ -1,0 +1,332 @@
+.about-dko_img_Gritsenko {
+  background-image: url(../images/about-dko_Gritsenko.png);
+}
+
+.about-dko_img_Galkina {
+/*  background-image: url(../images/about-dko_Galkina.png);*/
+/*  background-image: url(../images/about-dko_Galkina1.jpg);*/
+}
+
+.about-dko_img_Soloveva {
+  background-image: url(../images/about-dko_Soloveva.png);
+}
+
+.about-dko_img_Dubinina {
+  background-image: url(../images/about-dko_Dubinina.png);
+}
+
+.about-dko_img_Gorlova {
+  background-image: url(../images/about-dko_Gorlova.png);
+}
+
+.about-dko_img_Chirikov {
+  background-image: url(../images/about-dko_Chirikov.png);
+}
+
+.about-dko_img_Pristromova {
+  background-image: url(../images/about-dko_Pristromova.png);
+}
+
+.about-dko_img_Markova {
+  background-image: url(../images/about-dko_Markova.png);
+}
+
+.about-dko_img_Bandorina {
+  background-image: url(../images/about-dko_Bandorina.png);
+}
+
+.about-dko_img_Isemina {
+  background-image: url(../images/about-dko_Isemina.png);
+}
+
+.about-dko_img_Zalyaeva {
+  background-image: url(../images/about-dko_Zalyaeva.png);
+}
+
+.about-dko_img_Somova {
+  background-image: url(../images/about-dko_Somova.png);
+}
+
+.about-dko_img_Klimova {
+  background-image: url(../images/about-dko_Klimova.png);
+}
+
+
+.about-dko {
+
+}
+
+.about-dko__divisions {
+
+}
+
+.about-dko__divisions_card {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 32px 0px;
+  padding: 32px 32px;
+  height: 208px;
+  box-sizing: border-box;
+}
+
+.about-dko__divisions_card_open {
+  height: auto;
+}
+
+.about-dko__divisions_work {
+  margin: 35px 0 0 0;
+}
+
+.about-dko__divisions_work_h3 {
+  line-height: 18px;
+  font-weight: 600;
+}
+
+.about-dko__divisions_work .about-dko__divisions_work_h3 {
+  width: 37%;
+}
+
+.about-dko__divisions_work_ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding-left: 0px !important;
+  line-height: 18px;
+  font-weight: 400;
+}
+
+.about-dko__divisions_work_ul a {
+  text-decoration: none;
+  border-bottom: 1px dashed #E4003A;;
+}
+
+.about-dko__divisions_work_ul span {
+  line-height: 18px;
+  font-weight: 600;
+}
+
+.about-dko__divisions_work_ul li {
+  width: 480px;
+  padding: 10px;
+}
+
+.about-dko__divisions_work_description {
+  font-weight: 400;
+  line-height: 18px;
+  margin-bottom: 24px;
+}
+
+.about-dko__divisions_text {
+  width: 48%;
+  display: flex;
+  flex-direction: column;
+}
+
+.about-dko__divisions_text_h3 {
+  font-size: 16px;
+  margin: 0;
+}
+
+.about-dko__divisions_text_description {
+  font-weight: 300;
+  line-height: 18px;
+  padding: 12px 20px 0 0;
+  font-family: "Roboto", Arial, sans-serif;
+}
+
+.about-dko__divisions_boss_list {
+  width: 48%;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 1px 10px 12px 10px;
+}
+
+.about-dko__divisions_boss_list_double {
+  min-height: 129px;
+}
+
+.about-dko__divisions_boss {
+  display: flex;
+  flex-direction: row;
+}
+
+.about-dko__divisions_boss_img {
+  width: 59px;
+  height: 59px;
+}
+
+.about-dko__divisions_boss_text {
+  display: flex;
+  margin: auto 15px;
+  align-items: flex-end;
+  justify-content: space-between;
+}
+
+.about-dko__divisions_boss_text_fio {
+  font-weight: 400;
+  font-size: 16px;
+  margin: 0 10px;
+}
+
+.about-dko__divisions_boss_text_position {
+  font-weight: 300;
+  font-size: 10px;
+  line-height: 12px;
+  font-family: "Roboto", Arial, sans-serif;
+}
+
+.about-dko__divisions_btn {
+  font-weight: 400;
+  width: 136px;
+  margin-top: 35px;
+  padding: 10px 30px 10px 16px;
+}
+
+.about-dko__divisions_btn1 {
+  font-weight: 400;
+  padding: 10px 35px 10px 13px;
+  width: 91px;
+}
+
+.about-dko__divisions_btn_div {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+.about-dko__reg {
+  margin-top: 64px;
+}
+
+.about-dko__reg_text {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 18px;
+  width: 422px;
+}
+
+.about-dko__reg_header {
+  display: flex;
+  font-size: 16px;
+  font-weight: 600;
+  margin: 48px 0px 0px 0px;
+}
+
+.about-dko__reg_header > div {
+  flex: 1;
+}
+
+.about-dko__reg_header div:nth-of-type(1) {
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: 450px;
+}
+
+.about-dko__reg_row {
+  display: flex;
+  flex-direction: row;
+  height: 125px;
+}
+
+.about-dko__reg_row > div {
+  flex: 1;
+}
+
+.about-dko__reg_row_person {
+  display: flex;
+  flex-direction: row;
+  min-width: 450px;
+}
+
+.about-dko__reg_row_person_img {
+  width: 77px;
+  height: 77px;
+}
+
+.about-dko__reg_row_person_text {
+  margin: auto 0px;
+  padding: 0 22px;
+}
+
+.about-dko__reg_row_person_text_position {
+  font-weight: 300;
+  font-size: 12px;
+  font-family: "Roboto", Arial, sans-serif;
+}
+
+.about-dko__reg_row_person_text_fio {
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.about-dko__reg_row_person_text_tel {
+  font-weight: 300;
+  font-size: 16px;
+  font-family: "Roboto", Arial, sans-serif;
+}
+
+.about-dko__reg_row_city {
+  display: flex;
+}
+
+.about-dko__reg_row_city_text {
+  font-weight: 400;
+  font-size: 16px;
+  margin-top: 35px;
+}
+
+.about-dko__reg_row_regions {
+  font-weight: 400;
+  font-size: 16px;
+}
+
+.about-dko__reg_row_regions ul {
+  margin-top: 35px;
+  padding-left: 20px;
+}
+
+.about-dko__divisions_stat {
+  width: 100%;
+}
+
+.about-dko__divisions_stat_row {
+  width: 100%;
+  margin-top: 37px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.about-dko__divisions_stat_row > div {
+  width: 460px;
+  padding: 10px;
+  line-height: 18px;
+  display: flex;
+  flex-direction: column;
+  font-weight: 400;
+}
+
+.about-dko__divisions_stat_row1 {
+}
+
+.about-dko__divisions_stat_row2_text {
+  padding: 10px 0;
+}
+
+.about-dko__link_red {
+  text-decoration: none;
+  border-bottom: 1px dashed #E4003A;;
+  color: #E4003A;;
+}
+
+.about-dko__link_black {
+  text-decoration: none;
+  border-bottom: 1px dashed #E4003A;;
+  color: black;
+}
+
+
+

@@ -1,0 +1,13 @@
+.learnings{
+  padding-left: 36px;
+  padding-right: 36px;
+  margin: 48px 0 64px 0;
+
+}
+
+.learnings__header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 25px;
+}

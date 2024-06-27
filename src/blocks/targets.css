@@ -1,0 +1,162 @@
+.new-traj-targets {
+  margin-top: 40px;
+  padding-left: 36px;
+  padding-right: 36px;
+  padding-bottom: 40px;
+}
+
+.new-traj-targets__list {
+  margin-left: 0;
+  padding-left: 0;
+}
+
+.new-traj-targets__target {
+  display: flex;
+  list-style-type: none;
+  cursor: pointer;
+  box-shadow: 0px 8px 24px rgba(4, 19, 50, 0.04);
+  border-radius: 12px;
+  font-weight: 500;
+  font-size: 16px;
+  padding: 32px 46px 32px 32px;
+  margin-bottom: 5px;
+  background-color: white;
+}
+
+.new-traj-targets__target:hover {
+  box-shadow: 0px 8px 24px rgba(4, 19, 50, 0.16);
+}
+
+.new-traj-targets__target:hover .new-traj-targets__target-title{
+  color: #E4003A;
+  ;
+}
+
+.new-traj-targets__target-type-container {
+  min-width: 120px;
+}
+
+.new-traj-targets__target-type {
+  display: inline-block;
+  margin: 0 10px 0 0;
+  font-weight: 300;
+  font-size: 10px;
+  background: #E9ECF1;
+  border-radius: 16px;
+  padding: 4px 10px;
+  font-family: "Roboto", Arial, sans-serif;
+}
+
+.new-traj-targets__target-type_mandatory {
+  color: #FFFFFF;
+  background: #E4003A;
+  font-weight: 400;
+}
+
+.new-traj-targets__target-type_evaluation {
+  color: #FFFFFF;
+  background: #69BEFF;
+  font-weight: 400;
+}
+
+.new-traj-targets__target-title {
+  margin: 0;
+  padding-top: 4px;
+  max-width: 445px;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+.new-traj-targets__target-info {
+  margin-left: auto;
+  display: grid;
+  grid-template-columns: repeat(3, 90px);
+  align-items: center;
+  justify-content: space-between;
+  min-width: 270px;
+  grid-auto-flow: column;
+}
+
+.new-traj-targets__target-info-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.new-traj-targets__target-info-text {
+  margin: 0;
+  font-weight: 300;
+  font-size: 10px;
+  line-height: 16px;
+  margin-left: 4px;
+}
+
+.new-traj-targets__header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom:  20px;
+}
+
+.new-traj-targets__button {
+  background: #E4003A;
+  border-radius: 12px;
+  border: 0;
+  color: #FFFFFF;
+  padding: 10px 16px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.new-traj-targets__button:hover {
+  background: #E4003A;
+  opacity: 80%;
+}
+
+.new-traj-targets__button-img {
+  margin-right: 6px;
+}
+
+.new-traj-targets__button-text {
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", Arial, sans-serif;
+}
+
+.new-traj-show-card__card-for-target {
+  display:flex;
+  align-items: center;
+}
+
+.new-traj-targets__edit-target-button {
+  background-image: url(../images/pencil2.svg);
+  width: 20px;
+  height: 20px;
+  background-repeat: no-repeat;
+  cursor: pointer;
+  border: 0;
+  background-color: #FFFFFF;
+  opacity: 0.8;
+  margin-left: 20px;
+}
+
+.new-traj-targets__info-title {
+  margin: 0;
+}
+.new-traj-targets__info-subtitle {
+  margin: 0;
+
+  text-align: center;
+}
+
+.new-traj-targets__edit-target-button:hover {
+  opacity: 1;
+}
+
+.form__input_type_show-target {
+  background: #FFFFFF !important;
+  border: 1px solid #E9ECF1 !important;
+}

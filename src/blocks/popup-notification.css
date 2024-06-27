@@ -1,0 +1,117 @@
+.popup__container_type_popup-notification, .popup__container_type_popup-notification_message, .popup__container_type_popup-notification_question {
+  box-sizing: border-box;
+  width: auto;
+  height: min-content;
+  padding: 64px 56px 64px 56px;
+  border-radius: 16px;
+}
+
+.popup_type_popup-notification, .popup_type_popup-notification_message, .popup_type_popup-notification_message1 {
+  justify-content: center;
+  align-items: center;
+}
+
+.popup__close_type_popup-notification, .popup__close_type_popup-notification_message, .popup__close_type_popup-notification_message1 {
+  display: none;
+}
+
+.popup-notification__message-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.popup-notification__img-check-mark {
+  height: 64px;
+  width: 64px;
+  margin: auto;
+}
+
+.popup-notification__message-h1 {
+  font-family: Montserrat, serif;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 40px;
+  letter-spacing: -0.04em;
+  text-align: center;
+}
+
+.popup-notification__question-row {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  max-width: 500px;
+}
+
+.popup-notification__question-h1 {
+  font-family: Montserrat, serif;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 28px;
+  letter-spacing: -0.03em;
+  text-align: center;
+  margin-bottom: 8px;
+}
+
+.popup-notification__question-text {
+  font-family: Montserrat, serif;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: -0.02em;
+  text-align: center;
+}
+
+.popup-notification__question-buttons {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  margin-top: 24px;
+}
+
+.popup-notification__button-small {
+  display: flex;
+  flex-direction: row;
+  background: #E4003A;
+  color: #FFFFFF;
+  font-family: Inter, sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: -0.02em;
+  text-align: left;
+  border: none;
+  padding: 16px 24px 16px 24px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.popup-notification__button-small:hover {
+  opacity: 0.8;
+}
+
+.popup-notification__button_black-gray {
+  color: black;
+  background: #F2F4F6;
+}
+
+.popup-notification__cursor-pointer {
+  cursor: pointer
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

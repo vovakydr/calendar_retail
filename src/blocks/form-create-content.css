@@ -1,0 +1,211 @@
+.form_create-content::-webkit-scrollbar {
+  width: 8px;
+  color: black;
+}
+
+.form_create-content::-webkit-scrollbar-thumb {
+   border-radius: 10px;
+   background-color: #BBBFC4;
+}
+
+.form_create-content::-webkit-scrollbar-track {
+  width: 6px;
+  background-color: #E9ECF1;
+  box-shadow: 0px 16px 32px rgba(4, 19, 50, 0.12);
+}
+
+.form_create-content {
+/*  overflow-x: hidden;*/
+  padding-right: 20px;
+}
+
+.form_create-content input::placeholder {
+  opacity: 0.4;
+}
+
+.form_create-content__div_row {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+  justify-content: space-between;
+  flex-wrap:wrap;
+}
+
+.form_create-content__switch_param {
+  margin-top: 25px;
+}
+
+.form_create-content__duration {
+  position: relative;
+}
+
+.form_create-content__duration_label {
+  position: absolute;
+  top: 10px;
+  left: 85px;
+}
+
+.form_create-content__duration_heading {
+  margin-top: 25px;
+  margin-bottom: 5px;
+}
+
+.form_create-content .ql-toolbar.ql-snow {
+  border-top: none;
+  border-left: none;
+  border-right: none;
+}
+
+.form_create-content .ql-container.ql-snow {
+  border: none;
+}
+
+.form_create-content .ql-editor.ql-blank {
+  background: #E9ECF1;
+}
+
+.form_create-content .ql-editor.ql-blank::before {
+  font-style: normal;
+  opacity: 0.4;
+}
+
+
+.form_create-content .ql-toolbar.ql-snow .ql-formats {
+  margin-right: 0px;
+}
+
+.form_create-content__search-tag-group {
+  margin-bottom: 25px;
+}
+
+.form_create-content__search-tag-input {
+  width: 355px;
+}
+
+.form_create-content__search-tag-button {
+  border-radius: 12px;
+  border: 0;
+  cursor: pointer;
+  font-size: 12px;
+  padding: 10px 16px;
+  background: #E9ECF1;
+  margin-bottom: 8px;
+}
+
+.form_create-content__search-tag-button:hover {
+  opacity: 0.72;
+}
+
+.form_create-content__search-tag-del-img {
+  margin-left: 5px;
+  padding-left: 15px;
+  padding-top: 2px;
+  background-position: 91% 50%;
+  background-repeat: no-repeat;
+  background-image: url(../images/tag_delete.png);
+}
+
+.form_create-content__search-tag_found {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  margin-bottom: 5px;
+}
+
+.form_create-content__search-tag_selected {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+}
+
+.form_create-content__search-tag_found button {
+  border: none;
+  border-radius: 6px;
+  padding: 8px 8px 8px 12px;
+}
+
+.form_create-content__search-tag_selected button {
+  border: none;
+  background: rgba(255, 255, 255, 0.8);
+  border-radius: 6px;
+  padding: 8px 8px 8px 12px;
+}
+
+.form_create-content__select{
+  max-width: 250px;
+  cursor: pointer;
+  appearance: none;
+  background-image: url(../images/down.svg);
+  background-repeat: no-repeat;
+  background-position: 91% 50%;
+  border: none;
+}
+
+.form_create-content__select[name="level"]{
+  margin-left: auto;
+}
+
+.form_create-content__input_duration{
+  max-width: 160px;
+}
+
+.form_create-content_modal {
+  display: flex;
+  justify-content: space-between;
+  margin: 30px 30px 60px 40px;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: "Montserrat", Arial, sans-serif;
+  line-height: 28px;
+}
+
+.form_create-content_modal__close {
+  /*position: absolute;
+  top: 24px;
+  left: 450px;*/
+  width: 14px;
+  height: 14px;
+  background-image: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEgMUwxNSAxNSIgc3Ryb2tlPSJibGFjayIvPgo8cGF0aCBkPSJNMSAxNUwxNSAxIiBzdHJva2U9ImJsYWNrIi8+Cjwvc3ZnPgo=);
+  background-size: contain;
+  font: inherit;
+  color: inherit;
+  background-color: transparent;
+  cursor: pointer;
+  box-sizing: border-box;
+  background-position: center;
+  background-repeat: no-repeat;
+  border: 0;
+}
+
+.form_create-content__input_error{
+  border: 2px solid red;
+}
+
+.form_create-content .ql-toolbar button{
+  opacity: 0.4;
+}
+
+.form_create-content .ql-editor {
+  min-height: 100px;
+}
+
+.form_create-content .ql-snow .ql-tooltip{
+  left: auto !important;
+}
+
+.form_create-content__day-picker input{
+  box-sizing: border-box;
+  padding: 16px 20px;
+  background: #E9ECF1;
+  border-radius: 12px;
+  border: 0;
+  margin-bottom: 8px;
+  margin-left: 20px;
+  font-family: "Roboto", Arial, sans-serif;
+  font-weight: 400;
+  font-size: 12px;
+}
+
+.form_create-content__day-picker_error input{
+  border: 2px solid red;
+}

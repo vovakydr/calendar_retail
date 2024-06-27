@@ -1,0 +1,75 @@
+.pep-info {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  background-color: rgba(228, 0, 56, 0.1);
+  border-radius: 12px;
+  padding: 12px;
+  box-sizing: border-box;
+}
+
+.pep-info_type_scess {
+  background-color: rgba(139, 179, 216, 0.1);
+}
+
+.pep-info__text {
+  padding: 0;
+  margin: 0;
+}
+
+.pep-info__image {
+  background-image: url(../images/alert-triangle.svg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 25px;
+  height: 25px;
+  margin-right: 10px;
+  margin-top: 2px;
+}
+
+.pep-info__image_type_scess {
+  background-image: url(../images/alert-circle.svg);
+}
+
+.pep-info__buttons {
+  margin-top: 12px;
+  display: flex;
+}
+
+.pep-info__button-link {
+  display: block;
+  background-color: white;
+  border-radius: 10px;
+  padding: 6px 13px;
+  cursor: pointer;
+  margin-right: 12px;
+}
+
+.pep-info__button-instruction {
+  background: none;
+  border: 0;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.pep-info__popup-title {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.pep-info__popup-text {
+  font-size: 14px;
+}
+
+.pep-info__popup-text li::before {
+  content: none;
+}
+
+.pep-info__popup-img {
+  background-image: url("../images/cm.png");
+  width: 100%;
+  height: 45px;
+  margin-top: 8px;
+  margin-bottom: 16px;
+}

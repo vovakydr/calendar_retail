@@ -1,0 +1,53 @@
+.dko-projects {
+  padding: 0 36px;
+  margin-top: 20px;
+}
+
+.dko-projects h1 {
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 39px;
+}
+
+.dko-projects ul {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  list-style: none;
+  padding-inline-start: 0;
+}
+
+.dko-projects img {
+  height: 250px;
+}
+
+.dko-projects-icon {
+  height: 25px !important;
+}
+
+.dko-projects-item {
+  border: 1.5px solid #E70029;
+  height: 250px;
+  width: 249px;
+  border-radius: 12px;
+  background-color: white;
+  display: flex;
+  padding-left: 25px;
+  box-sizing: border-box;
+}
+
+.dko-projects-item img {
+  margin: auto 0 auto 0;
+  height: 60px !important;
+}
+
+.dko-projects-item div {
+  margin: auto auto auto 0;
+  font-size: 25px;
+  color: #474747;
+  font-weight: 800;
+}
+
+.dko-projects-link {
+  text-decoration: none;
+}

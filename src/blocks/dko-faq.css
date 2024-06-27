@@ -1,0 +1,94 @@
+.dko-faq__main_section {
+}
+
+.dko-faq__buttons button {
+  padding: 10px;
+  margin-bottom: 35px;
+  font-family: "Montserrat", Arial, sans-serif;
+
+}
+.dko-faq__cards{
+  display: flex;
+  flex-direction: column;
+/*  border: 2px solid black;*/
+  gap: 15px;
+}
+
+.dko-faq__card {
+/*  border: 2px solFid red;*/
+  display: flex;
+  height: 60px;
+/*  margin: 10px 0;*/
+  flex-direction: column;
+  cursor: pointer;
+}
+
+.dko-faq__card_open {
+/*  border: 2px solid blue;*/
+  height: auto;
+  flex-direction: column;
+  cursor: pointer;
+}
+
+.dko-faq__card_question {
+  margin: auto 24px;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 20px;
+}
+
+.dko-faq__card_open > .dko-faq__card_question {
+  margin: 24px;
+}
+
+.dko-faq__card_answer {
+  margin: 0 24px 24px 24px;
+  padding-right:60px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.dko-faq__card_answer b{
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.dko-faq__card_answer p{
+/*  border: 1px solid;*/
+/*  padding: 5px 0;*/
+  line-height: 19px;
+  font-size: 16px;
+}
+.dko-faq__card_answer a{
+  color: #E4003A;
+  text-decoration: none;
+  border-bottom: 1px dashed #E4003A;
+}
+
+.dko-faq__card_question__btn_up {
+  background-image: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOCIgaGVpZ2h0PSI2IiB2aWV3Qm94PSIwIDAgOCA2IiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgo8cGF0aCBkPSJNMC42MjUgNS4xMjVMNCAxLjM3NUw3LjM3NSA1LjEyNSIgc3Ryb2tlPSJibGFjayIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+Cjwvc3ZnPgo=);
+  background-repeat: no-repeat;
+  background-position: 97%;
+  background-size: 14px;
+}
+
+.dko-faq__card_question__btn_down {
+  background-image: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOCIgaGVpZ2h0PSI2IiB2aWV3Qm94PSIwIDAgOCA2IiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgo8cGF0aCBkPSJNNy4zNzUgMC44NzVMNCA0LjYyNUwwLjYyNSAwLjg3NSIgc3Ryb2tlPSJibGFjayIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+Cjwvc3ZnPgo=);
+  background-repeat: no-repeat;
+  background-position: 97%;
+  background-size: 14px;
+}
+
+.dko_page__btn_count {
+  display: inline;
+  background-color: #E9ECF1;
+  border-radius: 100px;
+  margin-left: 7px;
+  padding: 2px 5px;
+  color: black;
+  font-family: "Roboto", Arial, sans-serif;
+
+}
+

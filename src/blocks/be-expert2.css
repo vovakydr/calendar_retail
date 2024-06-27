@@ -1,0 +1,455 @@
+.be-exp {
+  max-width: 838px;
+  margin: 20px auto;
+  color:#151515;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.be-exp__logo_div {
+  padding-top: 100px;
+  width: 1000px;
+  display: flex;
+}
+.be-exp__logo {
+  width: 550px;
+}
+
+.be-exp * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.be-exp__shareKnow{
+  width: 100%;
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+}
+
+.be-exp__shareKnow_text{
+  margin-top: 5%;
+  max-width: 70%;
+  margin-right:10%;
+}
+
+.be-exp__shareKnow_text__title {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24px;
+  letter-spacing: -0.03em;
+  color:#00264E;
+}
+
+.be-exp__shareKnow_btn {
+  text-decoration: none;
+  color: #000;
+  font-size: 12px;
+  border: 1.2px solid #E20139;
+  padding: 15px 10px;
+  border-radius: 50px;
+  font-weight: 500;
+  transition: 0.5s ease;
+}
+
+.be-exp__shareKnow_btn:visited {
+  color: #000;
+}
+
+.be-exp__shareKnow_btn:hover {
+  color: #fff;
+  background-color: #E20139;
+  text-decoration: none;
+}
+
+
+.be-exp__goal__project {
+  font-size: 24px;
+  line-height: 29px;
+  font-weight: 600;
+}
+
+.be-exp__goal h3 {
+  font-size: 20px;
+  line-height: 24px;
+  font-weight: 600;
+}
+
+.be-exp__goal__project {
+  margin: 40px 0 10px 0;
+}
+
+.be-exp__goal p {
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.be-exp__goal__audience {
+  margin-top: 45px;
+  margin-bottom: 20px;
+  font-size: 24px;
+  line-height: 29px;
+  font-weight: 600;
+}
+
+.be-exp__goal__text {
+  position: absolute;
+  bottom: 24px;
+  left: 28px;
+  display: block;
+  font-size: 24px;
+  font-weight: bold;
+  color: #ffffff;
+}
+
+.be-exp__goal__img {
+  width: 334px;
+  height: 134px;
+  background-image: url(../images/exp_bank_new.jpg);
+  background-position-x: left;
+  background-position-y: top;
+  background-size: cover;
+  margin-bottom: 40px;
+  position: relative;
+}
+
+.be-exp__shareExp{
+  background-color: #383838;
+  width: 100%;
+  border-radius: 30px;
+  padding: 35px;
+  color: #fff;
+  margin-bottom: 50px;
+}
+
+.be-exp__shareExp__btn {
+  display: inline-block;
+  text-decoration: none;
+  color: #fff;
+  border: 1px solid #fff;
+  border-radius: 15px;
+  padding: 15px 15px;
+  margin-bottom: 20px;
+}
+
+.be-exp__shareExp p {
+  font-size: 16px;
+  line-height: 20px;
+  margin-bottom: 50px;
+}
+
+.be-exp__shareExp h3 {
+  font-size: 20px;
+  line-height: 24px;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+.be-exp__oportunities {
+  display: flex;
+  margin-bottom: 50px;
+  flex-wrap: wrap;
+}
+
+.be-exp__oportunities__left ul li,
+.be-exp__oportunities__right ul li {
+  font-size: 16px;
+}
+
+.be-exp__oportunities__left {
+  width: 380px;
+}
+
+.be-exp__oportunities__right {
+  width: 364px;
+}
+
+.be-exp__oportunities__left .be-exp__btn {
+  width: 66px;
+  height: 29px;
+  border: none;
+  outline: none;
+  border-radius: 10px;
+  margin-right: 5px;
+  background-color: #fff;
+  font: 400 13px Arial;
+}
+
+.be-exp__oportunities__right .be-exp__btn {
+  width: 91px;
+  height: 29px;
+  border: none;
+  outline: none;
+  border-radius: 10px;
+  background-color: #fff;
+  font: 400 13px Arial;
+}
+
+.be-exp__questionnaire {
+  display: flex;
+  align-items: flex-end;
+  margin: 0;
+  padding-bottom: 15px;
+  border-bottom: 1.5px solid #fff;
+}
+
+.be-exp__questionnaire p {
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 400;
+  margin-bottom: 0;
+}
+
+.be-exp__questionnaire__btn {
+  text-decoration: none;
+  color:#E20139;
+  padding: 15px 25px;
+  border: 1px solid #E20139;
+  border-radius: 30px;
+  transition: 0.5s ease;
+  margin-left: auto;
+}
+
+.be-exp__questionnaire__btn:hover {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.be-exp__questionnaire__btn:hover .be-exp__questionnaire__arrow {
+  fill: #ffffff;
+  transition: 0.5s ease;
+}
+
+.be-exp__questionnaire__btn:hover {
+  background-color: #E20139;
+}
+
+.be-exp__questionnaire__arrow {
+  width: 30px;
+  fill: #E20139;
+  transition: 0.5s ease;
+}
+
+.be-exp__learning {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 3px solid #fff;
+  font-weight: 500;
+  margin-bottom: 30px;
+  text-decoration: none;
+  color: #000;
+  transition: 0.5s ease;
+  font-size: 14px;
+}
+
+.be-exp__learning:hover {
+  color: #E20139;
+  border-color: #E20139;
+}
+
+.be-exp__learning p {
+  margin: 0;
+}
+
+.be-exp__materials {
+  background-color: #fff;
+  padding: 30px;
+  border-radius: 15px;
+  position: relative;
+  display: block;
+  text-decoration: none;
+  color: #E20139;
+  transition: all 0.5s ease;
+  border: 1px solid #ffffff;
+  box-sizing: border-box;
+}
+
+.be-exp__materials:visited {
+  color: #E20139;
+  border: 1px solid #ffffff;
+}
+
+.be-exp__materials:hover {
+  box-sizing: border-box;
+  background-image: linear-gradient(to right, #ffffff, #fff6f7);
+  color: #000000;
+  border: 1px solid #fff6f7;
+  transition: all 0.5s ease;
+}
+
+.be-exp__materials:hover .beExpert {
+  color: #000000;
+}
+
+.be-exp__materials p {
+  margin: 0;
+}
+
+.be-exp__materials .beExpert {
+  font-size: 14px;
+  font-weight: normal;
+  position: absolute;
+  right: 10px;
+  bottom: 10px;
+  text-decoration: none;
+  color: #E20139;
+  transition: 0.5s ease;
+}
+
+.be-exp__materials__arrow-black {
+  fill: #E20139;
+  width: 70px;
+  height: 8px;
+  transition: 0.5s ease;
+}
+
+.be-exp__materials:hover .be-exp__materials__arrow-black {
+  fill: #000000;
+  transition: 0.5s ease;
+}
+
+.be-exp__expertise__text {
+  padding-left: 15px;
+}
+
+.be-exp__expertise__text ul {
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: auto;
+  gap: 10px;
+  margin-top: 30px;
+}
+
+.be-exp__expertise__text ul li {
+  font-size: 16px;
+}
+
+.be-exp__oportunities__left-text,
+.be-exp__oportunities__right-text {
+  margin: 30px 0 0 15px;
+  height: 160px;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+.be-exp__oportunities__left-text ul,
+.be-exp__oportunities__right-text ul {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+}
+
+.be-exp__getExpertise {
+  background-color: #e9ecf1;
+  width: 100%;
+  border-radius: 30px;
+  padding: 35px;
+  color: rgb(0, 0, 0);
+  margin-bottom: 50px;
+}
+
+.be-exp__getExpertise__btn {
+  display: inline-block;
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+  border: 1.5px solid rgb(0, 0, 0);
+  border-radius: 15px;
+  padding: 15px 15px;
+  margin-bottom: 20px;
+  font-weight: 500;
+}
+
+.be-exp__getExpertise p {
+  font-size: 16px;
+  line-height: 20px;
+  margin-bottom: 50px;
+}
+
+.be-exp__getExpertise h3 {
+  font-size: 20px;
+  line-height: 24px;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+.be-exp__recomendation {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 50px 0 0 0;
+}
+
+.be-exp__recomendation p {
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 400;
+  margin-bottom: 0;
+}
+
+.be-exp__recomendation__btn {
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+  padding: 15px 10px;
+  border: 1px solid #E20139;
+  border-radius: 30px;
+  margin-left: 20px;
+  transition: 0.5s ease;
+  font-size: 12px;
+  margin-top: auto;
+}
+
+.be-exp__recomendation__btn:hover {
+  color: #fff;
+  background-color: #E20139;
+}
+
+.be-exp__footer {
+  padding: 10px 0 0 0;
+}
+
+.be-exp__footer p {
+  margin-bottom: 0px;
+}
+
+.be-exp__footer__container {
+  width: 838px;
+  height: auto;
+  margin: 0 auto;
+  font-size: 14px;
+  line-height: 18px;
+  font-weight: 400;
+}
+
+.be-exp__contact {
+  text-decoration: none;
+  color: #000;
+  border-bottom: 1.5px dotted #E20139;
+  font-size: 16px;
+}
+.be-exp__shareExp-cont {
+  display: flex;
+  margin-bottom: 30px;
+}
+
+.be-exp__shareExp-txt {
+  padding: 0 20px 0 0;
+  width: 50%;
+}
+
+.be-exp__topicsExp{
+  margin-bottom: 50px;
+}
+
+.be-exp__topicsExp h3{
+  margin-top: 45px;
+  margin-bottom: 20px;
+  font-size: 24px;
+  line-height: 29px;
+  font-weight: 600;
+}

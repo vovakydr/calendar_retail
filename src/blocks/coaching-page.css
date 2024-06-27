@@ -1,0 +1,316 @@
+.coaching-page {
+  max-width: 828px;
+  margin: 65px auto;
+  color: #151515;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.coaching-page h1 {
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 39px;
+}
+
+.coaching-page h2 {
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 29px;
+}
+
+.coaching-page b {
+  font-weight: 600;
+}
+
+.coaching-page li {
+  padding-bottom: 8px;
+}
+
+.coaching-page ul {
+  padding-left: 0px;
+  list-style: none;
+}
+
+.coaching-page ul > li::before {
+  content: "•";
+  min-width: 15px;
+  padding-right: 5px;
+  color: #E70029;
+}
+
+.coaching-page ul > li {
+  display: flex;
+}
+
+
+.coaching-page__about {
+  margin-bottom: 64px;
+}
+
+.coaching-page__tiles {
+  margin-top: 35px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 35px;
+}
+
+.coaching-page__tile {
+  display: flex;
+  width: 389px;
+}
+
+.coaching-page__tile_img {
+  background-size: cover;
+  min-width: 58px;
+  height: 58px;
+  margin-right: 26px;
+}
+
+.coaching-page__tile > div {
+}
+
+.coaching-page_img_hat {
+  background-image: url(../images/coaching-page-hat.png);
+}
+
+.coaching-page_img_magnifier {
+  background-image: url(../images/coaching-page-magnifier.png);
+}
+
+.coaching-page_img_chain {
+  background-image: url(../images/coaching-page-chain.png);
+}
+
+.coaching-page_img_crystal {
+  background-image: url(../images/coaching-page-crystal.png);
+}
+
+.coaching-page__target_audience {
+  display: flex;
+  justify-content: space-between;
+}
+
+.coaching-page__target_audience1 {
+  padding: 24px 24px 10px 24px;
+}
+
+.coaching-page__target_audience1 ol {
+  padding: 0 20px;
+}
+
+.coaching-page__target_audience1 li {
+  padding-bottom: 14px;
+}
+
+.coaching-page__application {
+  margin-top: 65px;
+}
+
+.coaching-page__application_lists {
+  display: flex;
+  justify-content: space-between;
+}
+
+.coaching-page__application_text {
+  margin-bottom: 24px;
+}
+
+.coaching-page__application li {
+  padding-bottom: 12px;
+}
+
+.coaching-page__what {
+  margin-top: 65px;
+}
+
+.coaching-page__what_card_img {
+  display: flex;
+  background-size: cover;
+  background: #E70029;
+  width: 47px;
+  height: 47px;
+  margin-right: 15px;
+  border-radius: 12px;
+}
+
+.coaching-page__what_card_img img {
+  height: 60%;
+  margin: auto;
+}
+
+.coaching-page .img_width_group img {
+  height: 45%;
+}
+
+.coaching-page .img_width_paid img {
+  height: 70%;
+}
+
+.coaching-page__what_card {
+  display: flex;
+  background: #FFFFFF;
+  box-shadow: 0px 8px 24px rgba(18, 18, 18, 0.16);
+  border-radius: 12px;
+  padding: 38px 32px 32px 25px;
+  margin-bottom: 24px;
+}
+
+.coaching-page__what_card_line {
+  background: #E5E8EF;
+  height: 1px;
+  margin: 12px 0;
+  width: auto;
+}
+
+.coaching-page__what_card ul > li::before {
+  color: black;
+  padding-left: 10px;
+}
+
+.coaching-page__what_card li {
+  padding: 0px;
+}
+
+.coaching-page__what_card ul {
+  margin-top: 0px;
+}
+
+.coaching-page__what_card_cost {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+.coaching-page__what_card_width {
+  width: 402px;
+  box-sizing: border-box;
+}
+
+.coaching-page__what_card_note {
+  font-style: italic;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+}
+
+.coaching-page__programs {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 29px;
+}
+
+.coaching-page__program {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #E40038;
+  box-shadow: 0px 8px 24px rgba(4, 19, 50, 0.12);
+  border-radius: 12px;
+  width: 332px;
+  padding: 36px 32px 46px 32px;
+}
+
+.coaching-page__program_h2 {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 28px;
+  margin: 12px 0 12px 0;
+}
+
+.coaching-page__program_text {
+  font-family: 'Roboto', Arial, sans-serif;;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 21px;
+}
+
+.coaching-page__program_mark {
+  margin: 0 auto 0 0;
+}
+
+.coaching-page__statement {
+  margin-top: 48px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.coaching-page__statement__btn_div {
+  margin-top: auto;
+  margin-bottom: 14px;
+}
+
+.coaching-page__check {
+  display: flex;
+  margin-top: 40px;
+  margin-bottom: 32px;
+
+}
+
+.coaching-page__img_check {
+  margin: auto 28px auto 0;
+  background-size: cover;
+  background-image: url(../images/coaching-page-check.png);
+  width: 32px;
+  height: 32px;
+}
+
+
+.coaching-page__btn {
+  border: 0;
+  cursor: pointer;
+  text-decoration: none;
+  background: #E70029;
+  opacity: 0.8;
+  border-radius: 12px;
+  color: white;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  font-family: "Montserrat", Arial, sans-serif;
+  padding: 16px 24px;
+  margin: auto auto 0 0;
+  box-sizing: border-box;
+}
+
+.coaching-page__btn:hover {
+  opacity: 1;
+}
+
+.coaching-page__goals {
+  margin-top: 64px;
+}
+
+.coaching-page__results {
+  margin-top: 45px;
+}
+
+.coaching-page__results_list div:nth-child(1) {
+  width: 327px;
+}
+
+.coaching-page__results_list div:nth-child(2) {
+  width: 475px;
+}
+
+.coaching-page .width_line {
+  width: 100%;
+  margin-bottom: 72px;
+}
+
+.coaching-page__footer p {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+}
+
+.coaching-page__footer a {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 28px;
+}

@@ -1,0 +1,86 @@
+.new-materials {
+  padding: 0 36px;
+  margin-top: 20px;
+}
+
+.new-material {
+  background: #FFFFFF;
+  border-radius: 12px;
+  box-shadow: 0px 8px 24px rgba(4, 19, 50, 0.04);
+  margin-top: 8px;
+  padding: 24px 32px 32px 32px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.new-materials h2 {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 40px;
+  letter-spacing: -0.03em;
+}
+
+.new-material__content {
+  max-width: 500px;
+}
+
+.new-material__display-name {
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 28px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.new-material__controls {
+  display: flex;
+}
+
+.new-material__controls button {
+  margin-top: 0;
+  height: 36px;
+  padding: 10px 16px;
+  border-radius: 12px;
+  border: 0;
+  cursor: pointer;
+  font-size: 12px;
+  font-family: "Roboto", Arial, sans-serif;
+  font-weight: 400;
+  line-height: 16px;
+  letter-spacing: 0em;
+}
+
+.new-material__btn-approve {
+  background: #E40038;
+  color: white;
+  margin-left: 32px;
+}
+
+.new-material__btn-skip {
+  margin-left: 8px;
+}
+
+.new-material__btn-edit {
+  height: 36px;
+  width: 36px;
+  color: black;
+  background-image: url(../images/PencilSimple.png);
+  background-repeat: no-repeat;
+  background-position: 52% 50%;
+  background-size: 19px;
+}
+
+.new-material__btn-edit_right{
+  justify-content: right;
+}
+
+.new-material .popup__wrapper {
+  padding: 10px 40px 20px 40px;
+}
+
+.new-material .popup__wrapper button:nth-child(3){
+  margin-left: 10px;
+}
+
+
+

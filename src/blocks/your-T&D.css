@@ -1,0 +1,156 @@
+.your-TD__main_section {
+}
+
+.your-TD {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.your-TD > div:nth-of-type(1) {
+
+}
+
+.your-TD__explanation {
+  line-height: 18px;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+.your-TD__info {
+  display: flex;
+  flex-direction: row;
+  width: 55%;
+  justify-content: flex-end;
+}
+
+.your-TD__info_img {
+  width: 120px;
+  height: 120px;
+  margin: 10px 15px 0px 0px;
+}
+
+.your-TD__info_text {
+  padding: 19px 0px;
+  max-width: 376px;
+  min-width: 376px;
+}
+
+.your-TD__info_text a{
+  margin-left: 11px;
+}
+
+.your-TD__info_text ul {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 18px;
+}
+
+.your-TD__info_text_position {
+  font-weight: 300;
+  font-size: 14px;
+  font-family: "Roboto", Arial, sans-serif;
+  margin-left: 12px;
+}
+
+.your-TD__info_text_fio {
+  padding-left: 10px;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 28px;
+}
+
+.your-TD__line {
+  background: #E40038;
+  height: 1px;
+  margin: 32px 0;
+}
+
+.your-TD__info_img_small {
+  width: 80px;
+  height: 80px;
+  min-width: 80px;
+  margin: 10px;
+}
+
+.your-TD__all_carousel {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  height: 300px;
+}
+
+.your-TD__all_carousel_cards {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.your-TD__all_carousel_button {
+  border: 1px solid #E40038;
+  background: #E40038;
+  width: 40px;
+  height: 40px;
+  min-width: 40px;
+  cursor: pointer;
+}
+
+.your-TD__all_carousel_button_left {
+  margin: 30px 40px 0px 0px;
+}
+
+.your-TD__all_carousel_button_right {
+  margin: 30px 0px 0px 40px;
+}
+
+.your-TD__info_carousel_card {
+  max-width: 49%;
+  display: none;
+}
+
+.your-TD__all_carousel-indicators {
+  display: flex;
+  margin-top: 10px;
+}
+
+.your-TD__all_carousel-indicators div {
+  margin: 0 auto;
+}
+
+.your-TD__all_carousel-indicators_active {
+  background: #E40038 !important;
+}
+
+.your-TD__all_carousel-indicators button {
+  width: 50px;
+  background: rgba(228, 0, 58, 0.2);
+  margin: 0 2px;
+  padding-top: 3px;
+  border-radius: 10px;
+  border: 0;
+  cursor: pointer;
+}
+
+.your-TD__info_display {
+  display: flex;
+}
+
+.your-TD__flagReverse {
+  flex-direction: row-reverse;
+}
+
+.your-TD__description {
+  max-width: 45%;
+}
+
+.your-TD__info_modal{
+  display: flex;
+}
+
+.your-TD__info_modal_text {
+ margin: auto;
+}
+
+
+

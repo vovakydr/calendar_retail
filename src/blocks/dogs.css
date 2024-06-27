@@ -1,0 +1,12 @@
+.dogs{
+display: grid;
+grid-template-columns: 100px 1fr;
+grid-template-rows: 1fr;
+max-width: 50%;
+margin: 10% auto auto auto;
+}
+
+.dogs-text{
+padding: 5px 25px;
+font-size: 14px;
+}

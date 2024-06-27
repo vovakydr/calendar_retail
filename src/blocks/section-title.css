@@ -1,0 +1,41 @@
+.section-title {
+  display: flex;
+  align-self: center;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 40px;
+  padding: 0;
+  letter-spacing: -0.03em;
+  margin: 0;
+  cursor: pointer;
+  color: #00264E;
+}
+
+.section-title__button {
+  background-image: url(../images/up.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  border: 0;
+  min-height: 7px;
+  background-position: 100% 50%;
+  background-color: inherit;
+  cursor: pointer;
+  padding: 0;
+  padding-right: 20px;
+  position: relative;
+  overflow: hidden;
+  margin-left: 0;
+}
+
+
+.section-title__button_hidden {
+  background-image: url(../images/downSection.svg);
+  background-position: 100% 50%;
+}
+
+.section-title_size_small {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 40px;
+  cursor: pointer;
+}

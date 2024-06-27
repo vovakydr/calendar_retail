@@ -1,0 +1,162 @@
+.cx-academy {
+
+  max-width: 838px;
+  margin: 65px auto;
+  color:#151515;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.cx-academy__title {
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 40px;
+  padding: 0;
+  letter-spacing: -0.03em;
+  margin: 0;
+}
+
+.cx-academy__subtitle {
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 29px;
+  margin: 0 0 24px 0;
+}
+
+.cx-academy__logo {
+  width: 328px;
+}
+
+.cx-academy__text {
+  max-width: 713px;
+  margin: 16px 0;
+}
+
+.cx-academy__text_type_target  {
+  margin-bottom: 24px;
+}
+
+.cx-academy__text_type_result {
+  max-width: 100%;
+}
+.cx-academy__text_type_awards {
+  margin-top: 0;
+}
+
+.cx-academy__info {
+  margin-top: 32px;
+  margin-bottom: 64px;
+  box-shadow: 0px 8px 24px rgba(0, 0, 0, 0.16);
+  border-radius: 12px;
+  padding: 32px;
+}
+
+.cx-academy__info-container {
+  display: flex;
+  justify-content: space-between;
+}
+.cx-academy__info-text {
+  margin: 0;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+}
+
+.cx-academy__info-text_type_main {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20px;
+  margin: 8px 0 0 0;
+}
+
+.cx-academy__list {
+  padding-left: 16px;
+}
+
+.cx-academy__list-item {
+  margin-top: 38px;
+}
+
+.cx-academy__list-item_name_result {
+  margin-top: 2px;
+}
+
+.cx-academy__list-item:last-of-type{
+  margin-bottom: 42px;
+}
+.cx-academy__list-item_name_result:last-of-type {
+  margin-bottom: 0;
+}
+.cx-academy__info-button-container {
+  margin-bottom: 10px;
+}
+.cx-academy__info-button {
+  padding: 16px 32px;
+  border-radius: 12px;
+  color: #FFFFFF;
+  background: rgba(231, 0, 41, 0.8);
+  border: 0;
+  text-decoration: none;
+  cursor: pointer;
+  height: 48px;
+  box-sizing: border-box;
+  margin-top: 32px;
+}
+
+.cx-academy__info-button:hover {
+  background: rgba(231, 0, 41, 1);
+}
+
+.cx-academy__results {
+  display: flex;
+  margin-top: 24px;
+  margin-bottom: 64px;
+}
+
+.cx-academy__result {
+  padding: 32px;
+  color: #FFF3F3;
+  background: #E70029;
+  border: 1px solid #E70029;
+  box-shadow: 0px 8px 24px rgba(4, 19, 50, 0.04);
+  border-radius: 12px;
+
+}
+
+.cx-academy__result_name_values {
+  width: 40%;
+  margin-left: 24px;
+}
+
+.cx-academy__result-title {
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+  margin: 0;
+}
+
+.cx-academy__awards {
+  display: flex;
+}
+.cx-academy__img-awards {
+  width: 336px;
+}
+.cx-academy__awards-texts {
+  margin-left: 24px;
+}
+
+.cx-academy__footer {
+  margin-top: 40px;
+  padding-top: 24px;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 20px;
+}
+
+.cx-academy .target-audience{
+  margin-bottom: 32px;
+}
+

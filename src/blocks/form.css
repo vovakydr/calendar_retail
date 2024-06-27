@@ -1,0 +1,252 @@
+.form {
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+  overflow-y: auto;
+  height: 100%;
+}
+
+.form__header {
+  border-bottom: 1px solid #E5E8EF;
+  padding-bottom: 24px;
+}
+
+.form__title {
+  font-style: normal;
+  font-size: 24px;
+  line-height: 40px;
+  margin-top: 0;
+  margin-bottom: 16px;
+  color: #00264E;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+.form__subtitle {
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 24px;
+  margin: 0;
+  font-family: "Roboto", Arial, sans-serif;
+}
+
+.form__inputs {
+  margin-top: 24px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.form__input {
+  box-sizing: border-box;
+  padding: 16px 20px;
+  background: #E9ECF1;
+  border-radius: 12px;
+  border: 0;
+  outline: none;
+  width: 100%;
+  margin-bottom: 8px;
+  font-family: "Roboto", Arial, sans-serif;
+  font-weight: 400;
+  font-size: 12px;
+}
+
+.form__input_type_redact {
+  background: 0;
+  border: 1px solid #E9ECF1;
+}
+
+.form__input_type_description {
+  resize: vertical;
+  overflow: auto;
+  max-width: 100%;
+  min-height: 96px;
+  margin-bottom: 26px;
+}
+
+.form__buttons {
+  margin-top: auto;
+  display: flex;
+  padding-top: 24px;
+  border-top: 1px solid #E5E8EF;
+  justify-content: space-between;
+}
+
+.form__button {
+  padding: 16px 32px;
+  border-radius: 12px;
+  color: #FFFFFF;
+  background: #E4003A;
+  border: 0;
+}
+
+.form__button:hover {
+  background: #E70029;
+  cursor: pointer;
+}
+
+.form__button_type_calendar {
+  background: #E9ECF1;
+  color: #000000;
+  padding-top: 0;
+  display: flex;
+  align-items: center;
+  padding-top: 16px;
+}
+
+.form__button-img {
+  margin-left: 34px;
+  margin-bottom: 4px;
+}
+
+.form__button-text {
+  padding: 0;
+  margin: 0;
+}
+
+.form__button.form__button_type_calendar:hover {
+  background: #E9ECF1;
+  color: #000000;
+  opacity: 0.72;
+}
+
+.form__button_position_left {
+  margin-left: auto;
+}
+
+.form::-webkit-scrollbar {
+  margin-left: 10px;
+  width: 8px;
+}
+
+.form::-webkit-scrollbar-track {
+  width: 6px;
+  background-color: #E9ECF1;
+  box-shadow: 0px 16px 32px rgba(4, 19, 50, 0.12);
+}
+
+.form:-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  background-color: #BBBFC4;
+}
+
+.form__descript-container {
+  display: flex;
+  align-items: flex-start;
+}
+
+.form__descript {
+  font-style: normal;
+  font-weight: 300;
+  font-size: 12px;
+  line-height: 24px;
+  opacity: 0.4;
+  margin: 0;
+  margin-left: 9px;
+}
+
+.form__descript-img {
+  margin-top: 4px;
+}
+
+.form__switcher-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 26px;
+}
+
+.form__switcher-text {
+  margin: 0;
+  font-weight: 300;
+  font-size: 12px;
+  line-height: 20px;
+  margin-left: 8px;
+}
+
+.form__link {
+  color: black;
+  text-decoration: none;
+  border-bottom: 1px dashed #E70029;
+}
+
+.form__switch {
+  position: relative;
+  display: inline-block;
+  width: 40px;
+  height: 24px;
+}
+
+.form__switch input {
+  display: none;
+}
+
+.form__slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ccc;
+  -webkit-transition: .4s;
+  transition: .4s;
+  border-radius: 12px;
+}
+
+.form__slider:before {
+  position: absolute;
+  content: "";
+  height: 20px;
+  width: 20px;
+  left: 2px;
+  bottom: 2px;
+  background-color: white;
+  -webkit-transition: .4s;
+  transition: .4s;
+  border-radius: 12px;
+}
+
+.form__switch-input:checked + .form__slider {
+  background-color: #E70029;;
+}
+
+.form__switch-input:focus + .form__slider {
+  box-shadow: 0 0 1px #E70029;
+}
+
+.form__switch-input:checked + .form__slider:before {
+  -webkit-transform: translateX(16px);
+  -ms-transform: translateX(16px);
+  transform: translateX(16px);
+}
+
+.form__button_passive {
+  background-color: rgba(233, 236, 241, 0.4);
+  color: inherit;
+}
+
+.form__button_passive:hover {
+  background-color: rgba(233, 236, 241, 1);
+}
+
+.form__select {
+  cursor: pointer;
+  appearance: none;
+  background-image: url(../images/down.svg);
+  background-repeat: no-repeat;
+  background-position: 91% 50%;
+}
+
+.form__select {
+  cursor: pointer;
+  appearance: none;
+  background-image: url(../images/down.svg);
+  background-repeat: no-repeat;
+  background-position: 91% 50%;
+  border: none;
+}
+
+.form__textarea_hidden {
+  display: none;
+}

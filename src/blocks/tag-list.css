@@ -1,0 +1,41 @@
+.new-traj-tag-list {
+  margin-left: 0;
+  margin-bottom: 32px;
+  padding-left: 0;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.new-traj-tag-list__tag {
+  display: block;
+  list-style-type: none;
+  cursor: pointer;
+  line-height: 16px;
+  padding: 12px 16px;
+  border-radius: 0;
+  border: 1px solid #DDE1E9;
+  border-radius: 12px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  text-decoration: none;
+  color: black;
+}
+
+.new-traj-tag-list__tag:hover {
+  border: 1px solid #BBBFC4;
+}
+
+
+.new-traj-tag-list__count {
+  background: #DDE1E9;
+  border-radius: 16px;
+  padding: 5px 9px;
+  margin-left: 6px;
+}
+
+.new-traj-tag__link {
+  color: black;
+  opacity: 1;
+  font-family: "Roboto", Arial, sans-serif;
+  font-weight: 300;
+}

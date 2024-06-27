@@ -1,0 +1,140 @@
+.get-to-study__main_section {
+}
+
+.get-to-study{
+  margin-bottom: 65px;
+}
+
+.get-to-study__cards {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.get-to-study__card {
+  padding: 32px 32px;
+  width: 450px;
+  display: flex;
+  flex-direction: column;
+}
+
+.get-to-study__cards > div:nth-of-type(3) {
+  margin-top: 43px;
+}
+
+.get-to-study__cards .about-dko__divisions_text_h3 {
+  margin-bottom: 15px;
+}
+.get-to-study__card_description{
+  font-family: "Roboto", Arial, sans-serif;
+  font-weight: 300;
+  line-height: 18px;
+}
+
+.get-to-study__card_description ol {
+  padding-left: 20px;
+}
+
+/*ol li:before {
+  color: #ef6780;
+}*/
+
+.get-to-study__btn_div {
+  display: flex;
+  justify-content: flex-end;
+  width: 100%;
+  margin: auto auto 0 0;
+  padding-top: 18px;
+}
+
+.get-to-study__main_section .dko_page__btn {
+  padding: 10px 16px;
+  background: #E40038;
+  color: white;
+  margin: auto auto 0 0;
+  text-decoration: none;
+}
+
+.get-to-study__btn_link {
+  width: 250px;
+  line-height: 18px;
+  font-size: 12px;
+  font-weight: 300;
+  margin: auto 0 0 auto;
+  font-family: "Roboto", Arial, sans-serif;
+}
+
+.get-to-study__btn_link a{
+  font-weight: 300;
+  color: black;
+  text-decoration: none;
+  border-bottom: 1px dashed #E4003A;
+}
+
+
+.get-to-study__budget_text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  padding-bottom: 10px;
+}
+
+.get-to-study__budget_cards {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.get-to-study__budget_card {
+  width: 280px;
+  padding: 25px;
+  display: flex;
+  flex-direction: column;
+}
+
+.get-to-study__budget_card_head {
+  height: 80px;
+}
+
+.get-to-study__budget_card_text {
+  font-weight: 400;
+  line-height: 18px;
+}
+
+.get-to-study__budget_card_text span {
+  font-weight: 600;
+  display: block;
+}
+
+.get-to-study__budget_card_contact {
+  display: flex;
+  height: 75px;
+  margin-top: auto;
+}
+
+.get-to-study__budget_card_contact_img {
+  width: 60px;
+  height: 60px;
+  margin: auto 0px 10px 0;
+}
+.get-to-study__contact_person{
+  font-family: "Roboto", Arial, sans-serif;
+  font-weight: 300;
+  font-size: 12px;
+
+}
+
+.get-to-study__budget_card_contact_text {
+  padding-left: 19px;
+  margin: auto 0 0 0;
+}
+
+.get-to-study__budget_card_contact_fio {
+  font-weight: 600;
+  font-size: 20px;
+}
+
+
+
+
