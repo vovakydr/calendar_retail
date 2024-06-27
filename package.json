@@ -1,0 +1,46 @@
+{
+  "name": "new-calendar",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "postbuild": "npm run manipulate-files && npm run copy-files",
+    "manipulate-files": "move dist\\index.html dist\\index_tmp.html && type wt.html dist\\index_tmp.html >> dist\\index.html && del dist\\index_tmp.html && sed -i \"s/%%CUR_USER_ID%%/<%=curUserID%>/\" dist\\index.html && move dist\\index_tmp.html dist\\index.html",
+    "copy-files": "xcopy /s /e \"C:\\Users\\kosti\\OneDrive\\Documents\\ROSproj\\calendarApp-0ba69c41b868e1750ec20beb4b71d99ca9f6def4\\dist\\*\" \"C:\\Users\\kosti\\OneDrive\\Documents\\ROSproj\\BUILDCALENDAR\"",
+    "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+    "preview": "vite preview",
+    "db": "json-server db.json --routes routes.json"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.0.1",
+    "axios": "^1.6.5",
+    "dayjs": "^1.11.10",
+    "fast-copy": "^3.0.2",
+    "fast-memoize": "^2.5.2",
+    "history": "^5.3.0",
+    "humanize-duration": "^3.31.0",
+    "json-server": "^1.0.0-alpha.21",
+    "nanoid": "^5.0.4",
+    "prop-types": "^15.8.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-fast-compare": "^3.2.2",
+    "react-hook-form": "^7.49.3",
+    "react-icons": "^4.12.0",
+    "react-redux": "^9.1.0",
+    "react-router-dom": "^6.21.2",
+    "redux-persist": "^6.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.43",
+    "@types/react-dom": "^18.2.17",
+    "@vitejs/plugin-react": "^4.2.1",
+    "eslint": "^8.55.0",
+    "eslint-plugin-react": "^7.33.2",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-refresh": "^0.4.5",
+    "vite": "^5.0.8"
+  }
+}
