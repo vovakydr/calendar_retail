@@ -12,9 +12,9 @@ import { isSubmitted } from "../features/calendar/calendarSlice";
 
 const SearchForm = () => {
     const {
-      spec,
-      boss,
       registred,
+      spec,
+      for_type,
       free_places,
       for_lectors,
       subordinates,
@@ -39,9 +39,9 @@ const SearchForm = () => {
       buttonDisabled,
       dispatch,
       isSubmitted,
-      spec,
-      boss,
       registred,
+      spec,
+      for_type,
       free_places,
       for_lectors,
       subordinates,
@@ -51,9 +51,9 @@ const SearchForm = () => {
     useEffect(() => {
       filteredLogic();
     }, [
-      spec,
-      boss,
       registred,
+      spec,
+      for_type,
       free_places,
       for_lectors,
       subordinates,

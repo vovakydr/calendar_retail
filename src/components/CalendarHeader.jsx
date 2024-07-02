@@ -29,8 +29,8 @@ const CalendarHeader = () => {
     };
 
     const handleNextMonth = () => {
-        dispatch(prevMonth());
-        const newMonthIndex = monthIndex - 1;
+        dispatch(nextMonth());
+        const newMonthIndex = monthIndex + 1;
         const queryParams = new URLSearchParams();
         queryParams.set("monthIndex", newMonthIndex.toString());
         const queryString = queryParams.toString();

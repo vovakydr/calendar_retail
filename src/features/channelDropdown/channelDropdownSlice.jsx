@@ -38,12 +38,12 @@ const initialState = {
 
 
 const testData = {
-    "Фронт": "channel_1",
-    "Премиум": "channel_2",
-    "МБ": "channel_3",
-    "РБ Дом": "channel_4",
-    "Payroll": "channel_5",
-    "DSA": "channel_6"
+    "Фронт": "channel_1][Фронт",
+    "Премиум": "channel_2][Премиум",
+    "МБ": "channel_3][МБ",
+    "РБ Дом": "channel_4][РБ Дом",
+    "Payroll": "channel_5][Payroll",
+    "DSA": "channel_6][DSA"
 };
 
 const channelsDropdownSlice = createSlice({

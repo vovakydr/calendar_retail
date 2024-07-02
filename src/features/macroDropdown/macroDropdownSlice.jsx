@@ -27,7 +27,7 @@ export const fetchDropDownMacros = createAsyncThunk(
     }
   }
 );
-console.log("fetchDropDownMacros - "+fetchDropDownMacros)
+
 const initialState = {
   info: "Макрорегион",
   isOpen: false,
@@ -41,8 +41,8 @@ const initialState = {
 
 
 const testData = {
-    "Сибирский1": "macroregion_1",
-    "Дальневосточный": "macroregion_2",
+    "Сибирский1": "macroregion_1][Сибирский",
+    "Дальневосточный": "macroregion_2][Дальневосточный",
     "Московский": "macroregion_3",
     "Северо-Западный": "macroregion_4",
     "Центр-Юг": "macroregion_7",

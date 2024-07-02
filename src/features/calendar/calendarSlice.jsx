@@ -3,7 +3,7 @@ import dayjs from "dayjs";
 import axios from "axios";
 import { getNewData } from "../../utils";
 import { getMonth } from "../../getMonth";
-import { events } from "../../data";
+import { events as testEvents } from "../../data";
 
 // ---TEST URL---
 // const url = "/custom_web_template.html?object_id=6673451655755009275";
@@ -11,7 +11,7 @@ import { events } from "../../data";
 // ---PROD URL---
 const url = "/custom_web_template.html?object_id=7009797198158191181";
 
- //const url = "http://localhost:5173/events";
+// const url = "http://localhost:3000/events";
 
 export const getCalendarEvents = createAsyncThunk(
   "calendar/getCalendarEvents",
@@ -37,7 +37,8 @@ export const getCalendarEvents = createAsyncThunk(
         return data;
       }
     } catch (error) {
-      return thunkAPI.rejectWithValue(error.response);
+      return thunkAPI.rejectWithValue(testEvents);
+      //return thunkAPI.rejectWithValue(error.response);
     }
   }
 );
@@ -101,6 +102,7 @@ const calendarSlice = createSlice({
       .addCase(getCalendarEvents.rejected, (state, action) => {
         state.isLoading = false;
         console.log(action.error);
+        state.calendarEvents = action.payload || testEvents;
       });
   },
 });

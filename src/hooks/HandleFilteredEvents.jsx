@@ -3,6 +3,8 @@ import { filterEvents } from "../features/calendar/calendarSlice";
 import { updateMonthIndex } from "../features/calendar/calendarSlice";
 import dayjs from "dayjs";
 
+
+
 const useHandleFilteredEvents = (
   navigate,
   conditions,
@@ -10,20 +12,20 @@ const useHandleFilteredEvents = (
   buttonDisabled,
   dispatch,
   isSubmitted,
-  spec,
-  boss,
   registred,
+  spec,
+  for_type,
   free_places,
   for_lectors,
   subordinates,
   location
 ) => {
   const { calendarEvents } = useSelector((store) => store.calendar);
-
+  const { debugStore } = useSelector((store) => store);
   const { searchValue } = useSelector((store) => store.searchBarFilter);
   const { formatValue } = useSelector((store) => store.formatDropdown);
   const { typeValue } = useSelector((store) => store.typesDropdown);
-  const { macroValue } = useSelector((store) => store.macrosDropdown);
+  const { macroValue, dropDownMacros } = useSelector((store) => store.macrosDropdown);
   const { channelValue } = useSelector((store) => store.channelsDropdown);
   const { monthIndex } = useSelector((store) => store.calendar);
 
@@ -53,9 +55,9 @@ const useHandleFilteredEvents = (
 
       conditions = {
         ...conditions,
-        ...(spec === 1 ? { spec: 1 } : undefined),
-        ...(boss === 1 ? { boss: 1 } : undefined),
         ...(registred === 1 ? { registred: 1 } : undefined),
+        ...(for_type === 1 ? {for_type: "boss"} : undefined),
+        ...(spec === 1 ? {spec: 1} : undefined),
         ...(free_places === 1 ? { free_places: 1 } : undefined),
         ...(for_lectors === 1 ? { for_lectors: 1 } : undefined),
         ...(subordinates === 1 ? { subordinates: 1 } : undefined),
@@ -65,7 +67,7 @@ const useHandleFilteredEvents = (
         ...(macroValue !== "" ? { macroregion: macroValue} : undefined),
         ...(channelValue !== "" ? { channel: channelValue} : undefined),
       };
-
+      console.log(debugStore)
       const queryString = new URLSearchParams(conditions).toString();
 console.log("queryString  " +queryString)
       navigate({ search: queryString });
@@ -84,11 +86,29 @@ console.log("queryString  " +queryString)
             if (key === "name") {
               return evt[key].toLowerCase().includes(value.toLowerCase());
             }
-            if (key === "boss") {
-              return evt[key].indexOf("boss]") !== -1;
+            if (key === "for_type") {
+              return evt.for_type.includes("boss]");
+            }
+            if(key === "spec") {
+              return evt.for_type.includes("spec]");
             }
             if (key === "monthIndex") {
               return true;
+            }
+            if(key === "macroregion") {
+              return evt.macroregion.split(';').some(macro => macro.includes(value));
+            }
+            if(key === "direction") {
+              return evt.category.split(';').some(categor => categor.includes(value));
+            }
+            if(key === "free_places") {
+              return evt.max_pers > 0;
+            }
+            if(key === "subordinates") {
+              return evt.sub === 1;
+            }
+            if(key === "for_lectors") {
+              return evt.is_tutor === 1;
             }
 
             return evt[key] === conditions[key];

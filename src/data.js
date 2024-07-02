@@ -1,4132 +1,6439 @@
 export const events = [{
-        id: "7220785991281946154",
-
-        name: "Starting: Welcome to Rosbank (вебинар)",
-
-        local_time_string: "",
-
-        event_max_pers: 500,
-
-        is_open: 1,
-
-        price: "",
-
-        is_single_person_price: 0,
-
-        description: '<p style="text-align: center;">Что ждёт на вебинаре?\n</p>\n<p><span style="color:rgb(178, 34, 34)">Для встречи с вами</span>&nbsp;мы пригласили одного из ведущих лидеров&nbsp; Росбанка.\n</p>\n<p>Вместе со&nbsp; Спикером&nbsp;поговорим о ценностях, &nbsp;целях, стратегии Банка и&nbsp;многом другом. И конечно вы сможете &nbsp;задать интересующие вопросы.&nbsp;&nbsp;\n</p>\n<p><span style="color:rgb(178, 34, 34)">А ещё, &nbsp;для вас</span> мы приготовили интерактивный сюрприз по итогам дистанционного квеста\n</p>\n<p style="text-align: center;"><strong>Приходите, </strong>будет интересно :) &nbsp;Мы вас ждём!\n</p><img style="height:auto; width:100%" src="/download_file.html?file_id=6813314074514956655" />',
-
-        calendar_group: 0,
-
-        person_effect: 0,
-        lead_skill: 0,
-        digital_it: 0,
-        design_prod_tech: 0,
-        bank_finance: 0,
-        customer_orient: 0,
-
-        type_no_access: "",
-
-        for_type: "boss][Для руководителей;spec][Для специалистов",
-
-        event_rb_type: "all][Общебанковские тренинги",
-
-        learn_own: 0,
-        lead_academy: 0,
-        lead_friday: 0,
-        digital_lit: 0,
-        finance_lit: 0,
-
-        is_devops: 0,
-
-        starting: 1,
-
-        is_la: 0,
-
-        type_val: "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
-
-        hub: "west_hub][Нижний Новгород;smr][Самара;east_hub][Красноярск;all_locations][Все города;msc][Москва",
-
-        type_detailed: "type_webinar][Вебинар",
-
-        place: "",
-
-        class: "на рабочем месте",
-
-        type: "webinar",
-
-        start_date: "2024-02-28T10:00:00+00:00",
-
-        finish_date: "2024-02-28T12:00:00+00:00",
-
-        organizational_form: "internal",
-
-        isMandatory: "Обязательное",
-
-        event_form: "webinar",
-
-        calendar_show: true,
-
-        is_passed: 0,
-
-        company: "Петр Петрович",
-
-        Mandatorys: "0",
-
-        max_pers: 389,
-
-        registred: 0,
-
-        in_wlist: 0,
-    },
-
-    {
-        id: "7220785996341587458",
-
-        name: "Starting: Welcome to Rosbank (вебинар)",
-
-        local_time_string: "",
-
-        event_max_pers: 700,
-
-        is_open: 1,
-
-        price: "",
-
-        is_single_person_price: 0,
-
-        description: '<p style="text-align: center;">Что ждёт на вебинаре?\n</p>\n<p><span style="color:rgb(178, 34, 34)">Для встречи с вами</span>&nbsp;мы пригласили одного из ведущих лидеров&nbsp; Росбанка.\n</p>\n<p>Вместе со&nbsp; Спикером&nbsp;поговорим о ценностях, &nbsp;целях, стратегии Банка и&nbsp;многом другом. И конечно вы сможете &nbsp;задать интересующие вопросы.&nbsp;&nbsp;\n</p>\n<p><span style="color:rgb(178, 34, 34)">А ещё, &nbsp;для вас</span> мы приготовили интерактивный сюрприз по итогам дистанционного квеста\n</p>\n<p style="text-align: center;"><strong>Приходите, </strong>будет интересно :) &nbsp;Мы вас ждём!\n</p><img style="height:auto; width:100%" src="/download_file.html?file_id=6813314074514956655" />',
-
-        calendar_group: 0,
-        person_effect: 0,
-        lead_skill: 0,
-        digital_it: 0,
-        design_prod_tech: 0,
-        bank_finance: 0,
-        customer_orient: 0,
-
-        type_no_access: "",
-
-        for_type: "boss][Для руководителей;spec][Для специалистов",
-
-        event_rb_type: "all][Общебанковские тренинги",
-
-        beexpert: 0,
-
-        is_devops: 0,
-        learn_own: 0,
-        lead_academy: 0,
-        lead_friday: 0,
-        digital_lit: 0,
-        finance_lit: 0,
-
-        starting: 1,
-
-        is_la: 0,
-
-        type_val: "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
-
-        hub: "west_hub][Нижний Новгород;smr][Самара;east_hub][Красноярск;all_locations][Все города;msc][Москва",
-
-        type_detailed: "type_webinar][Вебинар",
-
-        place: "",
-
-        class: "на рабочем месте",
-
-        type: "webinar",
-
-        start_date: "2024-03-06T10:00:00+00:00",
-
-        finish_date: "2024-03-06T12:00:00+00:00",
-
-        organizational_form: "internal",
-
-        isMandatory: "Обязательное",
-
-        event_form: "webinar",
-
-        calendar_show: true,
-
-        is_passed: 0,
-
-        company: "Петр Петрович",
-
-        Mandatorys: "0",
-
-        max_pers: 206,
-
-        registred: 1,
-
-        in_wlist: 0,
-    },
-
-    {
-        id: "7265290760220192221",
-
-        name: "Финансовый клуб: ЦФА - от пилотов к реальному масштабированию",
-
-        local_time_string: "",
-
-        event_max_pers: 600,
-
-        is_open: 1,
-
-        price: "",
-
-        is_single_person_price: 0,
-
-        description: '<p style="margin: 0cm 0cm 0pt;">Друзья,&nbsp;в рамках финансовой и цифровой грамотности&nbsp;приглашаем вас на сессию встреч&nbsp; о ЦФА&nbsp;</p><ul><li>Наши спикеры из розничной вертикали и из вертикали инвестиционно-банковских услуг расскажут как прошел первый массовый запуск ЦФА на структурированный бонд (тот самый случай, когда упаковкой продукта занимались сразу несколько доменов).</li><li>Остановимся на том что такой структурированные бонды и как их завернуть в обертку цифровых прав</li><li>Поговорим о том какие документы нужно изучить инвестору перед покупкой</li><li>И одни из первых узнаем отклик клиентов инвесторов на подобные продукты</li></ul>',
-
-        calendar_group: 0,
-        person_effect: 0,
-        lead_skill: 0,
-        digital_it: 0,
-        design_prod_tech: 0,
-        bank_finance: 0,
-        customer_orient: 0,
-
-        type_no_access: "",
-
-        for_type: "boss][Для руководителей;spec][Для специалистов",
-
-        event_rb_type: "club][Клуб;all][Общебанковские тренинги",
-
-        beexpert: 0,
-        learn_own: 0,
-        lead_academy: 0,
-        lead_friday: 0,
-        digital_lit: 0,
-        finance_lit: 0,
-        direction: "finance_lit",
-
-        is_devops: 0,
-
-        starting: 0,
-
-        is_la: 0,
-
-        type_val: "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
-
-        hub: "all_locations][Все города",
-
-        type_detailed: "type_training][Тренинг",
-
-        place: "",
-
-        class: "",
-
-        type: "webinar",
-
-        start_date: "2024-01-31T10:00:00+00:00",
-
-        finish_date: "2024-01-31T11:30:00+00:00",
-
-        organizational_form: "internal",
-
-        isMandatory: "",
-
-        event_form: "webinar",
-
-        calendar_show: true,
-
-        is_passed: 0,
-
-        company: "",
-
-        Mandatorys: "0",
-
-        max_pers: 405,
-
-        registred: 0,
-
-        in_wlist: 0,
-    },
-
-    {
-        id: "7265290765860106550",
-
-        name: "Финансовый клуб: Подходы к формированию портфеля",
-
-        local_time_string: "",
-
-        event_max_pers: 550,
-
-        is_open: 1,
-
-        price: "",
-
-        is_single_person_price: 0,
-
-        description: "<p>Друзья,&nbsp;&nbsp;в рамках финансовой грамотности&nbsp;приглашаем вас на ссесию встреч про инвестиции - просто о сложном :)</p><p>Для кого наш&nbsp;курс:</p><ul><li>для человека с любым уровнем знаний в инвестициях</li><li>для тех кто задумывался но боялся и не знает с чего начать</li><li>для бывалых инвесторов, кто столкнулся и разочаровался в результатах</li><li>для тех кто хочет посмотреть на правильный подход к инвестициям и минимизировать будущие потери</li><li>для тех кто умеет считать деньги и думает о будущем</li><li>для тех кто понимает что на пенсию не проживешь и формировать свою финансовую подушку нужно с ранних лет на долгосрочном горизонте.</li></ul>",
-
-        calendar_group: 0,
-        person_effect: 0,
-        lead_skill: 0,
-        digital_it: 0,
-        design_prod_tech: 0,
-        bank_finance: 0,
-        customer_orient: 0,
-
-        type_no_access: "",
-
-        for_type: "boss][Для руководителей;spec][Для специалистов",
-
-        event_rb_type: "all][Общебанковские тренинги;prof][Профессиональное обучение",
-
-        beexpert: 0,
-
-        is_devops: 0,
-        learn_own: 0,
-        lead_academy: 0,
-        lead_friday: 0,
-        digital_lit: 0,
-        finance_lit: 0,
-        direction: "finance_lit",
-
-        starting: 0,
-
-        is_la: 0,
-
-        type_val: "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
-
-        hub: "all_locations][Все города",
-
-        type_detailed: "type_training][Тренинг",
-
-        place: "",
-
-        class: "",
-
-        type: "webinar",
-
-        start_date: "2024-03-22T09:30:00+00:00",
-
-        finish_date: "2024-03-22T11:00:00+00:00",
-
-        organizational_form: "internal",
-
-        isMandatory: "",
-
-        event_form: "webinar",
-
-        calendar_show: true,
-
-        is_passed: 0,
-
-        company: "",
-
-        Mandatorys: "0",
-
-        max_pers: 236,
-
-        registred: 1,
-
-        in_wlist: 0,
-    },
-
-    {
-        id: "7301663354136905113",
-
-        name: "О чем молчит кандидат: как проверить его опыт",
-
-        local_time_string: "МСК",
-
-        event_max_pers: 40,
-
-        is_open: 1,
-
-        price: "",
-
-        is_single_person_price: 0,
-
-        description: "<p><strong>О чем молчит кандидат: как проверить его опыт</strong></p><p><strong>О вебинаре: </strong>вебинар по технике проведения интервью STAR</p><p><strong>Формат вебинара:</strong> сочетание теории и практики, работа в группах, активное обсуждение в чате и с включенным микрофоном</p><p><strong>На вебинаре вы узнаете: </strong></p><ul><li>Обладает ли кандидат навыками, о которых говорил на собеседовании</li><li>Впишется ли он в корпоративную культуру и команду</li><li>Что будет помогать ему адаптироваться быстрее</li></ul><p><strong>Посетив вебинар, вы научитесь: </strong></p><ul><li>Определять, какие компетенции актуальны в нынешней ситуации постоянных изменений</li><li>Составлять вопросы для проверки конкретной компетенции или наличия опыта</li><li>Определять, на что стоит обращать внимание при ответе</li><li>Отслеживать, какие ошибки мышления влияют на наше мнение о кандидате</li></ul>",
-
-        calendar_group: 0,
-        person_effect: 0,
-        lead_skill: 0,
-        digital_it: 0,
-        design_prod_tech: 0,
-        bank_finance: 0,
-        customer_orient: 0,
-
-        type_no_access: "",
-
-        for_type: "boss][Для руководителей",
-
-        event_rb_type: "manp][Менеджерские программы",
-
-        beexpert: 0,
-
-        is_devops: 0,
-        learn_own: 0,
-        lead_academy: 0,
-        lead_friday: 0,
-        digital_lit: 0,
-        finance_lit: 0,
-        direction: "learn_own",
-
-        starting: 0,
-
-        is_la: 0,
-
-        type_val: "fa-heart][Вовлеченность;fa-handshake][Инновации;fa-user][Клиент;fa-lightbulb][Командный br дух;fa-check-circle][Ответственность",
-
-        hub: "msc][Москва;west_hub][Нижний Новгород;smr][Самара;east_hub][Красноярск;all_locations][Все города",
-
-        type_detailed: "type_webinar][Вебинар",
-
-        place: "Вне учебного класса",
-
-        class: "вебинар",
-
-        type: "webinar",
-
-        start_date: "2024-03-16T10:00:00+00:00",
-
-        finish_date: "2024-03-16T13:00:00+00:00",
-
-        organizational_form: "internal",
-
-        isMandatory: "Не обязательное",
-
-        event_form: "webinar",
-
-        calendar_show: true,
-
-        is_passed: 0,
-
-        company: "Петр Петрович",
-
-        Mandatorys: "0",
-
-        max_pers: 0,
-
-        registred: 0,
-
-        in_wlist: 0,
-    },
-
-    {
-        id: "7302019147498612757",
-
-        name: "Финансовый клуб. ИЖС – избушка или замок ? Как сэкономить но построить хороший дом",
-
-        local_time_string: "",
-
-        event_max_pers: 500,
-
-        is_open: 1,
-
-        price: "",
-
-        is_single_person_price: 0,
-
-        description: "<p>Друзья, весна не за горами :)</p><p>А это значит, что многие начинают задумываться о своем собственном дачном доме, а может и доме для постоянного проживания!</p><p>При покупке дома своей мечты всегда хочется быть уверенным в надежности строителей, качестве постройки и своевременности выполнения работ! И конечно приобрести дом на максимально выгодных финансовых условиях!</p><p>Эти и многие другие вопросы мы разберем <strong>29 января</strong> вместе с Юлией Иванычевой, Начальником отдела по работе с застройщиками и Максимом Судаковым, Региональным руководителем направления ИЖС на очередной встрече в рамках финансового клуба, посвященной Индивидуальному Жилищному Строительству (ИЖС) .</p><p>На вебинаре вас ждут выступления Подрядчиков-ключевых Партнёров Банка!&nbsp; Ждём Вас.</p>",
-
-        calendar_group: 0,
-        person_effect: 0,
-        lead_skill: 0,
-        digital_it: 0,
-        design_prod_tech: 0,
-        bank_finance: 0,
-        customer_orient: 0,
-
-        type_no_access: "",
-
-        for_type: "boss][Для руководителей;spec][Для специалистов",
-
-        event_rb_type: "club][Клуб",
-
-        beexpert: 0,
-        learn_own: 0,
-        lead_academy: 0,
-        lead_friday: 0,
-        digital_lit: 0,
-        finance_lit: 0,
-        direction: "finance_lit",
-
-        is_devops: 0,
-
-        starting: 0,
-
-        is_la: 0,
-
-        type_val: "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
-
-        hub: "",
-
-        type_detailed: "type_training][Тренинг",
-
-        place: "",
-
-        class: "на рабочем месте",
-
-        type: "webinar",
-
-        start_date: "2024-02-29T09:30:00+00:00",
-
-        finish_date: "2024-02-29T11:00:00+00:00",
-
-        organizational_form: "internal",
-
-        isMandatory: "",
-
-        event_form: "webinar",
-
-        calendar_show: true,
-
-        is_passed: 0,
-
-        company: "",
-
-        Mandatorys: "0",
-
-        max_pers: 310,
-
-        registred: 0,
-
-        in_wlist: 0,
-    },
-
-    {
-        id: "7309402377058024842",
-
-        name: "Путь к сердцу клиента",
-
-        local_time_string: "",
-
-        event_max_pers: 200,
-
-        is_open: 1,
-
-        price: "",
-
-        is_single_person_price: 0,
-
-        description: "<p><strong>О вебинаре</strong>: Клиент &ndash; это первое направление стратегии 2021-2025. Наша задача&nbsp;-&nbsp;стать надёжным и открытым партнёром для него на всю жизнь. Это возможно при участии каждого из нас, независимо от должности. На вебинаре попробуете себя в роли сотрудников компании &quot;Сила ветра&quot;, а также посмотрите, как принятые вами решения влияют на удовлетворенность клиента.<br />Сделаем первый шаг к сердцу клиента вместе!<br /><strong>На вебинаре вы узнаете:</strong><br />- Чем клиентоцентричность отличается от клиентоориентированности<br />- Что делает банк, чтобы достичь цели по клиентоцентричности<br /><strong>Посетив вебинар, вы научитесь:</strong><br />- Видеть связь между удовлетворённостью внутренних и внешних клиентов<br />- Вставать на сторону клиента и смотреть на ситуацию его глазами<br />Время: 2 часа 30 минут</p>",
-
-        calendar_group: 0,
-        person_effect: 0,
-        lead_skill: 0,
-        digital_it: 0,
-        design_prod_tech: 0,
-        bank_finance: 0,
-        customer_orient: 0,
-
-        type_no_access: "",
-
-        for_type: "spec][Для специалистов",
-
-        event_rb_type: "all][Общебанковские тренинги",
-
-        beexpert: 0,
-
-        is_devops: 0,
-        learn_own: 0,
-        lead_academy: 0,
-        lead_friday: 0,
-        digital_lit: 0,
-        finance_lit: 0,
-
-        starting: 0,
-
-        is_la: 0,
-
-        type_val: "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
-
-        hub: "all_locations][Все города",
-
-        type_detailed: "type_webinar][Вебинар",
-
-        place: "Вне учебного класса",
-
-        class: "Рабочее место сотрудника",
-
-        type: "webinar",
-
-        start_date: "2024-01-11T10:00:00+00:00",
-
-        finish_date: "2024-01-11T12:30:00+00:00",
-
-        organizational_form: "internal",
-
-        isMandatory: "Обязательное",
-
-        event_form: "webinar",
-
-        calendar_show: true,
-
-        is_passed: 1,
-
-        company: "Петр Петрович",
-
-        Mandatorys: "0",
-
-        max_pers: 11,
-
-        registred: 0,
-
-        in_wlist: 0,
-    },
-
-    {
-        id: "7309443940414608381",
-
-        name: "Для руководителей_Отдыхать нельзя, работать: а там ли запятая?",
-
-        local_time_string: "Мск",
-
-        event_max_pers: 100,
-
-        is_open: 1,
-
-        price: "",
-
-        is_single_person_price: 0,
-
-        description: "<p><strong>О вебинаре: </strong>В течение года в потоке важных дел, реализации целей, стратегических задач все мы задумываемся об отдыхе</p><p>Для сотрудника отпуск &ndash; это отличная возможность восстановить силы, &laquo;перезарядить свой внутренний аккумулятор&raquo;, заняться личными делами.</p><p>Для руководителя &ndash; необходимое условие сохранения работоспособности команды и микроклимата в коллективе.</p><p>Для компании - прогнозирование затрат и сохранение расходов на требуемом уровне.</p><p><strong>На вебинаре вы узнаете:</strong></p><ul><li>К каким последствиям приводит увеличение количество неиспользованных дней отпуска</li><li>Где посмотреть информацию по отпускам сотрудников своего подразделения</li><li>Как работать с неиспользованными днями отпуска сотрудников</li></ul>",
-
-        calendar_group: 0,
-        person_effect: 0,
-        lead_skill: 0,
-        digital_it: 0,
-        design_prod_tech: 0,
-        bank_finance: 0,
-        customer_orient: 0,
-        type_no_access: "",
-
-        for_type: "boss][Для руководителей",
-
-        event_rb_type: "all][Общебанковские тренинги",
-
-        beexpert: 0,
-        learn_own: 0,
-        lead_academy: 0,
-        lead_friday: 0,
-        digital_lit: 0,
-        finance_lit: 0,
-        direction: "lead_academy",
-
-        is_devops: 0,
-
-        starting: 0,
-
-        is_la: 0,
-
-        type_val: "fa-check-circle][Ответственность",
-
-        hub: "all_locations][Все города",
-
-        type_detailed: "type_webinar][Вебинар",
-
-        place: "Вне учебного класса",
-
-        class: "на рабочем месте",
-
-        type: "webinar",
-
-        start_date: "2024-01-25T12:00:00+00:00",
-
-        finish_date: "2024-01-25T13:30:00+00:00",
-
-        organizational_form: "internal",
-
-        isMandatory: "Не обязательное",
-
-        event_form: "webinar",
-
-        calendar_show: true,
-
-        is_passed: 0,
-
-        company: "Петр Петрович",
-
-        Mandatorys: "0",
-
-        max_pers: 68,
-
-        registred: 0,
-
-        in_wlist: 0,
-    },
-
-    {
-        id: "7309843324854277700",
-
-        name: "Медитация",
-
-        local_time_string: "",
-
-        event_max_pers: 50,
-
-        is_open: 1,
-
-        price: "",
-
-        is_single_person_price: 0,
-
-        description: '<p>Коллеги, добрый день!</p><p><span style="font-size:12px"><span style="-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(0, 0, 0); display:inline !important; float:none; font-family:open sans,arial,helvetica,sans-serif; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px">Наше тело, мозг, эмоции, сознание &ndash; всё подвергается перегрузкам.</span></span></p><p><span style="font-size:12px"><strong>Как поддержать себя? Как справиться?</strong><br class="CommonmarkRender-Softbreak" style="color: rgb(0, 0, 0); text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: &quot;Open Sans&quot;, Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;" /><span style="-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(0, 0, 0); display:inline !important; float:none; font-family:open sans,arial,helvetica,sans-serif; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px">Пробовать и находить способы, которые помогают именно вам.</span></span></p><p><strong>Приглашаем на практику медитаций, на которой&nbsp;в</strong><strong>&nbsp;течение 30 минут&nbsp;будем:</strong></p><ul><li>Делать простые упражнения, управляя вниманием</li><li>Знакомиться с телом по-новому, искать в нем ресурс и поддержку</li><li>Учиться использовать практики-упражнения, чтобы медитировать среди рабочего дня за 1-3 минуты</li><li>Настраиваться на рабочий день</li></ul><p>А еще вы узнаете, как обычную зарядку или поход в тренажерный зал превратить в медитацию</p><p><strong>Чем полезны медитации и практики саморегуляции:</strong></p><ul><li><span style="-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(0, 0, 0); display:inline !important; float:none; font-family:open sans,arial,helvetica,sans-serif; font-size:14px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px">Снижают тревогу и интенсивность эмоционального фона</span></li><li><span style="-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(0, 0, 0); display:inline !important; float:none; font-family:open sans,arial,helvetica,sans-serif; font-size:14px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px">Улучшают концентрацию внимания и помогают привести мысли в порядок</span></li><li><span style="-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(0, 0, 0); display:inline !important; float:none; font-family:open sans,arial,helvetica,sans-serif; font-size:14px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px">Помогают быть спокойное и стабилизировать своё состояние</span></li></ul><p>Детали подключения будут в приглашении, которое вы получаете при регистрации.</p>',
-
-        calendar_group: 0,
-        person_effect: 0,
-        lead_skill: 0,
-        digital_it: 0,
-        design_prod_tech: 0,
-        bank_finance: 0,
-        customer_orient: 0,
-
-        type_no_access: "",
-
-        for_type: "spec][Для специалистов;boss][Для руководителей",
-
-        event_rb_type: "tle][Тренинги личной эффективности",
-
-        beexpert: 0,
-
-        is_devops: 0,
-        learn_own: 0,
-        lead_academy: 0,
-        lead_friday: 0,
-        digital_lit: 0,
-        finance_lit: 0,
-
-        starting: 0,
-
-        is_la: 0,
-
-        type_val: "fa-heart][Вовлеченность",
-
-        hub: "west_hub][Западный хаб;east_hub][Восточный хаб;all_locations][Все города",
-
-        type_detailed: "type_webinar][Вебинар",
-
-        place: "Вне учебного класса",
-
-        class: "Онлайн",
-
-        type: "webinar",
-
-        start_date: "2024-01-10T08:25:00+00:00",
-
-        finish_date: "2024-01-10T09:00:00+00:00",
-
-        organizational_form: "internal",
-
-        isMandatory: "Не обязательное",
-
-        event_form: "webinar",
-
-        calendar_show: true,
-
-        is_passed: 1,
-
-        company: "Петр Петрович",
-
-        Mandatorys: "0",
-
-        max_pers: 18,
-
-        registred: 0,
-
-        in_wlist: 0,
-    },
-
-    {
-        id: "7309843641622745547",
-
-        name: "Медитация",
-
-        local_time_string: "",
-
-        event_max_pers: 50,
-
-        is_open: 1,
-
-        price: "",
-
-        is_single_person_price: 0,
-
-        description: '<p>Коллеги, добрый день!</p><p><span style="font-size:12px"><span style="-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(0, 0, 0); display:inline !important; float:none; font-family:open sans,arial,helvetica,sans-serif; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px">Наше тело, мозг, эмоции, сознание &ndash; всё подвергается перегрузкам.</span></span></p><p><span style="font-size:12px"><strong>Как поддержать себя? Как справиться?</strong><br class="CommonmarkRender-Softbreak" style="color: rgb(0, 0, 0); text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: &quot;Open Sans&quot;, Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;" /><span style="-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(0, 0, 0); display:inline !important; float:none; font-family:open sans,arial,helvetica,sans-serif; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px">Пробовать и находить способы, которые помогают именно вам.</span></span></p><p><strong>Приглашаем на практику медитаций, на которой&nbsp;в</strong><strong>&nbsp;течение 30 минут&nbsp;будем:</strong></p><ul><li>Делать простые упражнения, управляя вниманием</li><li>Знакомиться с телом по-новому, искать в нем ресурс и поддержку</li><li>Учиться использовать практики-упражнения, чтобы медитировать среди рабочего дня за 1-3 минуты</li><li>Настраиваться на рабочий день</li></ul><p>А еще вы узнаете, как обычную зарядку или поход в тренажерный зал превратить в медитацию</p><p><strong>Чем полезны медитации и практики саморегуляции:</strong></p><ul><li><span style="-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(0, 0, 0); display:inline !important; float:none; font-family:open sans,arial,helvetica,sans-serif; font-size:14px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px">Снижают тревогу и интенсивность эмоционального фона</span></li><li><span style="-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(0, 0, 0); display:inline !important; float:none; font-family:open sans,arial,helvetica,sans-serif; font-size:14px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px">Улучшают концентрацию внимания и помогают привести мысли в порядок</span></li><li><span style="-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(0, 0, 0); display:inline !important; float:none; font-family:open sans,arial,helvetica,sans-serif; font-size:14px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px">Помогают быть спокойное и стабилизировать своё состояние</span></li></ul><p>Детали подключения будут в приглашении, которое вы получаете при регистрации.</p>',
-
-        calendar_group: 0,
-        person_effect: 0,
-        lead_skill: 0,
-        digital_it: 0,
-        design_prod_tech: 0,
-        bank_finance: 0,
-        customer_orient: 0,
-
-        type_no_access: "",
-
-        for_type: "spec][Для специалистов;boss][Для руководителей",
-
-        event_rb_type: "tle][Тренинги личной эффективности",
-
-        beexpert: 0,
-
-        is_devops: 0,
-
-        starting: 0,
-        learn_own: 0,
-        lead_academy: 0,
-        lead_friday: 0,
-        digital_lit: 0,
-        finance_lit: 0,
-
-        is_la: 0,
-
-        type_val: "fa-heart][Вовлеченность",
-
-        hub: "west_hub][Западный хаб;east_hub][Восточный хаб;all_locations][Все города",
-
-        type_detailed: "type_webinar][Вебинар",
-
-        place: "Вне учебного класса",
-
-        class: "Онлайн",
-
-        type: "webinar",
-
-        start_date: "2024-01-12T08:25:00+00:00",
-
-        finish_date: "2024-01-12T09:00:00+00:00",
-
-        organizational_form: "internal",
-
-        isMandatory: "Не обязательное",
-
-        event_form: "webinar",
-
-        calendar_show: true,
-
-        is_passed: 1,
-
-        company: "Дозорова Виктория Эдуардовна",
-
-        Mandatorys: "0",
-
-        max_pers: 10,
-
-        registred: 0,
-
-        in_wlist: 0,
-    },
-
-    {
-        id: "7311567045393005510",
-
-        name: "Лидерская пятница. Благодарность как практика развития",
-
-        local_time_string: "мск",
-
-        event_max_pers: 1000,
-
-        is_open: 1,
-
-        price: "",
-
-        is_single_person_price: 0,
-
-        description: "<p>Приглашаем вас на встречу в рамках проекта &quot;Лидерские пятницы&quot;.</p><p>Тема этой встречи - благодарность. Мы расскажем о лайфхаках благодарения в команде и&nbsp;связи гордости и благодарности себе.<br />Участники познакомятся с&nbsp;формулой благодарности и&nbsp;получат возможность выполнить и осмыслить практику благодарности.</p><p><strong>Спикер</strong> &ndash; Ольга Зуева, executive-коуч, супервизор, фасилитатор, ведущий сессий организационного и стратегического развития, коуч-мастер, сертифицированный дебрифер Hogan Assessment System (командный, judgement, Flash), авторизованный дебрифер Harthill Leadership Development Profile (индивидуальный профиль развития лидера).</p><p><strong>Что будет:</strong></p><ul><li>Почему мы нуждаемся в благодарности от других: психологические механизмы.</li><li>Гордость &ndash; благодарность себе. С чего начать: практика искренней благодарности себе.</li><li>Формула благодарности и ее практическая реализация.</li><li>Лайфхаки благодарения в команде.<br />&nbsp;</li></ul><p>&nbsp;</p>",
-
-        calendar_group: 0,
-        person_effect: 0,
-        lead_skill: 0,
-        digital_it: 0,
-        design_prod_tech: 0,
-        bank_finance: 0,
-        customer_orient: 0,
-
-        type_no_access: "",
-
-        for_type: "boss][Для руководителей;spec][Для специалистов",
-
-        event_rb_type: "manp][Менеджерские программы;tle][Тренинги личной эффективности",
-
-        beexpert: 0,
-
-        is_devops: 0,
-
-        starting: 0,
-        learn_own: 0,
-        lead_academy: 0,
-        lead_friday: 1,
-        digital_lit: 0,
-        finance_lit: 0,
-
-        is_la: 1,
-
-        type_val: "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-handshake][Инновации;fa-check-circle][Ответственность",
-
-        hub: "all_locations][Все города",
-
-        type_detailed: "type_webinar][Вебинар",
-
-        place: "На рабочих местах",
-
-        class: "На рабочих местах",
-
-        type: "webinar",
-
-        start_date: "2024-03-01T08:50:00+00:00",
-
-        finish_date: "2024-03-01T10:00:00+00:00",
-
-        organizational_form: "external",
-
-        isMandatory: "Не обязательное",
-
-        event_form: "webinar",
-
-        calendar_show: true,
-
-        is_passed: 0,
-
-        company: "ПРОВАЙДЕР",
-
-        Mandatorys: "0",
-
-        max_pers: 713,
-
-        registred: 0,
-
-        in_wlist: 0,
-    },
-
-    {
-        id: "7311570587542253524",
-
-        name: "Лидерская пятница. Тема уточняется",
-
-        local_time_string: "мск",
-
-        event_max_pers: 500,
-
-        is_open: 1,
-
-        price: "",
-
-        is_single_person_price: 0,
-
-        description: "<p>Приглашаем вас на встречу в рамках проекта &quot;Лидерская пятница&quot;.</p><p>Детали подключения будут направлены после регистрации.</p>",
-
-        calendar_group: 0,
-        person_effect: 0,
-        lead_skill: 0,
-        digital_it: 0,
-        design_prod_tech: 0,
-        bank_finance: 0,
-        customer_orient: 0,
-
-        type_no_access: "",
-
-        for_type: "boss][Для руководителей;spec][Для специалистов",
-
-        event_rb_type: "manp][Менеджерские программы;tle][Тренинги личной эффективности",
-
-        beexpert: 0,
-
-        is_devops: 0,
-
-        starting: 0,
-        learn_own: 0,
-        lead_academy: 0,
-        lead_friday: 1,
-        digital_lit: 0,
-        finance_lit: 0,
-
-        is_la: 1,
-
-        type_val: "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-handshake][Инновации;fa-check-circle][Ответственность",
-
-        hub: "all_locations][Все города",
-
-        type_detailed: "type_webinar][Вебинар",
-
-        place: "На рабочих местах",
-
-        class: "На рабочих местах",
-
-        type: "webinar",
-
-        start_date: "2024-03-15T08:50:00+00:00",
-
-        finish_date: "2024-03-15T10:00:00+00:00",
-
-        organizational_form: "external",
-
-        isMandatory: "Не обязательное",
-
-        event_form: "webinar",
-
-        calendar_show: true,
-
-        is_passed: 0,
-
-        company: "ПРОВАЙДЕР",
-
-        Mandatorys: "0",
-
-        max_pers: 433,
-
-        registred: 0,
-
-        in_wlist: 0,
-    },
-
-    {
-        id: "7312079852340278941",
-
-        name: "Как замотивировать кандидата работать в нашем банке",
-
-        local_time_string: "Мск",
-
-        event_max_pers: 40,
-
-        is_open: 1,
-
-        price: "",
-
-        is_single_person_price: 0,
-
-        description: '<p><strong>Как замотивировать кандидата работать в нашем банке</strong></p><p><strong>О вебинаре: </strong>Умение определять мотивацию кандидата и знание техник продажи вакансии - залог успешного подбора кандидата и последующего его трудоустройства</p><p><strong>Формат вебинара:</strong> сочетание теории и практики, работа в группах, активное обсуждение в чате и с включенным микрофоном</p><p><strong>На вебинаре вы узнаете: </strong></p><ul class="”bullet--red”"><li>Как руководитель влияет на эффективность подбора?</li><li>Как понять, что хочет кандидат, приходя к нам на собеседование</li><li>С помощью каких инструментов определить мотивацию кандидата</li><li>Как замотивировать нужного нам кандидата работать в нашем банке</li><li>Как правильно расставлять акценты при презентации вакансии</li><li>Как избежать ошибок, которые чаще всего допускаются на интервью</li></ul><p><strong>Посетив вебинар, вы научитесь: </strong></p><ul class="”bullet--red”"><li>Применять техники мотивации и продажи вакансии, которые помогут вам подобрать подходящего кандидата и замотивировать его подписать оффер</li></ul>',
-
-        calendar_group: 0,
-        person_effect: 0,
-        lead_skill: 0,
-        digital_it: 0,
-        design_prod_tech: 0,
-        bank_finance: 0,
-        customer_orient: 0,
-
-        type_no_access: "",
-
-        for_type: "boss][Для руководителей",
-
-        event_rb_type: "manp][Менеджерские программы",
-
-        beexpert: 0,
-
-        is_devops: 0,
-        learn_own: 0,
-        lead_academy: 0,
-        lead_friday: 0,
-        digital_lit: 0,
-        finance_lit: 0,
-
-        starting: 0,
-
-        is_la: 0,
-
-        type_val: "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-handshake][Инновации",
-
-        hub: "all_locations][Все города",
-
-        type_detailed: "type_webinar][Вебинар",
-
-        place: "Вне учебного класса",
-
-        class: "True Conf",
-
-        type: "webinar",
-
-        start_date: "2024-01-15T10:00:00+00:00",
-
-        finish_date: "2024-01-15T13:00:00+00:00",
-
-        organizational_form: "internal",
-
-        isMandatory: "Не обязательное",
-
-        event_form: "webinar",
-
-        calendar_show: true,
-
-        is_passed: 1,
-
-        company: "Петр Петрович",
-
-        Mandatorys: "0",
-
-        max_pers: 10,
-
-        registred: 0,
-
-        in_wlist: 0,
-    },
-
-    {
-        id: "7312082248250889390",
-
-        name: "Ситуационное лидерство. Практикум",
-
-        local_time_string: "Мск",
-
-        event_max_pers: 30,
-
-        is_open: 1,
-
-        price: "",
-
-        is_single_person_price: 0,
-
-        description: '<p><strong>О вебинаре:</strong> Практический вебинар, в котором вы потренируетесь определять уровень готовности сотрудника к задачам, подбирать стиль управления в соответствии с его уровнем готовности, формулировать задачи, опираясь на стили лидерства</p><p><strong style="color:rgb(0, 0, 0)">Подготовка к практикуму:</strong><strong> </strong>необходимо пройти электронный курс &quot;Ситуационное лидерство&quot;. На встрече мы будем практиковаться в применении модели. <a href="http://webtutor.rosbank.rus.socgen/rosbank/traj/index.html#/activity/7220897475760043215" target="_blank" rel="noopener noreferrer"><u>Теорию вам необходимо изучить заранее самостоятельно в дистанционном курсе </u></a></p><p><strong>Формат вебинара:</strong> практикум - тренировка инструментов из электронного курса, работа в группах, активное обсуждение в чате и с включенным микрофоном</p><p><strong>На&nbsp;практикуме вы вспомните: </strong></p><ul><li>Как с помощью модели &laquo;Ситуационное лидерство&raquo; эффективно управлять сотрудниками</li><li>Как соотносятся уровни готовности сотрудников со стилями лидерства</li><li>Какие ошибки чаще всего встречаются при выборе стиля лидерства</li></ul><p><strong>На практикуме&nbsp;вы потренируетесь: </strong></p><ul><li>Определять и учитывать уровень готовности сотрудника</li><li>Применять оптимальный стиль лидерства</li></ul><p>&nbsp;</p>',
-
-        calendar_group: 0,
-        person_effect: 0,
-        lead_skill: 0,
-        digital_it: 0,
-        design_prod_tech: 0,
-        bank_finance: 0,
-        customer_orient: 0,
-
-        type_no_access: "",
-
-        for_type: "boss][Для руководителей",
-
-        event_rb_type: "manp][Менеджерские программы",
-
-        beexpert: 0,
-
-        is_devops: 0,
-        learn_own: 0,
-        lead_academy: 0,
-        lead_friday: 0,
-        digital_lit: 0,
-        finance_lit: 0,
-
-        starting: 0,
-
-        is_la: 0,
-
-        type_val: "fa-lightbulb][Командный br дух;fa-heart][Вовлеченность;fa-handshake][Инновации;fa-user][Клиент;fa-check-circle][Ответственность",
-
-        hub: "all_locations][Все города",
-
-        type_detailed: "type_webinar][Вебинар",
-
-        place: "Вне учебного класса",
-
-        class: "True Conf",
-
-        type: "webinar",
-
-        start_date: "2024-01-17T10:00:00+00:00",
-
-        finish_date: "2024-01-17T13:00:00+00:00",
-
-        organizational_form: "internal",
-
-        isMandatory: "Не обязательное",
-
-        event_form: "webinar",
-
-        calendar_show: true,
-
-        is_passed: 0,
-
-        company: "Петр Петрович",
-
-        Mandatorys: "0",
-
-        max_pers: 0,
-
-        registred: 0,
-
-        in_wlist: 0,
-    },
-
-    {
-        id: "7312083922303859563",
-
-        name: "DISC. Практикум",
-
-        local_time_string: "Мск",
-
-        event_max_pers: 30,
-
-        is_open: 1,
-
-        price: "",
-
-        is_single_person_price: 0,
-
-        description: '<p><strong>О вебинаре:</strong> Практический вебинар, в котором вы научитесь учитывать особенности типов личности DISC при постановке задач, мотивировании, при обратной связи, аргументации, презентовать свою позицию коллегам с учетом типов DISC</p><p><strong style="color:rgb(178, 34, 34)">Подготовка к практикуму:</strong><strong> </strong>необходимо пройти электронный курс &quot;DISC. Как знание особенностей поведения помогает в работе&quot;. На встрече&nbsp;практикуемся в применении типологии. <a href="http://webtutor.rosbank.rus.socgen/rosbank/traj/index.html#/activity/7221268592826089344" target="_blank" rel="noopener noreferrer">Теорию вам необходимо изучить заранее самостоятельно в дистанционном курсе&nbsp;</a></p><p><strong>Формат вебинара:</strong> практикум - тренировка инструментов из электронного курса, работа в группах, активное обсуждение в чате и с включенным микрофоном</p><p><strong>На&nbsp;практикуме вы вспомните: </strong></p><ul><li>Особенности поведения типов DISC&nbsp;в жизни и на работе</li></ul><p><strong>На&nbsp;практикуме вы потренируетесь: </strong></p><ul><li>Учитывать особенности типов при постановке задач, мотивировании, при обратной связи, аргументации</li><li>Презентовать свою позицию коллегам с учетом</li></ul>',
-
-        calendar_group: 0,
-        person_effect: 0,
-        lead_skill: 0,
-        digital_it: 0,
-        design_prod_tech: 0,
-        bank_finance: 0,
-        customer_orient: 0,
-
-        type_no_access: "",
-
-        for_type: "boss][Для руководителей",
-
-        event_rb_type: "manp][Менеджерские программы",
-
-        beexpert: 0,
-
-        is_devops: 0,
-        learn_own: 0,
-        lead_academy: 0,
-        lead_friday: 0,
-        digital_lit: 0,
-        finance_lit: 0,
-
-        starting: 0,
-
-        is_la: 0,
-
-        type_val: "fa-lightbulb][Командный br дух;fa-handshake][Инновации;fa-user][Клиент;fa-heart][Вовлеченность;fa-check-circle][Ответственность",
-
-        hub: "all_locations][Все города",
-
-        type_detailed: "type_webinar][Вебинар",
-
-        place: "Вне учебного класса",
-
-        class: "True Conf",
-
-        type: "webinar",
-
-        start_date: "2024-01-23T10:00:00+00:00",
-
-        finish_date: "2024-01-23T13:30:00+00:00",
-
-        organizational_form: "internal",
-
-        isMandatory: "Не обязательное",
-
-        event_form: "webinar",
-
-        calendar_show: true,
-
-        is_passed: 0,
-
-        company: "Петр Петрович",
-
-        Mandatorys: "0",
-
-        max_pers: 5,
-
-        registred: 0,
-
-        in_wlist: 0,
-    },
-
-    {
-        id: "7312086127113558276",
-
-        name: "Делегирование. Практикум",
-
-        local_time_string: "Мск",
-
-        event_max_pers: 30,
-
-        is_open: 1,
-
-        price: "",
-
-        is_single_person_price: 0,
-
-        description: '<p>Практикум о том, как с помощью инструмента &quot;Делегирование&quot; оптимизировать работу руководителя, эффективно осуществлять управленческие функции и развивать своих сотрудников.</p><p><strong>Формат вебинара: </strong>практикум - тренировка инструментов из электронного курса, работа в группах, активное обсуждение в чате и с включенным микрофоном.</p><p><strong><u>Подготовка к практикуму</u></strong>: пройдите дистанционный курс &laquo;Делегирование&raquo; с теорией, примерами и кейсами. На встрече мы будем практиковаться в применении делегирования. <a href="http://webtutor.rosbank.rus.socgen/rosbank/traj/index.html/#/activity/7221268591920415826" target="_blank" rel="noopener noreferrer"><u>Теорию вам необходимо изучить заранее самостоятельно в дистанционном курсе</u>.</a></p><p><strong>За 3 часа практикума вы</strong> <strong>вспомните:</strong></p><ul><li>зачем нужно делегирование и какие преимущества&nbsp;оно дает руководителю</li><li>какие ошибки бывают в делегировании и какие риски они несут&nbsp;</li><li>алгоритмы делегирования&nbsp;</li></ul><p><strong>и потренируетесь:</strong></p><ul><li>применять алгоритм делегирования в своей работе</li><li>предупреждать ошибки в процессе делегирования&nbsp;&nbsp;</li><li>применять алгоритм коммуникации с сотрудником&nbsp;</li></ul><p><strong>Финальная сверка проходит за 1 день до начала вебинара.</strong></p>',
-
-        calendar_group: 0,
-        person_effect: 0,
-        lead_skill: 0,
-        digital_it: 0,
-        design_prod_tech: 0,
-        bank_finance: 0,
-        customer_orient: 0,
-
-        type_no_access: "",
-
-        for_type: "boss][Для руководителей",
-
-        event_rb_type: "manp][Менеджерские программы",
-
-        beexpert: 0,
-
-        is_devops: 0,
-        learn_own: 0,
-        lead_academy: 0,
-        lead_friday: 0,
-        digital_lit: 0,
-        finance_lit: 0,
-
-        starting: 0,
-
-        is_la: 0,
-
-        type_val: "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-check-circle][Ответственность;fa-user][Клиент;fa-handshake][Инновации",
-
-        hub: "all_locations][Все города",
-
-        type_detailed: "type_webinar][Вебинар",
-
-        place: "Вне учебного класса",
-
-        class: "True Conf",
-
-        type: "webinar",
-
-        start_date: "2024-01-25T10:00:00+00:00",
-
-        finish_date: "2024-01-25T13:00:00+00:00",
-
-        organizational_form: "internal",
-
-        isMandatory: "Не обязательное",
-
-        event_form: "webinar",
-
-        calendar_show: true,
-
-        is_passed: 0,
-
-        company: "Петр Петрович",
-
-        Mandatorys: "0",
-
-        max_pers: 1,
-
-        registred: 0,
-
-        in_wlist: 0,
-    },
-
-    {
-        id: "7312097126114397459",
-
-        name: "На волне изменений",
-
-        local_time_string: "",
-
-        event_max_pers: 80,
-
-        is_open: 1,
-
-        price: "",
-
-        is_single_person_price: 0,
-
-        description: "<p><strong>На волне изменений</strong></p><p style='text-align: left; color: rgb(33, 37, 41); text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: Roboto, Arial, Tahoma, Verdana, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; margin-top: 0px; margin-bottom: 1rem; margin-left: 32px; word-spacing: 0px; white-space: normal; box-sizing: border-box; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;'><strong style='box-sizing:border-box; font-weight:bolder; margin-top:0px'>О вебинаре:<span>&nbsp;</span></strong>Изменения любого рода требуют от каждого сотрудника специальной подготовки. На вебинаре &laquo;На волне изменений&raquo; вы получите инструменты персональной работы с принятием изменений и сохранения эффективности</p><p style='text-align: left; color: rgb(33, 37, 41); text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: Roboto, Arial, Tahoma, Verdana, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; margin-top: 0px; margin-bottom: 1rem; margin-left: 32px; word-spacing: 0px; white-space: normal; box-sizing: border-box; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;'><strong style='box-sizing:border-box; font-weight:bolder; margin-top:0px'>На вебинаре вы узнаете:</strong></p><ol style='text-align: left; color: rgb(33, 37, 41); text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: Roboto, Arial, Tahoma, Verdana, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; margin-top: 0px; margin-bottom: 1rem; word-spacing: 0px; white-space: normal; box-sizing: border-box; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;'><li style='margin-top: 0px; box-sizing: border-box;'>Какие стадии предстоит пройти перед принятием изменений.<span>&nbsp;</span><strong style='box-sizing:border-box; font-weight:bolder; margin-top:0px'>Кривая изменений</strong></li><li style='box-sizing: border-box;'>Какие<strong style='box-sizing:border-box; font-weight:bolder; margin-top:0px'><span>&nbsp;</span>инструменты<span>&nbsp;</span></strong>помогут быстро и наиболее эффективно дойти до стадии принятия</li><li style='box-sizing: border-box;'>Как проработать в себе злость по отношению к изменениям.<span>&nbsp;</span><strong style='box-sizing:border-box; font-weight:bolder; margin-top:0px'>Алгоритм работы со злостью</strong></li><li style='box-sizing: border-box;'>Как справиться с возникшими страхами.<span>&nbsp;</span><strong style='box-sizing:border-box; font-weight:bolder; margin-top:0px'>Алгоритм работы со страхом</strong></li></ol>",
-
-        calendar_group: 0,
-        person_effect: 0,
-        lead_skill: 0,
-        digital_it: 0,
-        design_prod_tech: 0,
-        bank_finance: 0,
-        customer_orient: 0,
-
-        type_no_access: "",
-
-        for_type: "spec][Для специалистов",
-
-        event_rb_type: "tle][Тренинги личной эффективности",
-
-        beexpert: 0,
-
-        is_devops: 0,
-
-        starting: 0,
-        learn_own: 0,
-        lead_academy: 0,
-        lead_friday: 0,
-        digital_lit: 0,
-        finance_lit: 0,
-
-        is_la: 0,
-
-        type_val: "fa-check-circle][Ответственность;fa-handshake][Инновации",
-
-        hub: "all_locations][Все города",
-
-        type_detailed: "type_webinar][Вебинар",
-
-        place: "Вне учебного класса",
-
-        class: "на рабочем месте",
-
-        type: "webinar",
-
-        start_date: "2024-01-17T14:00:00+00:00",
-
-        finish_date: "2024-01-17T16:00:00+00:00",
-
-        organizational_form: "internal",
-
-        isMandatory: "Не обязательное",
-
-        event_form: "webinar",
-
-        calendar_show: true,
-
-        is_passed: 0,
-
-        company: "Петр Петрович",
-
-        Mandatorys: "0",
-
-        max_pers: 44,
-
-        registred: 0,
-
-        in_wlist: 0,
-    },
-
-    {
-        id: "7312099093906944098",
-
-        name: "Нацеленность на результат",
-
-        local_time_string: "",
-
-        event_max_pers: 80,
-
-        is_open: 1,
-
-        price: "",
-
-        is_single_person_price: 0,
-
-        description: "<p style='text-align: left; color: rgb(33, 37, 41); text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: Roboto, Arial, Tahoma, Verdana, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; margin-top: 0px; margin-bottom: 1rem; margin-left: 24pt; word-spacing: 0px; white-space: normal; box-sizing: border-box; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;'><strong style='box-sizing:border-box; font-weight:bolder; margin-top:0px'>О вебинаре:</strong></p><p style='text-align: left; color: rgb(33, 37, 41); text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: Roboto, Arial, Tahoma, Verdana, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; margin-top: 0px; margin-bottom: 1rem; margin-left: 24pt; word-spacing: 0px; white-space: normal; box-sizing: border-box; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;'>Возможно, вы замечали, что вам не всегда хватает упорства в достижении запланированного. Или трудности на старте способны заставить вас отказаться от своих целей. Вебинар &laquo;Нацеленность на результат&raquo; познакомит вас с инструментами, которые помогут доводить начатое до конечного результата, стать эффективнее и достигать новых горизонтов в карьере и в жизни.</p><p style='text-align: left; color: rgb(33, 37, 41); text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: Roboto, Arial, Tahoma, Verdana, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; margin-top: 0px; margin-bottom: 1rem; margin-left: 24pt; word-spacing: 0px; white-space: normal; box-sizing: border-box; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;'><strong style='box-sizing:border-box; font-weight:bolder; margin-top:0px'>На вебинаре вы узнаете:</strong></p><ul style='text-align: left; color: rgb(33, 37, 41); text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: Roboto, Arial, Tahoma, Verdana, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; margin-top: 0px; margin-bottom: 1rem; word-spacing: 0px; white-space: normal; box-sizing: border-box; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;'><li style='margin-top: 0px; box-sizing: border-box;'>Какие бывают цели и как правильно их ставить</li><li style='box-sizing: border-box;'>Что мешает и что помогает в достижении целей</li><li style='box-sizing: border-box;'>Как научиться принимать ответственность за результат</li><li style='box-sizing: border-box;'>Как работать с ресурсами для достижения результата</li></ul><p style='text-align: left; color: rgb(33, 37, 41); text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: Roboto, Arial, Tahoma, Verdana, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; margin-top: 0px; margin-bottom: 1rem; margin-left: 24pt; word-spacing: 0px; white-space: normal; box-sizing: border-box; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;'><strong style='box-sizing:border-box; font-weight:bolder; margin-top:0px'>В результате вы:</strong></p><ul style='text-align: left; color: rgb(33, 37, 41); text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: Roboto, Arial, Tahoma, Verdana, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; margin-top: 0px; margin-bottom: 1rem; word-spacing: 0px; white-space: normal; box-sizing: border-box; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;'><li style='margin-top: 0px; box-sizing: border-box;'>Сможете ставить перед собой масштабные цели</li><li style='box-sizing: border-box;'>Поймёте, как пошагово реализовывать их</li><li style='box-sizing: border-box;'>Получите алгоритм достижения результата</li></ul>",
-
-        calendar_group: 0,
-        person_effect: 0,
-        lead_skill: 0,
-        digital_it: 0,
-        design_prod_tech: 0,
-        bank_finance: 0,
-        customer_orient: 0,
-
-        type_no_access: "",
-
-        for_type: "spec][Для специалистов",
-
-        event_rb_type: "tle][Тренинги личной эффективности",
-
-        beexpert: 0,
-
-        is_devops: 0,
-
-        starting: 0,
-        learn_own: 1,
-        lead_academy: 0,
-        lead_friday: 0,
-        digital_lit: 0,
-        finance_lit: 0,
-
-        is_la: 0,
-
-        type_val: "fa-heart][Вовлеченность;fa-check-circle][Ответственность",
-
-        hub: "all_locations][Все города",
-
-        type_detailed: "type_webinar][Вебинар",
-
-        place: "Вне учебного класса",
-
-        class: "на рабочем месте",
-
-        type: "webinar",
-
-        start_date: "2024-02-24T13:00:00+00:00",
-
-        finish_date: "2024-02-24T15:30:00+00:00",
-
-        organizational_form: "internal",
-
-        isMandatory: "Не обязательное",
-
-        event_form: "webinar",
-
-        calendar_show: true,
-
-        is_passed: 0,
-
-        company: "Петр Петрович",
-
-        Mandatorys: "0",
-
-        max_pers: 43,
-
-        registred: 1,
-
-        in_wlist: 0,
-    },
-
-    {
-        id: "7312100558109940552",
-
-        name: "Методы и приемы саморегуляции",
-
-        local_time_string: "",
-
-        event_max_pers: 80,
-
-        is_open: 1,
-
-        price: "",
-
-        is_single_person_price: 0,
-
-        description: "<p><strong>Методы и приемы саморегуляции</strong></p><p><strong>О вебинаре:</strong>Наша жизнь проходит в условиях неопределенности, риска, давления времени и обстоятельств. Управление своим стрессом, эмоциональным состоянием и жизненным тонусом &mdash; это ключевой навык, определяющий профессиональную эффективность личности</p><p><strong>На вебинаре вы узнаете: </strong></p><ul class='”bullet--red”'><li>Естественные методы и приемы саморегуляции</li><li>Приемы, способствующие снятию стрессового напряжения</li></ul><p><strong>Посетив вебинар, вы научитесь: </strong></p><ul class='”bullet--red”'><li>Снимать накопленное напряжение</li><li>Подбирать приемы, подходящие именно вам</li></ul>",
-
-        calendar_group: 0,
-        person_effect: 0,
-        lead_skill: 0,
-        digital_it: 0,
-        design_prod_tech: 0,
-        bank_finance: 0,
-        customer_orient: 0,
-
-        type_no_access: "",
-
-        for_type: "spec][Для специалистов",
-
-        event_rb_type: "tle][Тренинги личной эффективности",
-
-        beexpert: 0,
-
-        is_devops: 0,
-
-        starting: 0,
-        learn_own: 0,
-        lead_academy: 1,
-        lead_friday: 0,
-        digital_lit: 0,
-        finance_lit: 0,
-
-        is_la: 0,
-
-        type_val: "fa-heart][Вовлеченность",
-
-        hub: "all_locations][Все города",
-
-        type_detailed: "type_webinar][Вебинар",
-
-        place: "Вне учебного класса",
-
-        class: "на рабочем месте",
-
-        type: "webinar",
-
-        start_date: "2024-01-31T14:00:00+00:00",
-
-        finish_date: "2024-01-31T16:00:00+00:00",
-
-        organizational_form: "internal",
-
-        isMandatory: "Не обязательное",
-
-        event_form: "webinar",
-
-        calendar_show: true,
-
-        is_passed: 0,
-
-        company: "Петр Петрович",
-
-        Mandatorys: "0",
-
-        max_pers: 37,
-
-        registred: 0,
-
-        in_wlist: 0,
-    },
-
-    {
-        id: "7312338064519941988",
-
-        name: "Навык глубокой концентрации внимания",
-
-        local_time_string: "мск",
-
-        event_max_pers: 120,
-
-        is_open: 1,
-
-        price: "",
-
-        is_single_person_price: 0,
-
-        description: "<p><strong>Навык глубокой концентрации внимания</strong></p><p><strong>О вебинаре</strong></p><p>Почти каждый из нас ежедневно получает и обрабатывает огромный объём информации. Сосредоточиться на чём-то одном кажется невероятно сложным. А быстро переключиться с одного вопроса на другой бывает еще сложнее. Понимание лимитов и возможностей организма и работа над их совершенствованием поможет улучшить ситуацию.<br /><br />Важно осознать, что вы сами можете помочь себе изменить привычный порядок вещей сейчас. &nbsp;Потом станет легче и проще. Главное &ndash; начать пробовать методы, которые помогут вам концентрироваться на поставленной задаче, быстрее достигать рабочих результатов и повышать работоспособность.</p><p><strong>На вебинаре вы изучите:</strong></p><ul><li>Основные стратегии глубокой концентрации внимания</li><li>Практические упражнения на каждый день для работы с собственным вниманием</li></ul><p><strong>В результате вы:</strong></p><ul><li>Узнаете, как сосредотачиваться на конкретных задачах, не отвлекаясь в процессе</li><li>Изучите инструменты, которые помогут победить отвлекающие внимание факторы</li><li>Повысите эффективность выполнения рабочих задач</li></ul>",
-
-        calendar_group: 0,
-        person_effect: 0,
-        lead_skill: 0,
-        digital_it: 0,
-        design_prod_tech: 0,
-        bank_finance: 0,
-        customer_orient: 0,
-
-        type_no_access: "",
-
-        for_type: "spec][Для специалистов;boss][Для руководителей",
-
-        event_rb_type: "tle][Тренинги личной эффективности",
-
-        beexpert: 0,
-
-        is_devops: 0,
-        learn_own: 0,
-        lead_academy: 0,
-        lead_friday: 0,
-        digital_lit: 0,
-        finance_lit: 0,
-
-        starting: 0,
-
-        is_la: 0,
-
-        type_val: "fa-heart][Вовлеченность;fa-user][Клиент;fa-check-circle][Ответственность",
-
-        hub: "all_locations][Все города",
-
-        type_detailed: "type_webinar][Вебинар",
-
-        place: "Вне учебного класса",
-
-        class: "Рабочее место сотрудника",
-
-        type: "webinar",
-
-        start_date: "2024-01-18T10:00:00+00:00",
-
-        finish_date: "2024-01-18T12:30:00+00:00",
-
-        organizational_form: "internal",
-
-        isMandatory: "Не обязательное",
-
-        event_form: "webinar",
-
-        calendar_show: true,
-
-        is_passed: 0,
-
-        company: "Петр Петрович",
-
-        Mandatorys: "0",
-
-        max_pers: 0,
-
-        registred: 0,
-
-        in_wlist: 0,
-    },
-
-    {
-        id: "7312346655615251481",
-
-        name: "Публичные выступления: ответы на вопросы",
-
-        local_time_string: "мск",
-
-        event_max_pers: 80,
-
-        is_open: 1,
-
-        price: "",
-
-        is_single_person_price: 0,
-
-        description: "<p><span style='font-family:montserrat rb; font-size:10pt; line-height:107%; mso-ansi-language:RU; mso-bidi-font-family:&quot;Times New Roman&quot;; mso-bidi-language:AR-SA; mso-bidi-theme-font:minor-bidi; mso-fareast-font-family:Calibri; mso-fareast-language:EN-US; mso-fareast-theme-font:minor-latin'><strong>Публичные выступления: ответы на вопросы</strong></span></p><p><strong>О вебинаре: </strong>Когда во время или после выступления спикеру задают вопросы &ndash; это здорово! Значит, удалось вызвать интерес к теме, и слушатели хотят получить еще больше информации.&nbsp; Однако, порой вопросы могут застать спикера врасплох. И тогда возникает растерянность или страх. &laquo;А вдруг я скажу что-то не то или не так?&raquo; Для того чтобы быть уверенным и не сбиться с мысли, важно уметь работать с аудиторией и грамотно отвечать на вопросы.</p><p><strong>На вебинаре вы узнаете:</strong></p><ul><li>Основные правила и техники ответов на вопросы</li><li>Что делать, если ответа на вопрос нет</li><li>Как работать со сложными участниками и отвечать на каверзные вопросы</li></ul><p><strong>В результате вы:</strong></p><ul><li>Изучите базовые алгоритмы ответов на вопросы</li><li>Узнаете, как &laquo;сохранить лицо&raquo;, если не знаете ответ</li><li>Научитесь корректно отвечать на провокационные вопросы</li></ul>",
-
-        calendar_group: 0,
-        person_effect: 0,
-        lead_skill: 0,
-        digital_it: 0,
-        design_prod_tech: 0,
-        bank_finance: 0,
-        customer_orient: 0,
-
-        type_no_access: "",
-
-        for_type: "boss][Для руководителей;spec][Для специалистов",
-
-        event_rb_type: "tle][Тренинги личной эффективности",
-
-        beexpert: 0,
-
-        is_devops: 0,
-        learn_own: 0,
-        lead_academy: 0,
-        lead_friday: 0,
-        digital_lit: 0,
-        finance_lit: 0,
-
-        starting: 0,
-
-        is_la: 0,
-
-        type_val: "fa-heart][Вовлеченность;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
-
-        hub: "all_locations][Все города",
-
-        type_detailed: "type_webinar][Вебинар",
-
-        place: "Вне учебного класса",
-
-        class: "Рабочее место сотрудника",
-
-        type: "webinar",
-
-        start_date: "2024-01-23T10:00:00+00:00",
-
-        finish_date: "2024-01-23T12:30:00+00:00",
-
-        organizational_form: "internal",
-
-        isMandatory: "Не обязательное",
-
-        event_form: "webinar",
-
-        calendar_show: true,
-
-        is_passed: 0,
-
-        company: "Петр Петрович",
-
-        Mandatorys: "0",
-
-        max_pers: 52,
-
-        registred: 0,
-
-        in_wlist: 0,
-    },
-
-    {
-        id: "7312348567023995549",
-
-        name: "Лайфхаки Тайм - менеджмента",
-
-        local_time_string: "",
-
-        event_max_pers: 70,
-
-        is_open: 1,
-
-        price: "",
-
-        is_single_person_price: 0,
-
-        description: "<p><strong>Лайфхаки Тайм - менеджмента</strong></p><p><strong>О вебинаре:</strong>Пока вы не сможете управлять свои временем, вы не сможете управлять ничем другим (П. Друкер). Но что делать, если задач много, все они срочные, а времени катастрофически не хватает? Начните с участия в вебинаре &quot;Лайфхаки тайм-менеджмента&quot;. Эта программа направлена на развитие навыков планирования времени, чтобы успевать больше. Начните экономить время уже на вебинаре, ведь для этого мы изучили и проверили гигабайты информации, чтобы включить в программу только современные и работающие инструменты</p><p><strong>На вебинаре вы узнаете: </strong></p><ul class='”bullet--red”'><li>Как планировать и приоритезировать задачи</li><li>Как обойти ловушки времени</li><li>Что делать с прокрастинацией</li></ul><p><strong>Посетив вебинар, вы научитесь: </strong></p><ul class='”bullet--red”'><li>7 лайфхаков тайм-менеджмента на все случаи жизни</li><li>Возможность определить свой тип прокрастинации и получить советы по работе с ней</li><li>А также, рекомендации по управлению временем для тех, кто ненавидит тайм-менеджмент</li></ul>",
-
-        calendar_group: 0,
-        person_effect: 0,
-        lead_skill: 0,
-        digital_it: 0,
-        design_prod_tech: 0,
-        bank_finance: 0,
-        customer_orient: 0,
-
-        type_no_access: "",
-
-        for_type: "spec][Для специалистов",
-
-        event_rb_type: "tle][Тренинги личной эффективности",
-
-        beexpert: 0,
-
-        is_devops: 0,
-
-        starting: 0,
-        learn_own: 0,
-        lead_academy: 0,
-        lead_friday: 0,
-        digital_lit: 0,
-        finance_lit: 0,
-
-        is_la: 0,
-
-        type_val: "fa-heart][Вовлеченность;fa-user][Клиент;fa-check-circle][Ответственность",
-
-        hub: "all_locations][Все города",
-
-        type_detailed: "type_webinar][Вебинар",
-
-        place: "Вне учебного класса",
-
-        class: "на рабочих местах",
-
-        type: "webinar",
-
-        start_date: "2024-01-15T14:00:00+00:00",
-
-        finish_date: "2024-01-15T16:00:00+00:00",
-
-        organizational_form: "internal",
-
-        isMandatory: "Не обязательное",
-
-        event_form: "webinar",
-
-        calendar_show: true,
-
-        is_passed: 1,
-
-        company: "Петр Петрович",
-
-        Mandatorys: "0",
-
-        max_pers: 0,
-
-        registred: 0,
-
-        in_wlist: 0,
-    },
-
-    {
-        id: "7312351006149396287",
-
-        name: "Обратная связь - навигатор успеха",
-
-        local_time_string: "Московское",
-
-        event_max_pers: 80,
-
-        is_open: 1,
-
-        price: "",
-
-        is_single_person_price: 0,
-
-        description: "<p><b>Обратная связь - навигатор успеха</b></p>\n\n<p><b>О вебинаре:</b>Часто обратная связь воспринимается как критика. Однако этот инструмент подходит и для развития и для вдохновения, поддержки и выстраивания открытых отношений</p>\n\n<p><b>На вебинаре вы узнаете: </b></p>\n<ul class=”bullet--red”>\n<li>Как принимать обратную связь, чтобы не остаться без нее в будущем</li>\n<li>Как запрашивать обратную связь, чтобы получить нужные комментарии</li>\n<li>Как давать обратную связь, используя разные алгоритмы, и остаться в позитивных взаимоотношениях</li>\n </ul>\n\n<p><b>Посетив вебинар, вы научитесь: </b></p>\n<ul class=”bullet--red”>\n<li>Применять алгоритмы подачи ОС на практике</li>\n </ul>",
-
-        calendar_group: 0,
-        person_effect: 0,
-        lead_skill: 0,
-        digital_it: 0,
-        design_prod_tech: 0,
-        bank_finance: 0,
-        customer_orient: 0,
-
-        type_no_access: "",
-
-        for_type: "spec][Для специалистов",
-
-        event_rb_type: "tle][Тренинги личной эффективности",
-
-        beexpert: 0,
-
-        is_devops: 0,
-        learn_own: 0,
-        lead_academy: 0,
-        lead_friday: 0,
-        digital_lit: 0,
-        finance_lit: 0,
-
-        starting: 0,
-
-        is_la: 0,
-
-        type_val: "fa-lightbulb][Командный br дух;fa-user][Клиент;fa-heart][Вовлеченность;fa-check-circle][Ответственность",
-
-        hub: "all_locations][Все города",
-
-        type_detailed: "type_webinar][Вебинар",
-
-        place: "На рабочих местах",
-
-        class: "На рабочих местах",
-
-        type: "webinar",
-
-        start_date: "2024-01-16T14:00:00+00:00",
-
-        finish_date: "2024-01-16T16:30:00+00:00",
-
-        organizational_form: "internal",
-
-        isMandatory: "Не обязательное",
-
-        event_form: "webinar",
-
-        calendar_show: true,
-
-        is_passed: 0,
-
-        company: "Петр Петрович",
-
-        Mandatorys: "0",
-
-        max_pers: 44,
-
-        registred: 0,
-
-        in_wlist: 0,
-    },
-
-    {
-        id: "7312352127093338799",
-
-        name: "BeExpert_Excel как инструмент базового прототипирования",
-
-        local_time_string: "",
-
-        event_max_pers: 500,
-
-        is_open: 1,
-
-        price: "",
-
-        is_single_person_price: 0,
-
-        description: '<p>Друзья, приглашаем вас на вебинар в рамках проекта BeExpert &nbsp;<strong>&quot;Excel как инструмент базового прототипирования&quot;</strong></p><p>В рамках вебинара вы узнаете</p><ul><li>как создать визуализированную сводную таблицу</li><li>как внедрить sql запрос в прототип на Excel</li></ul><p><strong>Спикер - Герасименко Антон, начальник управления </strong><strong style="-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgba(0, 0, 0, 0.87); display:inline !important; float:none; font-family:roboto,helvetica neue,sans-serif; font-size:14px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:700; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px">по развитию аналитических и CRM-систем</strong></p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>',
-
-        calendar_group: 0,
-        person_effect: 0,
-        lead_skill: 0,
-        digital_it: 0,
-        design_prod_tech: 0,
-        bank_finance: 0,
-        customer_orient: 0,
-
-        type_no_access: "",
-
-        for_type: "boss][Для руководителей;spec][Для специалистов",
-
-        event_rb_type: "prof][Профессиональное обучение",
-
-        beexpert: 1,
-
-        is_devops: 0,
-        learn_own: 0,
-        lead_academy: 0,
-        lead_friday: 0,
-        digital_lit: 0,
-        finance_lit: 0,
-
-        starting: 0,
-
-        is_la: 0,
-
-        type_val: "fa-handshake][Инновации",
-
-        hub: "all_locations][Все города",
-
-        type_detailed: "type_training][Тренинг",
-
-        place: "Вне учебного класса",
-
-        class: "на рабочем месте",
-
-        type: "webinar",
-
-        start_date: "2024-01-17T10:00:00+00:00",
-
-        finish_date: "2024-01-17T11:00:00+00:00",
-
-        organizational_form: "internal",
-
-        isMandatory: "Не обязательное",
-
-        event_form: "webinar",
-
-        calendar_show: true,
-
-        is_passed: 0,
-
-        company: "Петр Петрович",
-
-        Mandatorys: "0",
-
-        max_pers: 319,
-
-        registred: 0,
-
-        in_wlist: 0,
-    },
-
-    {
-        id: "7312352934982084059",
-
-        name: "Публичные выступления: структура основной части",
-
-        local_time_string: "мск",
-
-        event_max_pers: 50,
-
-        is_open: 1,
-
-        price: "",
-
-        is_single_person_price: 0,
-
-        description: "<p><strong>Публичные выступления: структура основной части</strong></p><p><strong>О вебинаре: </strong>Слушая выступление, вы когда-нибудь задавались вопросами &laquo;Когда это закончится, к чему он это говорит?&raquo; или &laquo;Для чего я сейчас это слушаю?&raquo;. Чтобы вас увлечённо и внимательно слушали, надо грамотно структурировать информацию, придерживаться алгоритму подачи аргументов, и излагать идею таким образом, чтобы слушателю было удобно воспринимать.</p><p><strong>На вебинаре вы узнаете:&nbsp;&nbsp;&nbsp; </strong></p><ul><li>Как из большого объема информации выбрать нужное</li><li>Как доказательно и стройно подать аргументы, чтобы вас услышали</li></ul><p><strong>Посетив вебинар, вы научитесь:</strong></p><ul><li>Структурировать информацию, пояснять сложные термины</li><li>Озвучивать аргументы в удобном для слушателя формате</li></ul>",
-
-        calendar_group: 0,
-        person_effect: 0,
-        lead_skill: 0,
-        digital_it: 0,
-        design_prod_tech: 0,
-        bank_finance: 0,
-        customer_orient: 0,
-
-        type_no_access: "",
-
-        for_type: "spec][Для специалистов",
-
-        event_rb_type: "tle][Тренинги личной эффективности",
-
-        beexpert: 0,
-
-        is_devops: 0,
-        learn_own: 0,
-        lead_academy: 0,
-        lead_friday: 0,
-        digital_lit: 0,
-        finance_lit: 0,
-
-        starting: 0,
-
-        is_la: 0,
-
-        type_val: "fa-heart][Вовлеченность;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
-
-        hub: "all_locations][Все города",
-
-        type_detailed: "type_webinar][Вебинар",
-
-        place: "Вне учебного класса",
-
-        class: "Рабочее место сотрудника",
-
-        type: "webinar",
-
-        start_date: "2024-01-29T11:00:00+00:00",
-
-        finish_date: "2024-01-29T14:00:00+00:00",
-
-        organizational_form: "internal",
-
-        isMandatory: "Не обязательное",
-
-        event_form: "webinar",
-
-        calendar_show: true,
-
-        is_passed: 0,
-
-        company: "Петр Петрович",
-
-        Mandatorys: "0",
-
-        max_pers: 15,
-
-        registred: 0,
-
-        in_wlist: 0,
-    },
-
-    {
-        id: "7312354484717249478",
-
-        name: "Публичные выступления: язык тела и речь",
-
-        local_time_string: "Московское",
-
-        event_max_pers: 50,
-
-        is_open: 1,
-
-        price: "",
-
-        is_single_person_price: 0,
-
-        description: "<p style='margin: 0cm 0cm 10pt;'><span style='font-family:arial,helvetica,sans-serif'>Каждый спикер знает, что важно захватить внимание аудитории и удержать его - это помогает донести основную идею.</span></p><p style='margin: 0cm 0cm 10pt;'><span style='font-family:arial,helvetica,sans-serif'>Необходимо, чтобы все каналы, которые вы используете для передачи информации, соответствовали друг другу. И особенно актуально это стало в цифровом общении.</span></p><p style='margin: 0cm 0cm 10pt;'><span style='font-family:arial,helvetica,sans-serif'>Как с помощью зрительного контакта, скорости речи и интонации и других невербальных приемов управлять аудиторией офлайн и онлайн? Ответы на эти и другие вопросы вы получите на нашем мастер классе.</span></p><p style='margin: 0cm 0cm 10pt;'><span style='font-family:arial,helvetica,sans-serif'><strong>Вы узнаете:</strong></span></p><p style='margin: 0cm 0cm 10pt;'><span style='font-family:arial,helvetica,sans-serif'>- об особенностях языка тела и характеристиках речи спикера</span></p><p style='margin: 0cm 0cm 10pt;'><span style='font-family:arial,helvetica,sans-serif'>- об их роли в выступлении и механике управления</span></p><p style='margin: 0cm 0cm 10pt;'><strong><span style='font-family:arial,helvetica,sans-serif'>И научитесь:</span></strong></p><p style='margin: 0cm 0cm 10pt;'><span style='font-family:arial,helvetica,sans-serif'>- повышать эффективность своих выступлений через использование всех каналов передачи информации</span></p>",
-
-        calendar_group: 0,
-        person_effect: 0,
-        lead_skill: 0,
-        digital_it: 0,
-        design_prod_tech: 0,
-        bank_finance: 0,
-        customer_orient: 0,
-
-        type_no_access: "",
-
-        for_type: "spec][Для специалистов",
-
-        event_rb_type: "tle][Тренинги личной эффективности",
-
-        beexpert: 0,
-
-        is_devops: 0,
-
-        starting: 0,
-        learn_own: 0,
-        lead_academy: 0,
-        lead_friday: 0,
-        digital_lit: 0,
-        finance_lit: 0,
-
-        is_la: 0,
-
-        type_val: "fa-check-circle][Ответственность;fa-heart][Вовлеченность;fa-user][Клиент;fa-handshake][Инновации",
-
-        hub: "all_locations][Все города",
-
-        type_detailed: "type_webinar][Вебинар",
-
-        place: "На рабочих местах",
-
-        class: "На рабочих местах",
-
-        type: "webinar",
-
-        start_date: "2024-01-25T14:00:00+00:00",
-
-        finish_date: "2024-01-25T16:30:00+00:00",
-
-        organizational_form: "external",
-
-        isMandatory: "Не обязательное",
-
-        event_form: "webinar",
-
-        calendar_show: true,
-
-        is_passed: 0,
-
-        company: "Петр Петрович",
-
-        Mandatorys: "0",
-
-        max_pers: 0,
-
-        registred: 0,
-
-        in_wlist: 0,
-    },
-
-    {
-        id: "7312355880091678054",
-
-        name: "Эмоциональный интеллект",
-
-        local_time_string: "",
-
-        event_max_pers: 100,
-
-        is_open: 1,
-
-        price: "",
-
-        is_single_person_price: 0,
-
-        description: "<p><strong>Эмоциональный интеллект</strong></p><p><strong>О вебинаре:</strong>Слышали про эмоциональный интеллект, но так до конца и не разобрались, что это и зачем он нужен? Оказывается, развитие эмоционального интеллекта помогает человеку быть успешнее и эффективнее решать задачи. Что это такое и как его применять мы разберем на вебинаре</p><p><strong>На вебинаре вы узнаете: </strong></p><ul class='”bullet--red”'><li>Что такое эмоциональный интеллект и как управлять механизмом действия эмоций</li><li>Как научиться идентифицировать, анализировать и осознавать эмоции и их источники</li><li>Как применять техники управления собственными и чужими эмоциями</li></ul><p><strong>Посетив вебинар, вы научитесь: </strong></p><ul class='”bullet--red”'><li>Управлять собственными и чужими эмоциями, идентифицировать и анализировать эмоциональные состояния для повышения личной эффективности</li><li>Применять все необходимые инструменты для управления эмоциями в работе и в жизни</li></ul><p>Время проведения: 3 часа (предусмотрен 10-минутный перерыв в рамках программы)</p>",
-
-        calendar_group: 0,
-        person_effect: 0,
-        lead_skill: 0,
-        digital_it: 0,
-        design_prod_tech: 0,
-        bank_finance: 0,
-        customer_orient: 0,
-
-        type_no_access: "",
-
-        for_type: "spec][Для специалистов",
-
-        event_rb_type: "tle][Тренинги личной эффективности",
-
-        beexpert: 0,
-
-        is_devops: 0,
-
-        starting: 0,
-        learn_own: 0,
-        lead_academy: 0,
-        lead_friday: 0,
-        digital_lit: 0,
-        finance_lit: 0,
-
-        is_la: 0,
-
-        type_val: "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
-
-        hub: "all_locations][Все города",
-
-        type_detailed: "type_webinar][Вебинар",
-
-        place: "На рабочих местах",
-
-        class: "На рабочих местах",
-
-        type: "webinar",
-
-        start_date: "2024-01-30T10:00:00+00:00",
-
-        finish_date: "2024-01-30T13:00:00+00:00",
-
-        organizational_form: "internal",
-
-        isMandatory: "Не обязательное",
-
-        event_form: "webinar",
-
-        calendar_show: true,
-
-        is_passed: 0,
-
-        company: "Петр Петрович",
-
-        Mandatorys: "0",
-
-        max_pers: 24,
-
-        registred: 0,
-
-        in_wlist: 0,
-    },
-
-    {
-        id: "7312357606748068164",
-
-        name: "Стратегии и стили ведения переговоров",
-
-        local_time_string: "",
-
-        event_max_pers: 100,
-
-        is_open: 1,
-
-        price: "",
-
-        is_single_person_price: 0,
-
-        description: "<p><b>Стратегии и стили ведения переговоров</b></p>\n\n<p><b>О вебинаре:</b>Нашу жизнь сопровождают переговоры. Это могут быть переговоры с коллегами, партнерами, провайдерами, руководителями о цене, или о получении каких-то выгод, или просто чтобы делегировать задачу. Не все переговоры мы заканчиваем успешно и достигаем поставленных целей. Во время обучения мы разбираем стили и стратегии ведения переговоров, чтобы всегда получать желаемый результат</p>\n\n<p><b>На вебинаре вы узнаете: </b></p>\n<ul class=”bullet--red”>\n<li>Какие бывают стратегии ведения переговоров, как понять какую использует партнер и как подобрать стратегию, которая приведет к максимальному результату</li>\n<li>Какие стили ведения переговоров существуют, а также какой из них самый прибыльный для бизнеса </li>\n </ul>\n\n<p><b>Посетив вебинар, вы научитесь: </b></p>\n<ul class=”bullet--red”>\n<li>Выбирать и применять эффективные стиль и стратегию ведения переговоров</li>\n<li>Изменять стиль и стратегию в зависимости от оппонента</li>\n </ul>",
-
-        calendar_group: 0,
-        person_effect: 0,
-        lead_skill: 0,
-        digital_it: 0,
-        design_prod_tech: 0,
-        bank_finance: 0,
-        customer_orient: 0,
-
-        type_no_access: "",
-
-        for_type: "spec][Для специалистов",
-
-        event_rb_type: "tle][Тренинги личной эффективности",
-
-        beexpert: 0,
-
-        is_devops: 0,
-        learn_own: 0,
-        lead_academy: 0,
-        lead_friday: 0,
-        digital_lit: 0,
-        finance_lit: 0,
-
-        starting: 0,
-
-        is_la: 0,
-
-        type_val: "fa-heart][Вовлеченность;fa-user][Клиент",
-
-        hub: "all_locations][Все города",
-
-        type_detailed: "type_webinar][Вебинар",
-
-        place: "Вне учебного класса",
-
-        class: "на рабочих местах",
-
-        type: "webinar",
-
-        start_date: "2024-01-18T10:00:00+00:00",
-
-        finish_date: "2024-01-18T13:00:00+00:00",
-
-        organizational_form: "internal",
-
-        isMandatory: "Не обязательное",
-
-        event_form: "webinar",
-
-        calendar_show: true,
-
-        is_passed: 0,
-
-        company: "Петр Петрович",
-
-        Mandatorys: "0",
-
-        max_pers: 39,
-
-        registred: 0,
-
-        in_wlist: 0,
-    },
-
-    {
-        id: "7312360780104097515",
-
-        name: "Публичные выступления: работа с волнением",
-
-        local_time_string: "",
-
-        event_max_pers: 80,
-
-        is_open: 1,
-
-        price: "",
-
-        is_single_person_price: 0,
-
-        description: "<p>Страх публичного выступления является одним из самых распространенных и сильных социальных страхов. Его испытывает более 90% человечества. Каждый из нас оказывался в ситуации, когда мысли путались, тело не слушалось, и страх брал верх.</p><p>Почему люди испытывают волнение, можно ли им управлять &ndash; разберем на вебинаре.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p><p><strong>Вы узнаете:</strong></p><ul><li>Как можно работать с телом, мыслями и эмоциями в момент волнения</li><li>Как работать с волнением до, во время и после выступления</li></ul><p><strong>И потренируетесь:</strong></p><ul><li>Использовать инструменты для снижения волнения</li></ul>",
-
-        calendar_group: 0,
-        person_effect: 0,
-        lead_skill: 0,
-        digital_it: 0,
-        design_prod_tech: 0,
-        bank_finance: 0,
-        customer_orient: 0,
-
-        type_no_access: "",
-
-        for_type: "boss][Для руководителей;spec][Для специалистов",
-
-        event_rb_type: "tle][Тренинги личной эффективности",
-
-        beexpert: 0,
-
-        is_devops: 0,
-        learn_own: 0,
-        lead_academy: 0,
-        lead_friday: 0,
-        digital_lit: 0,
-        finance_lit: 0,
-
-        starting: 0,
-
-        is_la: 0,
-
-        type_val: "fa-heart][Вовлеченность;fa-check-circle][Ответственность;fa-user][Клиент",
-
-        hub: "all_locations][Все города",
-
-        type_detailed: "type_webinar][Вебинар",
-
-        place: "Вне учебного класса",
-
-        class: "на рабочих местах",
-
-        type: "webinar",
-
-        start_date: "2024-01-23T14:00:00+00:00",
-
-        finish_date: "2024-01-23T16:30:00+00:00",
-
-        organizational_form: "internal",
-
-        isMandatory: "Обязательное",
-
-        event_form: "webinar",
-
-        calendar_show: true,
-
-        is_passed: 0,
-
-        company: "Петр Петрович",
-
-        Mandatorys: "0",
-
-        max_pers: 23,
-
-        registred: 0,
-
-        in_wlist: 0,
-    },
-
-    {
-        id: "7312363988404865379",
-
-        name: "Навыки переговоров",
-
-        local_time_string: "",
-
-        event_max_pers: 100,
-
-        is_open: 1,
-
-        price: "",
-
-        is_single_person_price: 0,
-
-        description: "<p><b>Навыки переговоров</b></p>\n\n<p><b>О вебинаре:</b>В комнате для переговоров и за её пределами наш вебинар сделает опытных или начинающих переговорщиков более умелыми и уверенными в себе. Окунитесь с головой в искусство переговоров вместе с нами</p>\n\n<p><b>На вебинаре вы узнаете: </b></p>\n<ul class=”bullet--red”>\n<li>Что такое переговоры и чем они отличаются от продажи для того, чтобы выбирать и применять техники и приемы, принятые в переговорном процессе</li>\n<li>Какие этапы переговорного процесса существуют и их особенности для того, чтобы лучше ориентироваться в переговорном процессе и использовать техники, повышающие его эффективность</li>\n </ul>\n\n<p><b>Посетив вебинар, вы научитесь: </b></p>\n<ul class=”bullet--red”>\n<li>Готовиться к переговорам</li>\n<li>Анализировать предложение оппонента и грамотно аргументировать свою позицию</li>\n<li>Быть гибкими в процессе переговоров</li>\n<li>Завершать переговоры и закреплять полученные договоренности</li>\n </ul>",
-
-        calendar_group: 0,
-        person_effect: 0,
-        lead_skill: 0,
-        digital_it: 0,
-        design_prod_tech: 0,
-        bank_finance: 0,
-        customer_orient: 0,
-
-        type_no_access: "",
-
-        for_type: "spec][Для специалистов",
-
-        event_rb_type: "tle][Тренинги личной эффективности",
-
-        beexpert: 0,
-
-        is_devops: 0,
-
-        starting: 0,
-        learn_own: 0,
-        lead_academy: 0,
-        lead_friday: 0,
-        digital_lit: 0,
-        finance_lit: 0,
-
-        is_la: 0,
-
-        type_val: "fa-user][Клиент;fa-heart][Вовлеченность",
-
-        hub: "all_locations][Все города",
-
-        type_detailed: "type_webinar][Вебинар",
-
-        place: "На рабочих местах",
-
-        class: "вне учебного класса",
-
-        type: "webinar",
-
-        start_date: "2024-01-25T10:00:00+00:00",
-
-        finish_date: "2024-01-25T13:00:00+00:00",
-
-        organizational_form: "internal",
-
-        isMandatory: "Не обязательное",
-
-        event_form: "webinar",
-
-        calendar_show: true,
-
-        is_passed: 0,
-
-        company: "Петр Петрович",
-
-        Mandatorys: "0",
-
-        max_pers: 37,
-
-        registred: 0,
-
-        in_wlist: 0,
-    },
-
-    {
-        id: "7312368684707295043",
-
-        name: "Управление конфликтом",
-
-        local_time_string: "",
-
-        event_max_pers: 80,
-
-        is_open: 1,
-
-        price: "",
-
-        is_single_person_price: 0,
-
-        description: "<p><strong>О вебинаре:</strong></p><p>Как научиться никогда не попадать в конфликтные ситуации? Никак :) ?</p><p>Конфликты &ndash; это нормальное течение жизни, этап развития отношений и их неотъемлемая часть.</p><p>Конфликты неизбежны, потому что противоположные взгляды, стремления, различия в потребностях и желаниях будут всегда.</p><p>А как эффективно вести себя в конфликте, чтобы влиять на его исход, вы узнаете на нашем вебинаре.</p><p><strong>Посетив вебинар, Вы научитесь:</strong></p><p>- Распознавать &laquo;сигналы&raquo; зарождения конфликта</p><p>- Влиять на устранение/минимизацию причин, порождающих конфликт</p><p>- Переводить конфликт в рациональное русло</p><p align='LEFT' dir='LTR'>- Осознанно работать над взаимоотношениями после конфликта</p><p align='JUSTIFY' dir='LTR'>&nbsp;</p>",
-
-        calendar_group: 0,
-        person_effect: 0,
-        lead_skill: 0,
-        digital_it: 0,
-        design_prod_tech: 0,
-        bank_finance: 0,
-        customer_orient: 0,
-
-        type_no_access: "",
-
-        for_type: "spec][Для специалистов",
-
-        event_rb_type: "tle][Тренинги личной эффективности",
-
-        beexpert: 0,
-
-        is_devops: 0,
-        learn_own: 0,
-        lead_academy: 0,
-        lead_friday: 0,
-        digital_lit: 0,
-        finance_lit: 0,
-
-        starting: 0,
-
-        is_la: 0,
-
-        type_val: "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-check-circle][Ответственность",
-
-        hub: "all_locations][Все города",
-
-        type_detailed: "type_webinar][Вебинар",
-
-        place: "На рабочих местах",
-
-        class: "На рабочих местах",
-
-        type: "webinar",
-
-        start_date: "2024-01-16T10:00:00+00:00",
-
-        finish_date: "2024-01-16T13:00:00+00:00",
-
-        organizational_form: "internal",
-
-        isMandatory: "Не обязательное",
-
-        event_form: "webinar",
-
-        calendar_show: true,
-
-        is_passed: 0,
-
-        company: "Петр Петрович",
-
-        Mandatorys: "0",
-
-        max_pers: 20,
-
-        registred: 0,
-
-        in_wlist: 0,
-    },
-
-    {
-        id: "7312383054692515595",
-
-        name: "Навыки коммуникации",
-
-        local_time_string: "",
-
-        event_max_pers: 80,
-
-        is_open: 1,
-
-        price: "",
-
-        is_single_person_price: 0,
-
-        description: "<p><strong>Навыки коммуникации</strong></p><p><strong>О вебинаре:</strong>Эффективная коммуникация &ndash; залог успеха в любой жизненной сфере. Можно быть лучшим в своем деле, но если вы не умеете эффективно общаться с клиентами, сотрудниками и коллегами, многие возможности будут упущены. Как сделать коммуникацию еще более эффективной, разберем на вебинаре</p><p><strong>На вебинаре вы узнаете: </strong></p><ul class='”bullet--red”'><li>Как слышать и понимать, что хочет сказать собеседник</li><li>Как транслировать информацию, чтобы быть понятым</li><li>Как сделать эффективным деловое общение в мессенджерах (учиться будем прямо в WhatsApp!)</li></ul><p><strong>И&nbsp;потренируетесь: </strong></p><ul class='”bullet--red”'><li>Применять техники, которые сделают процесс приема и передачи информации более эффективным</li></ul>",
-
-        calendar_group: 0,
-        person_effect: 0,
-        lead_skill: 0,
-        digital_it: 0,
-        design_prod_tech: 0,
-        bank_finance: 0,
-        customer_orient: 0,
-
-        type_no_access: "",
-
-        for_type: "spec][Для специалистов",
-
-        event_rb_type: "tle][Тренинги личной эффективности",
-
-        beexpert: 0,
-
-        is_devops: 0,
-
-        starting: 0,
-        learn_own: 0,
-        lead_academy: 0,
-        lead_friday: 0,
-        digital_lit: 0,
-        finance_lit: 0,
-
-        is_la: 0,
-
-        type_val: "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-check-circle][Ответственность;fa-handshake][Инновации",
-
-        hub: "all_locations][Все города",
-
-        type_detailed: "type_webinar][Вебинар",
-
-        place: "Вне учебного класса",
-
-        class: "Рабочее место сотрудника",
-
-        type: "webinar",
-
-        start_date: "2024-01-16T10:00:00+00:00",
-
-        finish_date: "2024-01-17T12:00:00+00:00",
-
-        organizational_form: "internal",
-
-        isMandatory: "Не обязательное",
-
-        event_form: "webinar",
-
-        calendar_show: true,
-
-        is_passed: 0,
-
-        company: "Петр Петрович",
-
-        Mandatorys: "0",
-
-        max_pers: 18,
-
-        registred: 0,
-
-        in_wlist: 0,
-    },
-
-    {
-        id: "7312393483316064095",
-
-        name: "Мотивация. Практикум",
-
-        local_time_string: "МСК",
-
-        event_max_pers: 23,
-
-        is_open: 1,
-
-        price: "",
-
-        is_single_person_price: 0,
-
-        description: '<p>Практикум по использованию знаний о мотивации сотрудников для поддержания их вовлеченности в работу и достижения лучших результатов.</p><p><strong><u>Подготовка к практикуму</u></strong>:&nbsp;<a href="http://webtutor.rosbank.rus.socgen/rosbank/traj/index.html/#/activity/7221639651836897424" target="_blank" rel="noopener noreferrer">пройдите дистанционный курс &laquo;Мотивация&raquo; с теорией, примерами и кейсами.</a></p><p><strong>За 3 часа практикума вы потренируетесь:</strong></p><ul><li>определять индивидуальные мотивы сотрудников</li><li>выбирать мероприятия и вести диалог для стимулирования индивидуальной мотивации</li><li>мотивировать всю команду с помощью мотивационной речи</li><li>вести системную работу с мотивацией с учетом жизненного цикла сотрудника в организации</li></ul><p><strong>Формат вебинара:</strong> практикум - тренировка инструментов из электронного курса, работа в группах, активное обсуждение в чате и с включенным микрофоном</p><p><strong>О прохождении курса:</strong></p><p>Курс рассчитан на 1,5 часа. Если сложно выделить время единовременно, рекомендуем разделить прохождение&nbsp;на части. Некоторые коллеги бронируют слоты в календаре&nbsp;Outlook, чтобы сконцентрироваться на теме.&nbsp;</p><p><strong>Финальная сверка проходит за 1 день до начала вебинара.</strong></p>',
-
-        calendar_group: 0,
-        person_effect: 0,
-        lead_skill: 0,
-        digital_it: 0,
-        design_prod_tech: 0,
-        bank_finance: 0,
-        customer_orient: 0,
-
-        type_no_access: "",
-
-        for_type: "boss][Для руководителей",
-
-        event_rb_type: "manp][Менеджерские программы",
-
-        beexpert: 0,
-
-        is_devops: 0,
-
-        starting: 0,
-        learn_own: 0,
-        lead_academy: 0,
-        lead_friday: 0,
-        digital_lit: 0,
-        finance_lit: 0,
-
-        is_la: 0,
-
-        type_val: "fa-heart][Вовлеченность;fa-user][Клиент;fa-check-circle][Ответственность;fa-lightbulb][Командный br дух;fa-handshake][Инновации",
-
-        hub: "msc][Москва;west_hub][Нижний Новгород;smr][Самара;east_hub][Красноярск;all_locations][Все города",
-
-        type_detailed: "type_webinar][Вебинар",
-
-        place: "Вне учебного класса",
-
-        class: "вебинар",
-
-        type: "webinar",
-
-        start_date: "2024-01-18T10:00:00+00:00",
-
-        finish_date: "2024-01-18T13:30:00+00:00",
-
-        organizational_form: "internal",
-
-        isMandatory: "Не обязательное",
-
-        event_form: "webinar",
-
-        calendar_show: true,
-
-        is_passed: 0,
-
-        company: "Петр Петрович",
-
-        Mandatorys: "0",
-
-        max_pers: 0,
-
-        registred: 0,
-
-        in_wlist: 0,
-    },
-
-    {
-        id: "7312395470449544643",
-
-        name: "Путь к сердцу клиента",
-
-        local_time_string: "",
-
-        event_max_pers: 200,
-
-        is_open: 1,
-
-        price: "",
-
-        is_single_person_price: 0,
-
-        description: "<p><strong>О вебинаре</strong>: Клиент &ndash; это первое направление стратегии 2021-2025. Наша задача&nbsp;-&nbsp;стать надёжным и открытым партнёром для него на всю жизнь. Это возможно при участии каждого из нас, независимо от должности. На вебинаре попробуете себя в роли сотрудников компании &quot;Сила ветра&quot;, а также посмотрите, как принятые вами решения влияют на удовлетворенность клиента.<br />Сделаем первый шаг к сердцу клиента вместе!<br /><strong>На вебинаре вы узнаете:</strong><br />- Чем клиентоцентричность отличается от клиентоориентированности<br />- Что делает банк, чтобы достичь цели по клиентоцентричности<br /><strong>Посетив вебинар, вы научитесь:</strong><br />- Видеть связь между удовлетворённостью внутренних и внешних клиентов<br />- Вставать на сторону клиента и смотреть на ситуацию его глазами<br />Время: 2 часа 30 минут</p>",
-
-        calendar_group: 0,
-        person_effect: 0,
-        lead_skill: 0,
-        digital_it: 0,
-        design_prod_tech: 0,
-        bank_finance: 0,
-        customer_orient: 0,
-
-        type_no_access: "",
-
-        for_type: "spec][Для специалистов",
-
-        event_rb_type: "all][Общебанковские тренинги",
-
-        beexpert: 0,
-
-        is_devops: 0,
-
-        starting: 0,
-        learn_own: 0,
-        lead_academy: 0,
-        lead_friday: 0,
-        digital_lit: 0,
-        finance_lit: 0,
-
-        is_la: 0,
-
-        type_val: "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
-
-        hub: "all_locations][Все города",
-
-        type_detailed: "type_webinar][Вебинар",
-
-        place: "Вне учебного класса",
-
-        class: "Рабочее место сотрудника",
-
-        type: "webinar",
-
-        start_date: "2024-01-22T11:00:00+00:00",
-
-        finish_date: "2024-01-22T13:30:00+00:00",
-
-        organizational_form: "internal",
-
-        isMandatory: "Обязательное",
-
-        event_form: "webinar",
-
-        calendar_show: true,
-
-        is_passed: 0,
-
-        company: "Петр Петрович",
-
-        Mandatorys: "0",
-
-        max_pers: 97,
-
-        registred: 0,
-
-        in_wlist: 0,
-    },
-
-    {
-        id: "7312412428901769113",
-
-        name: "Путь к сердцу клиента",
-
-        local_time_string: "",
-
-        event_max_pers: 200,
-
-        is_open: 1,
-
-        price: "",
-
-        is_single_person_price: 0,
-
-        description: "<p><strong>О вебинаре</strong>: Клиент &ndash; это первое направление стратегии 2021-2025. Наша задача&nbsp;-&nbsp;стать надёжным и открытым партнёром для него на всю жизнь. Это возможно при участии каждого из нас, независимо от должности. На вебинаре попробуете себя в роли сотрудников компании &quot;Сила ветра&quot;, а также посмотрите, как принятые вами решения влияют на удовлетворенность клиента.<br />Сделаем первый шаг к сердцу клиента вместе!<br /><strong>На вебинаре вы узнаете:</strong><br />- Чем клиентоцентричность отличается от клиентоориентированности<br />- Что делает банк, чтобы достичь цели по клиентоцентричности<br /><strong>Посетив вебинар, вы научитесь:</strong><br />- Видеть связь между удовлетворённостью внутренних и внешних клиентов<br />- Вставать на сторону клиента и смотреть на ситуацию его глазами<br />Время: 2 часа 30 минут</p>",
-
-        calendar_group: 0,
-        person_effect: 0,
-        lead_skill: 0,
-        digital_it: 0,
-        design_prod_tech: 0,
-        bank_finance: 0,
-        customer_orient: 0,
-
-        type_no_access: "",
-
-        for_type: "spec][Для специалистов",
-
-        event_rb_type: "all][Общебанковские тренинги",
-
-        beexpert: 0,
-
-        is_devops: 0,
-        learn_own: 0,
-        lead_academy: 0,
-        lead_friday: 0,
-        digital_lit: 0,
-        finance_lit: 0,
-
-        starting: 0,
-
-        is_la: 0,
-
-        type_val: "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
-
-        hub: "all_locations][Все города",
-
-        type_detailed: "type_webinar][Вебинар",
-
-        place: "Вне учебного класса",
-
-        class: "на рабочих местах",
-
-        type: "webinar",
-
-        start_date: "2024-01-31T10:00:00+00:00",
-
-        finish_date: "2024-01-31T12:30:00+00:00",
-
-        organizational_form: "internal",
-
-        isMandatory: "Обязательное",
-
-        event_form: "webinar",
-
-        calendar_show: true,
-
-        is_passed: 0,
-
-        company: "Петр Петрович",
-
-        Mandatorys: "0",
-
-        max_pers: 134,
-
-        registred: 0,
-
-        in_wlist: 0,
-    },
-
-    {
-        id: "7312415618963016452",
-
-        name: "Навыки влияния и убеждения",
-
-        local_time_string: "",
-
-        event_max_pers: 100,
-
-        is_open: 1,
-
-        price: "",
-
-        is_single_person_price: 0,
-
-        description: "<p><strong>Навыки влияния и убеждения</strong></p><p><strong>О вебинаре:</strong>Программа актуальна для всех сотрудников, которым приходится убеждать в своей позиции и продвигать свои идеи</p><p><strong>На вебинаре вы узнаете: </strong></p><ul class='”bullet--red”'><li>Какие бывают виды влияния</li><li>Какие из каналов использовать для цивилизованного влияния и определите, какие подходят вам</li></ul><p><strong>Посетив вебинар, вы научитесь: </strong></p><ul class='”bullet--red”'><li>Применять алгоритм рациональной и эмоциональной аргументации</li><li>Создавать копилку убедительных аргументов.</li></ul>",
-
-        calendar_group: 0,
-        person_effect: 0,
-        lead_skill: 0,
-        digital_it: 0,
-        design_prod_tech: 0,
-        bank_finance: 0,
-        customer_orient: 0,
-
-        type_no_access: "",
-
-        for_type: "spec][Для специалистов",
-
-        event_rb_type: "tle][Тренинги личной эффективности",
-
-        beexpert: 0,
-
-        is_devops: 0,
-        learn_own: 0,
-        lead_academy: 0,
-        lead_friday: 0,
-        digital_lit: 0,
-        finance_lit: 0,
-
-        starting: 0,
-
-        is_la: 0,
-
-        type_val: "fa-heart][Вовлеченность;fa-check-circle][Ответственность",
-
-        hub: "all_locations][Все города",
-
-        type_detailed: "type_webinar][Вебинар",
-
-        place: "На рабочих местах",
-
-        class: "На рабочих местах",
-
-        type: "webinar",
-
-        start_date: "2024-01-30T13:00:00+00:00",
-
-        finish_date: "2024-01-30T16:00:00+00:00",
-
-        organizational_form: "internal",
-
-        isMandatory: "Не обязательное",
-
-        event_form: "webinar",
-
-        calendar_show: true,
-
-        is_passed: 0,
-
-        company: "Петр Петрович",
-
-        Mandatorys: "0",
-
-        max_pers: 1,
-
-        registred: 0,
-
-        in_wlist: 0,
-    },
-
-    {
-        id: "7312432833200026040",
-
-        name: "Обратная связь в работе лидера. Практикум.",
-
-        local_time_string: "МСК",
-
-        event_max_pers: 50,
-
-        is_open: 1,
-
-        price: "",
-
-        is_single_person_price: 0,
-
-        description: '<p>Практикум о том, как с помощью инструмента &quot;Обратная связь&quot; оптимизировать работу руководителя, эффективно осуществлять управленческие функции и развивать своих сотрудников.</p><p><strong>Подготовка к практикуму</strong>: пройдите <a href="https://webtutor.rosbank.rus.socgen/rosbank/traj/index.html/#/activity/7187870904403640141" target="_blank">дистанционный курс &laquo;Обратная связь&raquo;</a> с теорией, примерами и кейсами. На встрече мы будем практиковаться в применении обратной связи.</p><p><u>Теорию вам необходимо изучить заранее самостоятельно в дистанционном курсе.</u></p><p><strong>Формат вебинара:</strong> практикум - тренировка инструментов из электронного курса, работа в группах, активное обсуждение в чате и с включенным микрофоном</p><p><strong>За 3 часа вы вспомните:</strong></p><ul><li>Зачем нужно давать обратную связь и, какие преимущества она дает руководителю</li><li>Какие виды обратной связи есть и, когда их применять</li><li>Алгоритмы обратной связи</li></ul><p><strong>и потренируетесь:</strong></p><ul><li>Определять, в каких ситуациях, какой вид обратной связи уместен</li><li>Формулировать развивающую обратную связь</li><li>Формулировать поддерживающую обратную связь</li><li>Формулировать корректирующую обратную связь</li></ul><p>&nbsp;</p><ol><li>Детали подключения вам придут после прохождения курса за день до начала вебинара. Если вы не получили ссылку до 17:00 (мск), пожалуйста, напишите тренеру.</li><li>До встречи на обучении!</li></ol>',
-
-        calendar_group: 0,
-        person_effect: 0,
-        lead_skill: 0,
-        digital_it: 0,
-        design_prod_tech: 0,
-        bank_finance: 0,
-        customer_orient: 0,
-
-        type_no_access: "",
-
-        for_type: "boss][Для руководителей",
-
-        event_rb_type: "manp][Менеджерские программы",
-
-        beexpert: 0,
-
-        is_devops: 0,
-
-        starting: 0,
-        learn_own: 0,
-        lead_academy: 0,
-        lead_friday: 0,
-        digital_lit: 0,
-        finance_lit: 0,
-
-        is_la: 0,
-
-        type_val: "fa-lightbulb][Командный br дух;fa-heart][Вовлеченность;fa-check-circle][Ответственность",
-
-        hub: "msc][Москва;west_hub][Нижний Новгород;smr][Самара;east_hub][Красноярск;all_locations][Все города",
-
-        type_detailed: "type_webinar][Вебинар",
-
-        place: "Вне учебного класса",
-
-        class: "Вебинар",
-
-        type: "training",
-
-        start_date: "2024-01-24T10:00:00+00:00",
-
-        finish_date: "2024-01-24T13:00:00+00:00",
-
-        organizational_form: "internal",
-
-        isMandatory: "Не обязательное",
-
-        event_form: "webinar",
-
-        calendar_show: true,
-
-        is_passed: 0,
-
-        company: "Петр Петрович",
-
-        Mandatorys: "0",
-
-        max_pers: 33,
-
-        registred: 0,
-
-        in_wlist: 0,
-    },
-
-    {
-        id: "7312436355394962427",
-
-        name: "Карьерные диалоги: о чем и как говорить с сотрудником",
-
-        local_time_string: "МСК",
-
-        event_max_pers: 40,
-
-        is_open: 1,
-
-        price: "",
-
-        is_single_person_price: 0,
-
-        description: "<p>Мастер-класс подойдет вам, если вы управляете сотрудниками и хотите, чтобы члены вашей команды росли и оставались в компании, как можно дольше. По результатам последних исследований нематериальной мотивации профессиональное развитие, выполнение интресных и разноплановых задач, а также карьерный рост входят в топ 4 фактора, которые мотивируют сотрудников.</p><p><strong>Формат вебинара: </strong>сочетание теории и практики, работа в группах, активное обсуждение в чате и с включенным микрофоном.</p><p><strong>За 3 часа вы узнаете:</strong></p><ul><li>Структуру&nbsp; карьерного диалога - какие темы точно нужно обсудить</li><li>Чем отличается первая встреча от остальных</li><li>Как подготовиться к разговору с сотрудником</li></ul><p><strong>И научитесь:</strong></p><ul><li>Задавать корректные вопросы о карьере сотруднику</li><li>Говорить о вертикальном, горизонтальном и функциональном росте с сотрудником</li></ul><p><strong>ВАЖНО: </strong><br />Мастер-класс предполагает активное участие и тренировку полученных знаний. Будьте готовы выделить время и включить микрофон с видео на время практических упражнений.</p>",
-
-        calendar_group: 0,
-        person_effect: 0,
-        lead_skill: 0,
-        digital_it: 0,
-        design_prod_tech: 0,
-        bank_finance: 0,
-        customer_orient: 0,
-
-        type_no_access: "",
-
-        for_type: "boss][Для руководителей",
-
-        event_rb_type: "manp][Менеджерские программы",
-
-        beexpert: 0,
-
-        is_devops: 0,
-
-        starting: 0,
-        learn_own: 0,
-        lead_academy: 0,
-        lead_friday: 0,
-        digital_lit: 0,
-        finance_lit: 0,
-
-        is_la: 0,
-
-        type_val: "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-handshake][Инновации",
-
-        hub: "msc][Москва;west_hub][Нижний Новгород;smr][Самара;east_hub][Красноярск;all_locations][Все города",
-
-        type_detailed: "type_webinar][Вебинар",
-
-        place: "Вне учебного класса",
-
-        class: "вебинар",
-
-        type: "webinar",
-
-        start_date: "2024-01-26T10:30:00+00:00",
-
-        finish_date: "2024-01-26T13:30:00+00:00",
-
-        organizational_form: "internal",
-
-        isMandatory: "Не обязательное",
-
-        event_form: "webinar",
-
-        calendar_show: true,
-
-        is_passed: 0,
-
-        company: "Петр Петрович",
-
-        Mandatorys: "0",
-
-        max_pers: 8,
-
-        registred: 0,
-
-        in_wlist: 0,
-    },
-
-    {
-        id: "7312443648542383662",
-
-        name: "Дизайн презентации_часть 1",
-
-        local_time_string: "",
-
-        event_max_pers: 140,
-
-        is_open: 1,
-
-        price: "",
-
-        is_single_person_price: 0,
-
-        description: "<p><b>Дизайн презентации_часть 1 </b></p>\n\n<p><b>О вебинаре:</b>Первая часть онлайн-версии мастер-класса «Дизайн презентаций. Базовый уровень». Меньше слов, больше практики – именно этим принципом мы руководствовались, готовя это обучение. Хотите сделать вашу презентацию понятнее и красивее? Записывайтесь! </p>\n\n<p><b>На вебинаре вы узнаете: </b></p>\n<ul class=”bullet--red”>\n<li>Какие ошибки чаще всего допускают при создании слайдов, и как их избежать</li>\n<li>Основные правила при работе с презентациями</li>\n </ul>\n\n<p><b>Посетив вебинар, вы научитесь: </b></p>\n<ul class=”bullet--red”>\n<li>Достигать единого стиля презентации</li>\n<li>Эффективно использовать стиль и оформление</li>\n </ul>",
-
-        calendar_group: 0,
-        person_effect: 0,
-        lead_skill: 0,
-        digital_it: 0,
-        design_prod_tech: 0,
-        bank_finance: 0,
-        customer_orient: 0,
-
-        type_no_access: "",
-
-        for_type: "spec][Для специалистов",
-
-        event_rb_type: "tle][Тренинги личной эффективности",
-
-        beexpert: 0,
-
-        is_devops: 0,
-
-        starting: 0,
-        learn_own: 0,
-        lead_academy: 0,
-        lead_friday: 0,
-        digital_lit: 0,
-        finance_lit: 0,
-
-        is_la: 0,
-
-        type_val: "fa-heart][Вовлеченность;fa-user][Клиент;fa-handshake][Инновации",
-
-        hub: "all_locations][Все города",
-
-        type_detailed: "type_webinar][Вебинар",
-
-        place: "Вне учебного класса",
-
-        class: "Рабочее место сотрудника",
-
-        type: "webinar",
-
-        start_date: "2024-01-17T10:00:00+00:00",
-
-        finish_date: "2024-01-17T12:30:00+00:00",
-
-        organizational_form: "internal",
-
-        isMandatory: "Не обязательное",
-
-        event_form: "webinar",
-
-        calendar_show: true,
-
-        is_passed: 0,
-
-        company: "Петр Петрович",
-
-        Mandatorys: "0",
-
-        max_pers: 33,
-
-        registred: 0,
-
-        in_wlist: 0,
-    },
-
-    {
-        id: "7312445799941164612",
-
-        name: "Дизайн презентации_часть 2",
-
-        local_time_string: "",
-
-        event_max_pers: 140,
-
-        is_open: 1,
-
-        price: "",
-
-        is_single_person_price: 0,
-
-        description: "<p><b>Дизайн презентации_часть 2</b></p>\n\n<p><b>О вебинаре:</b>Вторая часть онлайн-версии мастер-класса «Дизайн презентаций. Базовый уровень». Даёшь красивую и понятную презентацию в каждый PowerPoint!</p>\n\n<p><b>На вебинаре вы узнаете: </b></p>\n<ul class=”bullet--red”>\n<li>Как работать со шрифтом и цветом в презентациях</li>\n<li>Как использовать фигуры и иконки, где их скачивать </li>\n </ul>\n\n<p><b>Посетив вебинар, вы научитесь: </b></p>\n<ul class=”bullet--red”>\n<li>Делать красивую презентацию в шаблоне, применяя все знания из мастер-класса</li>\n </ul>",
-
-        calendar_group: 0,
-        person_effect: 0,
-        lead_skill: 0,
-        digital_it: 0,
-        design_prod_tech: 0,
-        bank_finance: 0,
-        customer_orient: 0,
-
-        type_no_access: "",
-
-        for_type: "spec][Для специалистов",
-
-        event_rb_type: "tle][Тренинги личной эффективности",
-
-        beexpert: 0,
-
-        is_devops: 0,
-
-        starting: 0,
-        learn_own: 0,
-        lead_academy: 0,
-        lead_friday: 0,
-        digital_lit: 0,
-        finance_lit: 0,
-
-        is_la: 0,
-
-        type_val: "fa-handshake][Инновации;fa-heart][Вовлеченность;fa-user][Клиент",
-
-        hub: "all_locations][Все города",
-
-        type_detailed: "type_webinar][Вебинар",
-
-        place: "Вне учебного класса",
-
-        class: "Рабочее место сотрудника",
-
-        type: "webinar",
-
-        start_date: "2024-01-23T10:00:00+00:00",
-
-        finish_date: "2024-01-23T12:30:00+00:00",
-
-        organizational_form: "internal",
-
-        isMandatory: "Не обязательное",
-
-        event_form: "webinar",
-
-        calendar_show: true,
-
-        is_passed: 0,
-
-        company: "Петр Петрович",
-
-        Mandatorys: "0",
-
-        max_pers: 53,
-
-        registred: 0,
-
-        in_wlist: 0,
-    },
-
-    {
-        id: "7312450682586157933",
-
-        name: "Дизайн презентации_часть 3",
-
-        local_time_string: "",
-
-        event_max_pers: 140,
-
-        is_open: 1,
-
-        price: "",
-
-        is_single_person_price: 0,
-
-        description: '<p><strong>Дизайн презентации_часть&nbsp;3 </strong></p><p><strong>О вебинаре: </strong>Третья<strong> </strong>часть онлайн-версии мастер-класса &laquo;Дизайн презентаций. Базовый уровень. Визуализация данных для бизнеса&raquo;. Меньше слов, больше практики &ndash; именно этим принципом мы руководствовались, готовя это обучение. Хотите сделать вашу презентацию понятнее и красивее? Записывайтесь!</p><p><strong>На вебинаре вы узнаете: </strong></p><ul class="”bullet--red”"><li>Как правильно визуализировать данные на слайде</li><li>Как оформлять графики и таблицы</li></ul><p><strong>Посетив вебинар, вы научитесь: </strong></p><ul class="”bullet--red”"><li>Эффективно представлять графики</li></ul>',
-
-        calendar_group: 0,
-        person_effect: 0,
-        lead_skill: 0,
-        digital_it: 0,
-        design_prod_tech: 0,
-        bank_finance: 0,
-        customer_orient: 0,
-
-        type_no_access: "",
-
-        for_type: "spec][Для специалистов",
-
-        event_rb_type: "tle][Тренинги личной эффективности",
-
-        beexpert: 0,
-
-        is_devops: 0,
-
-        starting: 0,
-        learn_own: 0,
-        lead_academy: 0,
-        lead_friday: 0,
-        digital_lit: 0,
-        finance_lit: 0,
-
-        is_la: 0,
-
-        type_val: "fa-heart][Вовлеченность;fa-user][Клиент;fa-handshake][Инновации",
-
-        hub: "all_locations][Все города",
-
-        type_detailed: "type_webinar][Вебинар",
-
-        place: "Вне учебного класса",
-
-        class: "Рабочее место сторудника",
-
-        type: "webinar",
-
-        start_date: "2024-01-30T10:00:00+00:00",
-
-        finish_date: "2024-01-30T12:30:00+00:00",
-
-        organizational_form: "internal",
-
-        isMandatory: "Не обязательное",
-
-        event_form: "webinar",
-
-        calendar_show: true,
-
-        is_passed: 0,
-
-        company: "Петр Петрович",
-
-        Mandatorys: "0",
-
-        max_pers: 45,
-
-        registred: 0,
-
-        in_wlist: 0,
-    },
-
-    {
-        id: "7312451231954261200",
-
-        name: "Основы стресс-менеджмента",
-
-        local_time_string: "",
-
-        event_max_pers: 80,
-
-        is_open: 1,
-
-        price: "",
-
-        is_single_person_price: 0,
-
-        description: "<p><strong>Основы стресс - менеджмента</strong></p><p><strong>О вебинаре:</strong>Если вы задаетесь вопросом &laquo;Как уменьшить количество стресса в жизни и справиться со стрессовым напряжением?&raquo;, ждем вас на нашем вебинаре</p><p><strong>На вебинаре вы узнаете: </strong></p><ul class='”bullet--red”'><li>Теорию стресса</li><li>Какое место стресс занимает в жизни человека</li></ul><p><strong>Посетив вебинар, вы научитесь: </strong></p><ul class='”bullet--red”'><li>Применять методы работы со стрессом</li><li>Проводить профилактику стресса</li></ul>",
-
-        calendar_group: 0,
-        person_effect: 0,
-        lead_skill: 0,
-        digital_it: 0,
-        design_prod_tech: 0,
-        bank_finance: 0,
-        customer_orient: 0,
-
-        type_no_access: "",
-
-        for_type: "spec][Для специалистов",
-
-        event_rb_type: "tle][Тренинги личной эффективности",
-
-        beexpert: 0,
-
-        is_devops: 0,
-
-        starting: 0,
-        learn_own: 0,
-        lead_academy: 0,
-        lead_friday: 0,
-        digital_lit: 0,
-        finance_lit: 0,
-
-        is_la: 0,
-
-        type_val: "fa-lightbulb][Командный br дух;fa-heart][Вовлеченность;fa-user][Клиент;fa-check-circle][Ответственность",
-
-        hub: "all_locations][Все города",
-
-        type_detailed: "type_webinar][Вебинар",
-
-        place: "На рабочих местах",
-
-        class: "На рабочих местах",
-
-        type: "webinar",
-
-        start_date: "2024-01-18T14:00:00+00:00",
-
-        finish_date: "2024-01-18T16:00:00+00:00",
-
-        organizational_form: "internal",
-
-        isMandatory: "",
-
-        event_form: "webinar",
-
-        calendar_show: true,
-
-        is_passed: 0,
-
-        company: "Петр Петрович",
-
-        Mandatorys: "0",
-
-        max_pers: 35,
-
-        registred: 0,
-
-        in_wlist: 0,
-    },
-
-    {
-        id: "7312457378466568555",
-
-        name: "Публичные выступления: питчинг",
-
-        local_time_string: "",
-
-        event_max_pers: 80,
-
-        is_open: 1,
-
-        price: "",
-
-        is_single_person_price: 0,
-
-        description: "<p><span style='font-family:arial,helvetica,sans-serif'><span style='font-family:arial,helvetica,sans-serif'>Представьте, что у вас есть отличная идея, которая решит реальную проблему. Осталось убедить в этом окружающих, чтобы ее реализовать.</span></span></p><p><span style='font-family:arial,helvetica,sans-serif'>Как это сделать? Как представить свою идею и получить заветное &laquo;ДА&raquo;? Здесь помогут техники и алгоритмы питчинга.</span></p><p><span style='font-family:arial,helvetica,sans-serif'><strong>На вебинаре&nbsp;вы узнаете:</strong></span></p><ul><li><span style='font-family:arial,helvetica,sans-serif'>Что такое питчинг и как к нему готовиться</span></li><li><span style='font-family:arial,helvetica,sans-serif'>Один из базовых алгоритмов питча</span></li></ul><p><strong><span style='font-family:arial,helvetica,sans-serif'>И потренируетесь:</span></strong></p><ul><li><span style='font-family:arial,helvetica,sans-serif'>Делать короткое выступление на основе алгоритма</span></li></ul>",
-
-        calendar_group: 0,
-        person_effect: 0,
-        lead_skill: 0,
-        digital_it: 0,
-        design_prod_tech: 0,
-        bank_finance: 0,
-        customer_orient: 0,
-
-        type_no_access: "",
-
-        for_type: "boss][Для руководителей;spec][Для специалистов",
-
-        event_rb_type: "tle][Тренинги личной эффективности",
-
-        beexpert: 0,
-
-        is_devops: 0,
-
-        starting: 0,
-        learn_own: 0,
-        lead_academy: 0,
-        lead_friday: 0,
-        digital_lit: 0,
-        finance_lit: 0,
-
-        is_la: 0,
-
-        type_val: "fa-heart][Вовлеченность;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
-
-        hub: "all_locations][Все города",
-
-        type_detailed: "type_webinar][Вебинар",
-
-        place: "Вне учебного класса",
-
-        class: "Рабочее место сотрудника",
-
-        type: "webinar",
-
-        start_date: "2024-01-24T10:00:00+00:00",
-
-        finish_date: "2024-01-24T12:30:00+00:00",
-
-        organizational_form: "internal",
-
-        isMandatory: "Не обязательное",
-
-        event_form: "webinar",
-
-        calendar_show: true,
-
-        is_passed: 0,
-
-        company: "Петр Петрович",
-
-        Mandatorys: "0",
-
-        max_pers: 30,
-
-        registred: 0,
-
-        in_wlist: 0,
-    },
-
-    {
-        id: "7322362410789924328",
-
-        name: "Медитация",
-
-        local_time_string: "",
-
-        event_max_pers: 50,
-
-        is_open: 1,
-
-        price: "",
-
-        is_single_person_price: 0,
-
-        description: '<p>Коллеги, добрый день!</p><p><span style="font-size:12px"><span style="-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(0, 0, 0); display:inline !important; float:none; font-family:open sans,arial,helvetica,sans-serif; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px">Наше тело, мозг, эмоции, сознание &ndash; всё подвергается перегрузкам.</span></span></p><p><span style="font-size:12px"><strong>Как поддержать себя? Как справиться?</strong><br class="CommonmarkRender-Softbreak" style="color: rgb(0, 0, 0); text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: &quot;Open Sans&quot;, Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;" /><span style="-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(0, 0, 0); display:inline !important; float:none; font-family:open sans,arial,helvetica,sans-serif; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px">Пробовать и находить способы, которые помогают именно вам.</span></span></p><p><strong>Приглашаем на практику медитаций, на которой&nbsp;в</strong><strong>&nbsp;течение 30 минут&nbsp;будем:</strong></p><ul><li>Делать простые упражнения, управляя вниманием</li><li>Знакомиться с телом по-новому, искать в нем ресурс и поддержку</li><li>Учиться использовать практики-упражнения, чтобы медитировать среди рабочего дня за 1-3 минуты</li><li>Настраиваться на рабочий день</li></ul><p>А еще вы узнаете, как обычную зарядку или поход в тренажерный зал превратить в медитацию</p><p><strong>Чем полезны медитации и практики саморегуляции:</strong></p><ul><li><span style="-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(0, 0, 0); display:inline !important; float:none; font-family:open sans,arial,helvetica,sans-serif; font-size:14px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px">Снижают тревогу и интенсивность эмоционального фона</span></li><li><span style="-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(0, 0, 0); display:inline !important; float:none; font-family:open sans,arial,helvetica,sans-serif; font-size:14px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px">Улучшают концентрацию внимания и помогают привести мысли в порядок</span></li><li><span style="-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(0, 0, 0); display:inline !important; float:none; font-family:open sans,arial,helvetica,sans-serif; font-size:14px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px">Помогают быть спокойное и стабилизировать своё состояние</span></li></ul><p>Детали подключения будут в приглашении, которое вы получаете при регистрации.</p>',
-
-        calendar_group: 0,
-        person_effect: 0,
-        lead_skill: 0,
-        digital_it: 0,
-        design_prod_tech: 0,
-        bank_finance: 0,
-        customer_orient: 0,
-
-        type_no_access: "",
-
-        for_type: "spec][Для специалистов;boss][Для руководителей",
-
-        event_rb_type: "tle][Тренинги личной эффективности",
-
-        beexpert: 0,
-
-        is_devops: 0,
-
-        starting: 0,
-        learn_own: 0,
-        lead_academy: 0,
-        lead_friday: 0,
-        digital_lit: 0,
-        finance_lit: 0,
-
-        is_la: 0,
-
-        type_val: "fa-heart][Вовлеченность",
-
-        hub: "west_hub][Западный хаб;east_hub][Восточный хаб;all_locations][Все города",
-
-        type_detailed: "type_webinar][Вебинар",
-
-        place: "Вне учебного класса",
-
-        class: "Онлайн",
-
-        type: "training",
-
-        start_date: "2024-01-17T08:25:00+00:00",
-
-        finish_date: "2024-01-17T09:00:00+00:00",
-
-        organizational_form: "internal",
-
-        isMandatory: "Не обязательное",
-
-        event_form: "webinar",
-
-        calendar_show: true,
-
-        is_passed: 0,
-
-        company: "Петр Петрович",
-
-        Mandatorys: "0",
-
-        max_pers: 40,
-
-        registred: 0,
-
-        in_wlist: 0,
-    },
-
-    {
-        id: "7322363073142005620",
-
-        name: "Медитация",
-
-        local_time_string: "",
-
-        event_max_pers: 50,
-
-        is_open: 1,
-
-        price: "",
-
-        is_single_person_price: 0,
-
-        description: '<p>Коллеги, добрый день!</p><p><span style="font-size:12px"><span style="-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(0, 0, 0); display:inline !important; float:none; font-family:open sans,arial,helvetica,sans-serif; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px">Наше тело, мозг, эмоции, сознание &ndash; всё подвергается перегрузкам.</span></span></p><p><span style="font-size:12px"><strong>Как поддержать себя? Как справиться?</strong><br class="CommonmarkRender-Softbreak" style="color: rgb(0, 0, 0); text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: &quot;Open Sans&quot;, Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;" /><span style="-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(0, 0, 0); display:inline !important; float:none; font-family:open sans,arial,helvetica,sans-serif; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px">Пробовать и находить способы, которые помогают именно вам.</span></span></p><p><strong>Приглашаем на практику медитаций, на которой&nbsp;в</strong><strong>&nbsp;течение 30 минут&nbsp;будем:</strong></p><ul><li>Делать простые упражнения, управляя вниманием</li><li>Знакомиться с телом по-новому, искать в нем ресурс и поддержку</li><li>Учиться использовать практики-упражнения, чтобы медитировать среди рабочего дня за 1-3 минуты</li><li>Настраиваться на рабочий день</li></ul><p>А еще вы узнаете, как обычную зарядку или поход в тренажерный зал превратить в медитацию</p><p><strong>Чем полезны медитации и практики саморегуляции:</strong></p><ul><li><span style="-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(0, 0, 0); display:inline !important; float:none; font-family:open sans,arial,helvetica,sans-serif; font-size:14px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px">Снижают тревогу и интенсивность эмоционального фона</span></li><li><span style="-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(0, 0, 0); display:inline !important; float:none; font-family:open sans,arial,helvetica,sans-serif; font-size:14px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px">Улучшают концентрацию внимания и помогают привести мысли в порядок</span></li><li><span style="-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(0, 0, 0); display:inline !important; float:none; font-family:open sans,arial,helvetica,sans-serif; font-size:14px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px">Помогают быть спокойное и стабилизировать своё состояние</span></li></ul><p>Детали подключения будут в приглашении, которое вы получаете при регистрации.</p>',
-
-        calendar_group: 0,
-        person_effect: 0,
-        lead_skill: 0,
-        digital_it: 0,
-        design_prod_tech: 0,
-        bank_finance: 0,
-        customer_orient: 0,
-
-        type_no_access: "",
-
-        for_type: "spec][Для специалистов;boss][Для руководителей",
-
-        event_rb_type: "tle][Тренинги личной эффективности",
-
-        beexpert: 0,
-
-        is_devops: 0,
-
-        starting: 0,
-        learn_own: 0,
-        lead_academy: 0,
-        lead_friday: 0,
-        digital_lit: 0,
-        finance_lit: 0,
-
-        is_la: 0,
-
-        type_val: "fa-heart][Вовлеченность",
-
-        hub: "west_hub][Западный хаб;east_hub][Восточный хаб;all_locations][Все города",
-
-        type_detailed: "type_webinar][Вебинар",
-
-        place: "Вне учебного класса",
-
-        class: "Онлайн",
-
-        type: "webinar",
-
-        start_date: "2024-01-19T08:25:00+00:00",
-
-        finish_date: "2024-01-19T09:00:00+00:00",
-
-        organizational_form: "internal",
-
-        isMandatory: "Не обязательное",
-
-        event_form: "webinar",
-
-        calendar_show: true,
-
-        is_passed: 0,
-
-        company: "Петр Петрович",
-
-        Mandatorys: "0",
-
-        max_pers: 45,
-
-        registred: 0,
-
-        in_wlist: 0,
-    },
-
-    {
-        id: "7322363449970007064",
-
-        name: "Медитация",
-
-        local_time_string: "",
-
-        event_max_pers: 50,
-
-        is_open: 1,
-
-        price: "",
-
-        is_single_person_price: 0,
-
-        description: '<p>Коллеги, добрый день!</p><p><span style="font-size:12px"><span style="-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(0, 0, 0); display:inline !important; float:none; font-family:open sans,arial,helvetica,sans-serif; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px">Наше тело, мозг, эмоции, сознание &ndash; всё подвергается перегрузкам.</span></span></p><p><span style="font-size:12px"><strong>Как поддержать себя? Как справиться?</strong><br class="CommonmarkRender-Softbreak" style="color: rgb(0, 0, 0); text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: &quot;Open Sans&quot;, Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;" /><span style="-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(0, 0, 0); display:inline !important; float:none; font-family:open sans,arial,helvetica,sans-serif; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px">Пробовать и находить способы, которые помогают именно вам.</span></span></p><p><strong>Приглашаем на практику медитаций, на которой&nbsp;в</strong><strong>&nbsp;течение 30 минут&nbsp;будем:</strong></p><ul><li>Делать простые упражнения, управляя вниманием</li><li>Знакомиться с телом по-новому, искать в нем ресурс и поддержку</li><li>Учиться использовать практики-упражнения, чтобы медитировать среди рабочего дня за 1-3 минуты</li><li>Настраиваться на рабочий день</li></ul><p>А еще вы узнаете, как обычную зарядку или поход в тренажерный зал превратить в медитацию</p><p><strong>Чем полезны медитации и практики саморегуляции:</strong></p><ul><li><span style="-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(0, 0, 0); display:inline !important; float:none; font-family:open sans,arial,helvetica,sans-serif; font-size:14px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px">Снижают тревогу и интенсивность эмоционального фона</span></li><li><span style="-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(0, 0, 0); display:inline !important; float:none; font-family:open sans,arial,helvetica,sans-serif; font-size:14px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px">Улучшают концентрацию внимания и помогают привести мысли в порядок</span></li><li><span style="-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(0, 0, 0); display:inline !important; float:none; font-family:open sans,arial,helvetica,sans-serif; font-size:14px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px">Помогают быть спокойное и стабилизировать своё состояние</span></li></ul><p>Детали подключения будут в приглашении, которое вы получаете при регистрации.</p>',
-
-        calendar_group: 0,
-        person_effect: 0,
-        lead_skill: 0,
-        digital_it: 0,
-        design_prod_tech: 0,
-        bank_finance: 0,
-        customer_orient: 1,
-
-        type_no_access: "",
-
-        for_type: "spec][Для специалистов;boss][Для руководителей",
-
-        event_rb_type: "tle][Тренинги личной эффективности",
-
-        beexpert: 0,
-
-        is_devops: 0,
-
-        starting: 0,
-        learn_own: 1,
-        lead_academy: 0,
-        lead_friday: 0,
-        digital_lit: 0,
-        finance_lit: 0,
-
-        is_la: 0,
-
-        type_val: "fa-heart][Вовлеченность",
-
-        hub: "west_hub][Западный хаб;east_hub][Восточный хаб;all_locations][Все города",
-
-        type_detailed: "type_webinar][Вебинар",
-
-        place: "Вне учебного класса",
-
-        class: "Онлайн",
-
-        type: "webinar",
-
-        start_date: "2024-01-24T08:25:00+00:00",
-
-        finish_date: "2024-01-24T09:00:00+00:00",
-
-        organizational_form: "internal",
-
-        isMandatory: "Не обязательное",
-
-        event_form: "webinar",
-
-        calendar_show: true,
-
-        is_passed: 0,
-
-        company: "Петр Петрович",
-
-        Mandatorys: "0",
-
-        max_pers: 49,
-
-        registred: 0,
-
-        in_wlist: 0,
-    },
-
-    {
-        id: "7322363720897003601",
-
-        name: "Медитация",
-
-        local_time_string: "",
-
-        event_max_pers: 50,
-
-        is_open: 1,
-
-        price: "",
-
-        is_single_person_price: 0,
-
-        description: '<p>Коллеги, добрый день!</p><p><span style="font-size:12px"><span style="-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(0, 0, 0); display:inline !important; float:none; font-family:open sans,arial,helvetica,sans-serif; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px">Наше тело, мозг, эмоции, сознание &ndash; всё подвергается перегрузкам.</span></span></p><p><span style="font-size:12px"><strong>Как поддержать себя? Как справиться?</strong><br class="CommonmarkRender-Softbreak" style="color: rgb(0, 0, 0); text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: &quot;Open Sans&quot;, Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;" /><span style="-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(0, 0, 0); display:inline !important; float:none; font-family:open sans,arial,helvetica,sans-serif; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px">Пробовать и находить способы, которые помогают именно вам.</span></span></p><p><strong>Приглашаем на практику медитаций, на которой&nbsp;в</strong><strong>&nbsp;течение 30 минут&nbsp;будем:</strong></p><ul><li>Делать простые упражнения, управляя вниманием</li><li>Знакомиться с телом по-новому, искать в нем ресурс и поддержку</li><li>Учиться использовать практики-упражнения, чтобы медитировать среди рабочего дня за 1-3 минуты</li><li>Настраиваться на рабочий день</li></ul><p>А еще вы узнаете, как обычную зарядку или поход в тренажерный зал превратить в медитацию</p><p><strong>Чем полезны медитации и практики саморегуляции:</strong></p><ul><li><span style="-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(0, 0, 0); display:inline !important; float:none; font-family:open sans,arial,helvetica,sans-serif; font-size:14px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px">Снижают тревогу и интенсивность эмоционального фона</span></li><li><span style="-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(0, 0, 0); display:inline !important; float:none; font-family:open sans,arial,helvetica,sans-serif; font-size:14px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px">Улучшают концентрацию внимания и помогают привести мысли в порядок</span></li><li><span style="-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(0, 0, 0); display:inline !important; float:none; font-family:open sans,arial,helvetica,sans-serif; font-size:14px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px">Помогают быть спокойное и стабилизировать своё состояние</span></li></ul><p>Детали подключения будут в приглашении, которое вы получаете при регистрации.</p>',
-
-        calendar_group: 0,
-        person_effect: 0,
-        lead_skill: 0,
-        digital_it: 0,
-        design_prod_tech: 0,
-        bank_finance: 1,
-        customer_orient: 0,
-
-        type_no_access: "",
-
-        for_type: "spec][Для специалистов;boss][Для руководителей",
-
-        event_rb_type: "tle][Тренинги личной эффективности",
-
-        beexpert: 0,
-
-        is_devops: 0,
-
-        starting: 0,
-        learn_own: 0,
-        lead_academy: 0,
-        lead_friday: 0,
-        digital_lit: 0,
-        finance_lit: 1,
-
-        is_la: 0,
-
-        type_val: "fa-heart][Вовлеченность",
-
-        hub: "west_hub][Западный хаб;east_hub][Восточный хаб;all_locations][Все города",
-
-        type_detailed: "type_webinar][Вебинар",
-
-        place: "Вне учебного класса",
-
-        class: "Онлайн",
-
-        type: "training",
-
-        start_date: "2024-01-26T08:25:00+00:00",
-
-        finish_date: "2024-01-26T09:00:00+00:00",
-
-        organizational_form: "internal",
-
-        isMandatory: "Не обязательное",
-
-        event_form: "webinar",
-
-        calendar_show: true,
-
-        is_passed: 0,
-
-        company: "Петр Петрович",
-
-        Mandatorys: "0",
-
-        max_pers: 45,
-
-        registred: 0,
-
-        in_wlist: 0,
-    },
-
-    {
-        id: "7322364008862849962",
-
-        name: "Медитация",
-
-        local_time_string: "",
-
-        event_max_pers: 50,
-
-        is_open: 1,
-
-        price: "",
-
-        is_single_person_price: 0,
-
-        description: '<p>Коллеги, добрый день!</p><p><span style="font-size:12px"><span style="-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(0, 0, 0); display:inline !important; float:none; font-family:open sans,arial,helvetica,sans-serif; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px">Наше тело, мозг, эмоции, сознание &ndash; всё подвергается перегрузкам.</span></span></p><p><span style="font-size:12px"><strong>Как поддержать себя? Как справиться?</strong><br class="CommonmarkRender-Softbreak" style="color: rgb(0, 0, 0); text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: &quot;Open Sans&quot;, Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;" /><span style="-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(0, 0, 0); display:inline !important; float:none; font-family:open sans,arial,helvetica,sans-serif; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px">Пробовать и находить способы, которые помогают именно вам.</span></span></p><p><strong>Приглашаем на практику медитаций, на которой&nbsp;в</strong><strong>&nbsp;течение 30 минут&nbsp;будем:</strong></p><ul><li>Делать простые упражнения, управляя вниманием</li><li>Знакомиться с телом по-новому, искать в нем ресурс и поддержку</li><li>Учиться использовать практики-упражнения, чтобы медитировать среди рабочего дня за 1-3 минуты</li><li>Настраиваться на рабочий день</li></ul><p>А еще вы узнаете, как обычную зарядку или поход в тренажерный зал превратить в медитацию</p><p><strong>Чем полезны медитации и практики саморегуляции:</strong></p><ul><li><span style="-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(0, 0, 0); display:inline !important; float:none; font-family:open sans,arial,helvetica,sans-serif; font-size:14px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px">Снижают тревогу и интенсивность эмоционального фона</span></li><li><span style="-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(0, 0, 0); display:inline !important; float:none; font-family:open sans,arial,helvetica,sans-serif; font-size:14px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px">Улучшают концентрацию внимания и помогают привести мысли в порядок</span></li><li><span style="-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(0, 0, 0); display:inline !important; float:none; font-family:open sans,arial,helvetica,sans-serif; font-size:14px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px">Помогают быть спокойное и стабилизировать своё состояние</span></li></ul><p>Детали подключения будут в приглашении, которое вы получаете при регистрации.</p>',
-
-        calendar_group: 0,
-        person_effect: 0,
-        lead_skill: 0,
-        digital_it: 0,
-        design_prod_tech: 1,
-        bank_finance: 0,
-        customer_orient: 0,
-
-        type_no_access: "",
-
-        for_type: "spec][Для специалистов;boss][Для руководителей",
-
-        event_rb_type: "tle][Тренинги личной эффективности",
-
-        beexpert: 0,
-
-        is_devops: 0,
-
-        starting: 0,
-        learn_own: 0,
-        lead_academy: 0,
-        lead_friday: 1,
-        digital_lit: 0,
-        finance_lit: 0,
-
-        is_la: 0,
-
-        type_val: "fa-heart][Вовлеченность",
-
-        hub: "west_hub][Западный хаб;east_hub][Восточный хаб;all_locations][Все города",
-
-        type_detailed: "type_webinar][Вебинар",
-
-        place: "Вне учебного класса",
-
-        class: "Онлайн",
-
-        type: "webinar",
-
-        start_date: "2024-01-31T08:25:00+00:00",
-
-        finish_date: "2024-01-31T09:00:00+00:00",
-
-        organizational_form: "internal",
-
-        isMandatory: "Не обязательное",
-
-        event_form: "webinar",
-
-        calendar_show: true,
-
-        is_passed: 0,
-
-        company: "Петр Петрович",
-
-        Mandatorys: "0",
-
-        max_pers: 48,
-
-        registred: 1,
-
-        in_wlist: 0,
-    },
-    {
-        id: "7322364008862849962long",
-
-        name: "long event",
-
-        local_time_string: "",
-
-        event_max_pers: 50,
-
-        is_open: 1,
-
-        price: "",
-
-        is_single_person_price: 0,
-
-        description: "Коллеги",
-
-        calendar_group: 0,
-        person_effect: 1,
-        lead_skill: 0,
-        digital_it: 0,
-        design_prod_tech: 0,
-        bank_finance: 0,
-        customer_orient: 0,
-
-        type_no_access: "",
-
-        for_type: "spec][Для специалистов;boss][Для руководителей",
-
-        event_rb_type: "tle][Тренинги личной эффективности",
-
-        beexpert: 0,
-
-        is_devops: 0,
-
-        starting: 0,
-        learn_own: 1,
-        lead_academy: 0,
-        lead_friday: 0,
-        digital_lit: 0,
-        finance_lit: 0,
-
-        is_la: 0,
-
-        type_val: "fa-heart][Вовлеченность",
-
-        hub: "west_hub][Западный хаб;east_hub][Восточный хаб;all_locations][Все города",
-
-        type_detailed: "type_webinar][Вебинар",
-
-        place: "Вне учебного класса",
-
-        class: "Онлайн",
-
-        type: "training",
-
-        start_date: "2024-01-19T08:25:00+00:00",
-
-        finish_date: "2024-01-29T09:00:00+00:00",
-
-        organizational_form: "internal",
-
-        isMandatory: "Не обязательное",
-
-        event_form: "webinar",
-
-        calendar_show: true,
-
-        is_passed: 0,
-
-        company: "Петр Петрович",
-
-        Mandatorys: "0",
-
-        max_pers: 48,
-
-        registred: 0,
-
-        in_wlist: 0,
-    },
-    {
-        id: "7322364008862849962long1",
-
-        name: "multiweek event",
-
-        local_time_string: "",
-
-        event_max_pers: 50,
-
-        is_open: 1,
-
-        price: "",
-
-        is_single_person_price: 0,
-
-        description: "Коллеги",
-
-        calendar_group: 0,
-        person_effect: 0,
-        lead_skill: 1,
-        digital_it: 0,
-        design_prod_tech: 0,
-        bank_finance: 0,
-        customer_orient: 0,
-
-        type_no_access: "",
-
-        for_type: "spec][Для специалистов;boss][Для руководителей",
-
-        event_rb_type: "tle][Тренинги личной эффективности",
-
-        beexpert: 0,
-
-        is_devops: 0,
-
-        starting: 0,
-        learn_own: 0,
-        lead_academy: 1,
-        lead_friday: 0,
-        digital_lit: 0,
-        finance_lit: 0,
-
-        is_la: 0,
-
-        type_val: "fa-heart][Вовлеченность",
-
-        hub: "west_hub][Западный хаб;east_hub][Восточный хаб;all_locations][Все города",
-
-        type_detailed: "type_webinar][Вебинар",
-
-        place: "Вне учебного класса",
-
-        class: "Онлайн",
-
-        type: "webinar",
-
-        start_date: "2024-01-19T08:25:00+00:00",
-
-        finish_date: "2024-01-29T15:00:00+00:00",
-
-        organizational_form: "internal",
-
-        isMandatory: "Не обязательное",
-
-        event_form: "webinar",
-
-        calendar_show: true,
-
-        is_passed: 0,
-
-        company: "Петр Петрович",
-
-        Mandatorys: "0",
-
-        max_pers: 48,
-
-        registred: 0,
-
-        in_wlist: 0,
-    },
-    {
-        id: "73223640088628499621adfasdfasdf",
-
-        name: "multiMonth",
-
-        local_time_string: "",
-
-        event_max_pers: 50,
-
-        is_open: 1,
-
-        price: "",
-
-        is_single_person_price: 0,
-
-        description: "Коллеги",
-
-        calendar_group: 0,
-        person_effect: 0,
-        lead_skill: 1,
-        digital_it: 0,
-        design_prod_tech: 0,
-        bank_finance: 0,
-        customer_orient: 0,
-
-        type_no_access: "",
-
-        for_type: "spec][Для специалистов;boss][Для руководителей",
-
-        event_rb_type: "tle][Тренинги личной эффективности",
-
-        beexpert: 0,
-
-        is_devops: 0,
-
-        starting: 0,
-        learn_own: 0,
-        lead_academy: 1,
-        lead_friday: 0,
-        digital_lit: 0,
-        finance_lit: 0,
-
-        is_la: 0,
-
-        type_val: "fa-heart][Вовлеченность",
-
-        hub: "west_hub][Западный хаб;east_hub][Восточный хаб;all_locations][Все города",
-
-        type_detailed: "type_webinar][Вебинар",
-
-        place: "Вне учебного класса",
-
-        class: "Онлайн",
-
-        type: "webinar",
-
-        start_date: "2024-02-22T08:25:00+00:00",
-
-        finish_date: "2024-03-05T20:30:00+00:00",
-
-        organizational_form: "internal",
-
-        isMandatory: "Не обязательное",
-
-        event_form: "webinar",
-
-        calendar_show: true,
-
-        is_passed: 0,
-
-        company: "Петр Петрович",
-
-        Mandatorys: "0",
-
-        max_pers: 48,
-
-        registred: 1,
-
-        in_wlist: 0,
-    },
-];
+    "id": "7043270770759268772",
+    "name": "Комплексный вебинар по продуктам",
+    "local_time_string": "",
+    "max_pers": 499,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p>ОБЯЗАТЕЛЬНЫЙ ДЛЯ ПОСЕЩЕНИЯ<br />КОМПЛЕКСНЫЙ ВЕБИНАР ОТ ПАРТНЕРОВ ПО НОВЫМ ПРОДУКТАМ И ИЗМЕНЕНИЯМ В НИХ</p><p>Уважаемые коллеги,<br />на комплексном вебинаре вы узнаете об условиях новых продуктов либо об изменениях в существующей продуктовой линейке.<br />Также сможете задать экспертам интересующие вопросы, чтобы глубже погрузиться в параметры продуктов.</p><p>ДО ВСТРЕЧИ НА ОБУЧЕНИИ!</p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей;spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский;macroregion_2][Дальневосточный;macroregion_6][Приволжский",
+    "category": "category_1][Обязательное обучение в должности",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_2][Digital тренинг",
+    "type_detailed": "",
+    "place": "Вне учебного класса",
+    "class": "trueconf",
+    "person_num": 1,
+    "type": "training",
+    "start_date": "2024-07-10T08:00:00+00:00",
+    "finish_date": "2024-07-10T09:00:00+00:00",
+    "is_passed": 0,
+    "company": "",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7043279469743567408",
+    "name": "'Пилот по продажам потребительского кредитования Т-Банка в офисах Росбанка'",
+    "local_time_string": "",
+    "max_pers": 498,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p>Вебинар проводится для пилотных офисов.<br />Подробно расскажем о потребительском кредитование Т-Банка.</p><p>В рамках мероприятия вы сможете получить ответы на все вопросы по продуктам.&nbsp;</p><p>Тренинг пройдет в TrueConf.<br />После записи тебе придет отдельное приглашение с ящика Training_Retail, где будут указаны реквизиты для прохождения обучения.</p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей;spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский;macroregion_2][Дальневосточный;macroregion_3][Московский;macroregion_4][Северо-Западный;macroregion_5][Южный;macroregion_6][Приволжский",
+    "category": "category_1][Обязательное обучение в должности",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_2][Digital тренинг",
+    "type_detailed": "",
+    "place": "Вне учебного класса",
+    "class": "trueconf",
+    "person_num": 2,
+    "type": "training",
+    "start_date": "2024-07-04T10:00:00+00:00",
+    "finish_date": "2024-07-04T11:00:00+00:00",
+    "is_passed": 0,
+    "company": "Флегентова Виктория Витальевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7043278944676967272",
+    "name": "'Пилот по продажам потребительского кредитования Т-Банка в офисах Росбанка'",
+    "local_time_string": "",
+    "max_pers": 497,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p>Вебинар проводится для пилотных офисов.<br />Подробно расскажем о потребительском кредитование Т-Банка.</p><p>В рамках мероприятия вы сможете получить ответы на все вопросы по продуктам.&nbsp;</p><p>Тренинг пройдет в TrueConf.<br />После записи тебе придет отдельное приглашение с ящика Training_Retail, где будут указаны реквизиты для прохождения обучения.</p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей;spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский;macroregion_2][Дальневосточный;macroregion_6][Приволжский",
+    "category": "category_1][Обязательное обучение в должности",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_2][Digital тренинг",
+    "type_detailed": "",
+    "place": "Вне учебного класса",
+    "class": "trueconf",
+    "person_num": 3,
+    "type": "training",
+    "start_date": "2024-07-03T09:00:00+00:00",
+    "finish_date": "2024-07-03T10:00:00+00:00",
+    "is_passed": 0,
+    "company": "Флегентова Виктория Витальевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7043270233853786227",
+    "name": "Комплексный вебинар по продуктам",
+    "local_time_string": "",
+    "max_pers": 495,
+    "is_open": 1,
+    "registred": 1,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p>ОБЯЗАТЕЛЬНЫЙ ДЛЯ ПОСЕЩЕНИЯ<br />КОМПЛЕКСНЫЙ ВЕБИНАР ОТ ПАРТНЕРОВ ПО НОВЫМ ПРОДУКТАМ И ИЗМЕНЕНИЯМ В НИХ</p><p>Уважаемые коллеги,<br />на комплексном вебинаре вы узнаете об условиях новых продуктов либо об изменениях в существующей продуктовой линейке.<br />Также сможете задать экспертам интересующие вопросы, чтобы глубже погрузиться в параметры продуктов.</p><p>ДО ВСТРЕЧИ НА ОБУЧЕНИИ!</p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей;spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский;macroregion_2][Дальневосточный;macroregion_3][Московский;macroregion_4][Северо-Западный;macroregion_5][Южный;macroregion_6][Приволжский",
+    "category": "category_9][Коучинг. Командные мероприятия",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_2][Digital тренинг",
+    "type_detailed": "",
+    "place": "Вне учебного класса",
+    "class": "trueconf",
+    "person_num": 5,
+    "type": "training",
+    "start_date": "2024-07-09T10:00:00+00:00",
+    "finish_date": "2024-07-09T11:00:00+00:00",
+    "is_passed": 0,
+    "company": "",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7043278428719472669",
+    "name": "'Пилот по продажам потребительского кредитования Т-Банка в офисах Росбанка'",
+    "local_time_string": "",
+    "max_pers": 490,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p>Вебинар проводится для пилотных офисов.<br />Подробно расскажем о потребительском кредитование Т-Банка.</p><p>В рамках мероприятия вы сможете получить ответы на все вопросы по продуктам.&nbsp;</p><p>Тренинг пройдет в TrueConf.<br />После записи тебе придет отдельное приглашение с ящика Training_Retail, где будут указаны реквизиты для прохождения обучения.</p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей;spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский;macroregion_2][Дальневосточный;macroregion_3][Московский;macroregion_4][Северо-Западный;macroregion_5][Южный;macroregion_6][Приволжский",
+    "category": "category_1][Обязательное обучение в должности",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_2][Digital тренинг",
+    "type_detailed": "",
+    "place": "Вне учебного класса",
+    "class": "trueconf",
+    "person_num": 10,
+    "type": "training",
+    "start_date": "2024-07-02T10:00:00+00:00",
+    "finish_date": "2024-07-02T11:00:00+00:00",
+    "is_passed": 0,
+    "company": "Флегентова Виктория Витальевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7032318776014663987",
+    "name": "Комплексный вебинар по продуктам",
+    "local_time_string": "",
+    "max_pers": 454,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p>ОБЯЗАТЕЛЬНЫЙ ДЛЯ ПОСЕЩЕНИЯ<br />КОМПЛЕКСНЫЙ ВЕБИНАР ОТ ПАРТНЕРОВ ПО НОВЫМ ПРОДУКТАМ И ИЗМЕНЕНИЯМ В НИХ</p><p>Уважаемые коллеги,<br />на комплексном вебинаре вы узнаете об условиях новых продуктов либо об изменениях в существующей продуктовой линейке.<br />Также сможете задать экспертам интересующие вопросы, чтобы глубже погрузиться в параметры продуктов.</p><p>ДО ВСТРЕЧИ НА ОБУЧЕНИИ!</p><p><strong><span style='font-size:14.0pt'><span style='font-family:Montserrat'><span style='color:black'>Данные для подключения на 14 июня 08.00мск </span></span></span></strong></p><p><strong><span lang='EN-US' style='font-size:14.0pt'><span style='background:yellow'><span style='font-family:Montserrat'><span style='color:black'>ID</span></span></span></span></strong><strong><span style='font-size:14.0pt'><span style='background:yellow'><span style='font-family:Montserrat'><span style='color:black'> конференции: 72397631755415</span></span></span></span></strong></p><p><span style='font-family:Montserrat'><span style='color:black'>Способы подключения к конференции:</span></span></p><p><strong><span style='font-size:14.0pt'><span style='background:yellow'><span style='font-family:Montserrat'><span style='color:black'>Подключиться через браузер/приложение: </span></span></span></span></strong></p><p><span style='font-size:14.0pt'><span style='font-family:Montserrat'><span style='color:black'><a href='https://tconfapp09.rosbank.ru/c/72397631755415'>https://tconfapp09.rosbank.ru/c/72397631755415</a> </span></span></span></p><p><strong><span style='font-family:Montserrat'><span style='color:black'>С сотового телефона:</span></span></strong></p><p><span style='font-family:Montserrat'><span style='color:black'>Бесплатный номер(РФ): 8-800-250-34-54</span></span></p><p><span style='font-family:Montserrat'><span style='color:black'>Городской номер (МСК): +7(495)725-05-05</span></span></p><p><span lang='EN-US' style='font-family:Montserrat'><span style='color:black'>ID</span></span><span style='font-family:Montserrat'><span style='color:black'> конференции: 0072397631755415</span></span></p><p> </p><p> </p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей;spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский;macroregion_2][Дальневосточный;macroregion_6][Приволжский",
+    "category": "category_2][Централизованное обучение",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_2][Digital тренинг",
+    "type_detailed": "",
+    "place": "Вне учебного класса",
+    "class": "Trueconf",
+    "person_num": 45,
+    "type": "training",
+    "start_date": "2024-06-14T08:00:00+00:00",
+    "finish_date": "2024-06-14T09:00:00+00:00",
+    "is_passed": 1,
+    "company": "Эксперт по продукту партнеров",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7032317493952872206",
+    "name": "Комплексный вебинар по продуктам",
+    "local_time_string": "",
+    "max_pers": 396,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p>ОБЯЗАТЕЛЬНЫЙ ДЛЯ ПОСЕЩЕНИЯ<br />КОМПЛЕКСНЫЙ ВЕБИНАР ОТ ПАРТНЕРОВ ПО НОВЫМ ПРОДУКТАМ И ИЗМЕНЕНИЯМ В НИХ</p><p>Уважаемые коллеги,<br />на комплексном вебинаре вы узнаете об условиях новых продуктов либо об изменениях в существующей продуктовой линейке.<br />Также сможете задать экспертам интересующие вопросы, чтобы глубже погрузиться в параметры продуктов.</p><p>ДО ВСТРЕЧИ НА ОБУЧЕНИИ!</p><p><strong><span style='font-size:14.0pt'><span style='font-family:Montserrat'><span style='color:black'>Данные для подключения на 13 июня 10.00мск </span></span></span></strong></p><p><strong><span lang='EN-US' style='font-size:14.0pt'><span style='background:yellow'><span style='font-family:Montserrat'><span style='color:black'>ID</span></span></span></span></strong><strong><span style='font-size:14.0pt'><span style='background:yellow'><span style='font-family:Montserrat'><span style='color:black'> конференции: 72390433330452</span></span></span></span></strong></p><p><span style='font-family:Montserrat'><span style='color:black'>Способы подключения к конференции:</span></span></p><p><strong><span style='font-size:14.0pt'><span style='background:yellow'><span style='font-family:Montserrat'><span style='color:black'>Подключиться через браузер/приложение: </span></span></span></span></strong></p><p><span style='font-size:14.0pt'><span style='font-family:Montserrat'><span style='color:black'><a href='https://tconfapp09.rosbank.ru/c/72390433330452'>https://tconfapp09.rosbank.ru/c/72390433330452</a> </span></span></span></p><p><strong><span style='font-family:Montserrat'><span style='color:black'>С сотового телефона:</span></span></strong></p><p><span style='font-family:Montserrat'><span style='color:black'>Бесплатный номер(РФ): 8-800-250-34-54</span></span></p><p><span style='font-family:Montserrat'><span style='color:black'>Городской номер (МСК): +7(495)725-05-05</span></span></p><p><span lang='EN-US' style='font-family:Montserrat'><span style='color:black'>ID</span></span><span style='font-family:Montserrat'><span style='color:black'> конференции: 0072390433330452</span></span></p><p> </p><p><a href='https://kb.rosbank.rus.socgen/pages/viewpage.action?pageId=491355638'>Инструкции </a>и <a href='https://support.rosbank.rus.socgen/calls/create/R1101?complete_user=1'>поддержка </a>по TrueConf</p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей;spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский;macroregion_2][Дальневосточный;macroregion_3][Московский;macroregion_4][Северо-Западный;macroregion_5][Южный;macroregion_6][Приволжский",
+    "category": "category_2][Централизованное обучение",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_2][Digital тренинг",
+    "type_detailed": "",
+    "place": "Вне учебного класса",
+    "class": "Trueconf",
+    "person_num": 104,
+    "type": "training",
+    "start_date": "2024-06-13T10:00:00+00:00",
+    "finish_date": "2024-06-13T11:00:00+00:00",
+    "is_passed": 1,
+    "company": "Эксперт по продукту партнеров",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7032080284530856020",
+    "name": "'Пилот по продажам кредитных и дебетовых карт Тинькофф Банка в офисах Росбанка'",
+    "local_time_string": "",
+    "max_pers": 388,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p>Вебинар проводится в формате вопросов-ответов.</p><p>Мероприятие пройдет в TrueConf.<br /><strong><span style='font-family:Montserrat'><span style='color:black'>Данные для подключения на&nbsp;6&nbsp;июня&nbsp;10.00мск </span></span></strong></p><p><strong><span style='background:yellow'>ID конференции:</span> 72399419567928</strong></p><p><strong><span style='background:yellow'>Подключиться через браузер/приложение:</span> </strong></p><p><a href='https://tconfapp09.rosbank.ru/c/72399419567928'><span style='color:blue'>https://tconfapp09.rosbank.ru/c/72399419567928</span></a></p><p><br /><strong><span style='background:yellow'>С сотового телефона:</span></strong></p><p>Бесплатный номер(РФ): 8-800-250-34-54</p><p>Городской номер (МСК): +7(495)725-05-05</p><p><span style='background:yellow'>ID конференции: 0072399419567928</span></p><p><span style='font-family:Montserrat'><span style='color:black'>С сотового телефона (автодозвон): перешлите ссылку ниже на свой телефон </span></span></p><p><span style='font-family:Montserrat'><span style='color:black'>Он сам наберет все нужные цифры и подключится к конференции.</span></span></p><p><a href='tel:88002503454,,,0072399419567928'><span style='color:blue'>tel:88002503454,,,0072399419567928</span></a></p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей;spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_5][Южный;macroregion_6][Приволжский",
+    "category": "category_2][Централизованное обучение",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_2][Digital тренинг",
+    "type_detailed": "",
+    "place": "Вне учебного класса",
+    "class": "TrueConf",
+    "person_num": 112,
+    "type": "training",
+    "start_date": "2024-06-06T10:00:00+00:00",
+    "finish_date": "2024-06-06T11:00:00+00:00",
+    "is_passed": 1,
+    "company": "Эксперт по продукту партнеров; brФилатова Екатерина Анатольевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7032269513516688853",
+    "name": "'Пилот по продажам кредитных и дебетовых карт Тинькофф Банка в офисах Росбанка'",
+    "local_time_string": "",
+    "max_pers": 368,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p>Вебинар проводится в формате вопросов-ответов.</p><p>Мероприятие пройдет в TrueConf.<br />После записи тебе придет отдельное приглашение с ящика Training_Retail, где будут указаны реквизиты для прохождения обучения.</p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей;spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский;macroregion_2][Дальневосточный",
+    "category": "category_2][Централизованное обучение",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_2][Digital тренинг",
+    "type_detailed": "",
+    "place": "Вне учебного класса",
+    "class": "TrueConf",
+    "person_num": 132,
+    "type": "training",
+    "start_date": "2024-06-06T09:00:00+00:00",
+    "finish_date": "2024-06-06T10:00:00+00:00",
+    "is_passed": 1,
+    "company": "Флегентова Виктория Витальевна; brСоловьева Ирина Алексеевна; brЭксперт по продукту партнеров",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7035941228574530397",
+    "name": "'Пилот по продажам кредитных и дебетовых карт Тинькофф Банка в офисах Росбанка'",
+    "local_time_string": "",
+    "max_pers": 282,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p>Вебинар проводится для пилотных офисов.<br />Подробно расскажем о кредитных и дебетовых карт Тинькофф Банка. В рамках мероприятия вы сможете получить ответы на все вопросы по продуктам.</p><p>Тренинг пройдет в TrueConf.<br />После записи тебе придет отдельное приглашение с ящика Training_Retail, где будут указаны реквизиты для прохождения обучения.</p><p><span style='font-size:11pt'><span style='font-family:Calibri,sans-serif'><strong><span style='font-family:Montserrat'><span style='color:black'>Данные для подключения</span></span></strong></span></span></p><p><span style='font-size:11pt'><span style='font-family:Calibri,sans-serif'><strong><span lang='EN-US' style='background:yellow'><span style='font-family:Montserrat'><span style='color:black'>ID</span></span></span></strong><strong><span style='background:yellow'><span style='font-family:Montserrat'><span style='color:black'> конференции: </span></span></span></strong></span></span></p><p><span style='font-size:11pt'><span style='font-family:Calibri,sans-serif'><strong><span style='font-size:12.0pt'><span style='font-family:&quot;Times New Roman&quot;,serif'>72322983665919</span></span></strong></span></span><br /> </p><p><span style='font-size:11pt'><span style='font-family:Calibri,sans-serif'><strong><span style='background:yellow'><span style='font-family:Montserrat'><span style='color:black'>Подключиться через браузер/приложение: </span></span></span></strong></span></span></p><p><span style='font-size:11pt'><span style='font-family:Calibri,sans-serif'><strong><span style='font-size:12.0pt'><span style='font-family:&quot;Times New Roman&quot;,serif'><a href='https://tconfapp02.rosbank.ru/c/72322983665919'><span style='color:blue'>https://tconfapp02.rosbank.ru/c/72322983665919</span></a></span></span></strong></span></span></p><p><span style='font-size:11pt'><span style='font-family:Calibri,sans-serif'><strong><span style='font-family:Montserrat'><span style='color:black'>С сотового телефона:</span></span></strong></span></span></p><p><span style='font-size:11pt'><span style='font-family:Calibri,sans-serif'><span style='font-family:Montserrat'><span style='color:black'>Бесплатный номер(РФ): 8-800-250-34-54</span></span></span></span></p><p><span style='font-size:11pt'><span style='font-family:Calibri,sans-serif'><span style='font-family:Montserrat'><span style='color:black'>Городской номер (МСК): +7(495)725-05-05</span></span></span></span></p><p><span style='font-size:11pt'><span style='font-family:Calibri,sans-serif'><span style='font-family:Montserrat'><span style='color:black'>С сотового телефона (автодозвон): перешлите ссылку ниже на свой телефон </span></span></span></span></p><p><span style='font-size:11pt'><span style='font-family:Calibri,sans-serif'><span style='font-family:Montserrat'><span style='color:black'>Он сам наберет все нужные цифры и подключится к конференции.</span></span></span></span></p><p><span style='font-size:11pt'><span style='font-family:Calibri,sans-serif'><span style='font-size:12.0pt'><span style='font-family:&quot;Times New Roman&quot;,serif'><a href='tel:88002503454,,,0072322983665919'><span style='color:blue'>tel:88002503454,,,0072322983665919</span></a></span></span></span></span></p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей;spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский;macroregion_2][Дальневосточный;macroregion_3][Московский;macroregion_4][Северо-Западный;macroregion_5][Южный;macroregion_6][Приволжский",
+    "category": "category_2][Централизованное обучение",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_2][Digital тренинг",
+    "type_detailed": "",
+    "place": "На рабочих местах",
+    "class": "TrueConf",
+    "person_num": 18,
+    "type": "training",
+    "start_date": "2024-06-11T09:00:00+00:00",
+    "finish_date": "2024-06-11T10:00:00+00:00",
+    "is_passed": 1,
+    "company": "Голубева Ксения Геннадьевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7040219615762281112",
+    "name": "'Пилот по продажам потребительского кредитования Т-Банка в офисах Росбанка'",
+    "local_time_string": "",
+    "max_pers": 250,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p>Вебинар проводится для пилотных офисов.<br />Подробно расскажем о потребительском кредитование Т-Банка.</p><p>В рамках мероприятия вы сможете получить ответы на все вопросы по продуктам.&nbsp;</p><p>Тренинг пройдет в TrueConf.<br />После записи тебе придет отдельное приглашение с ящика Training_Retail, где будут указаны реквизиты для прохождения обучения.</p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей;spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский;macroregion_2][Дальневосточный;macroregion_3][Московский;macroregion_4][Северо-Западный;macroregion_5][Южный;macroregion_6][Приволжский",
+    "category": "category_1][Обязательное обучение в должности",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_2][Digital тренинг",
+    "type_detailed": "",
+    "place": "На рабочих местах",
+    "class": "TrueConf",
+    "person_num": 50,
+    "type": "training",
+    "start_date": "2024-06-20T12:00:00+00:00",
+    "finish_date": "2024-06-20T13:00:00+00:00",
+    "is_passed": 1,
+    "company": "",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7038344463470523589",
+    "name": "Продукты РБ Страхование жизни",
+    "local_time_string": "",
+    "max_pers": 200,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p>Новая Стратегия ИСЖ «Стратегия Роста».</p><p><strong>Стратегия с регулярной выплатой купонов, не зависящих от динамики инвестиционного актива:</strong></p><ul><li>фиксированный купонный доход​</li><li>барьер 85%*</li><li>короткий срок 6 месяцев</li></ul><p><strong>Инвестиционный актив</strong></p><p>Акции российских компаний**:</p><ul><li>ПАО «Ростелеком»</li><li>ПАО «Сбербанк»</li><li>ПАО «МТС»</li><li>ПАО «Совкомфлот»</li><li>ПАО НК «Роснефть»&nbsp;</li></ul><p>Как донести эти преимущества до клиента? Как снять его сомнения и опасения? Как сделать продажу качественной, а клиента - довольным и лояльным?<br />Эксперты Росбанк Страхование ответят на эти и многие другие вопросы, поделяться опытом и лучшими практиками.</p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский;macroregion_2][Дальневосточный;macroregion_3][Московский;macroregion_4][Северо-Западный;macroregion_5][Южный;macroregion_6][Приволжский",
+    "category": "category_2][Централизованное обучение",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_2][Премиум",
+    "format_education": "format_2][Digital тренинг",
+    "type_detailed": "",
+    "place": "На рабочих местах",
+    "class": "ПАО Росбанк",
+    "person_num": 0,
+    "type": "training",
+    "start_date": "2024-07-03T07:00:00+00:00",
+    "finish_date": "2024-07-03T08:00:00+00:00",
+    "is_passed": 0,
+    "company": "Алфимова Анна Евгеньевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7038345914347385345",
+    "name": "Продукты РБ Страхование жизни",
+    "local_time_string": "",
+    "max_pers": 200,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p>Новая Стратегия ИСЖ «Стратегия Роста».</p><p><strong>Стратегия с регулярной выплатой купонов, не зависящих от динамики инвестиционного актива:</strong></p><ul><li>фиксированный купонный доход​</li><li>барьер 85%*</li><li>короткий срок 6 месяцев</li></ul><p><strong>Инвестиционный актив</strong></p><p>Акции российских компаний**:</p><ul><li>ПАО «Ростелеком»</li><li>ПАО «Сбербанк»</li><li>ПАО «МТС»</li><li>ПАО «Совкомфлот»</li><li>ПАО НК «Роснефть»&nbsp;</li></ul><p>Как донести эти преимущества до клиента? Как снять его сомнения и опасения? Как сделать продажу качественной, а клиента - довольным и лояльным?<br />Эксперты Росбанк Страхование ответят на эти и многие другие вопросы, поделяться опытом и лучшими практиками.</p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский;macroregion_2][Дальневосточный;macroregion_3][Московский;macroregion_4][Северо-Западный;macroregion_5][Южный;macroregion_6][Приволжский",
+    "category": "category_2][Централизованное обучение",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_2][Премиум",
+    "format_education": "format_2][Digital тренинг",
+    "type_detailed": "",
+    "place": "На рабочих местах",
+    "class": "ПАО Росбанк",
+    "person_num": 0,
+    "type": "training",
+    "start_date": "2024-07-03T10:00:00+00:00",
+    "finish_date": "2024-07-03T11:00:00+00:00",
+    "is_passed": 0,
+    "company": "",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7043280318352058313",
+    "name": "НСЖ_базовый тренинг",
+    "local_time_string": "",
+    "max_pers": 197,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p>НСЖ, казалось бы, знакомый продукт, давно на рынке, каждый клиент хоть раз о нем слышал. Но что же такое НСЖ на самом деле? Зачем оно нужно клиенту? И нужно ли? Как оно работает?&nbsp;И самое главное: как его продать?</p><p>Если вас тревожит хотя бы один из этих вопросов или если у вас есть свои, этот тренинг - для вас!</p><p>В течение 3-х часов в формате онлайн вы получите все ответы от экспертов Росбанк Страхования, узнаете успешные приемы продаж и сможете освоить их на практике.</p><p>Тренинг пройдет в онлайн формате на платформе Zoom. После записи на тренинг тебе придет отдельное приглашение с ящика Training_Retail, где будут указаны все реквизиты для подключения.</p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей;spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский;macroregion_2][Дальневосточный;macroregion_3][Московский;macroregion_4][Северо-Западный;macroregion_5][Южный;macroregion_6][Приволжский",
+    "category": "category_1][Обязательное обучение в должности",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_2][Digital тренинг",
+    "type_detailed": "",
+    "place": "Вне учебного класса",
+    "class": "trueconf",
+    "person_num": 3,
+    "type": "training",
+    "start_date": "2024-07-12T10:00:00+00:00",
+    "finish_date": "2024-07-12T12:00:00+00:00",
+    "is_passed": 0,
+    "company": "Алфимова Анна Евгеньевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7043272391956324197",
+    "name": "ИСЖ_базовый тренинг",
+    "local_time_string": "",
+    "max_pers": 196,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p>Инвестиционное страхование жизни - что же это в первую очередь? Инвестиционный продукт? Страховая программа? Удачный гибрид? Где его место в финансовом портфеле клиента? И самое главное: как его успешно предложить?</p><p>Ответы на эти и многие другие вопросы вы найдете на базовом тренинге с экспертами Росбанк Страхования.</p><p>Тренинг пройдет в онлайн формате на платформе Zoom. После записи на тренинг тебе придет отдельное приглашение с ящика Training_Retail, где будут указаны все реквизиты для подключения.</p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей;spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский;macroregion_2][Дальневосточный;macroregion_3][Московский;macroregion_4][Северо-Западный;macroregion_5][Южный;macroregion_6][Приволжский",
+    "category": "category_1][Обязательное обучение в должности",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_2][Digital тренинг",
+    "type_detailed": "",
+    "place": "Вне учебного класса",
+    "class": "trueconf",
+    "person_num": 4,
+    "type": "training",
+    "start_date": "2024-07-11T10:00:00+00:00",
+    "finish_date": "2024-07-11T12:00:00+00:00",
+    "is_passed": 0,
+    "company": "",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7038344917864555381",
+    "name": "Продукты РБ Страхование жизни",
+    "local_time_string": "",
+    "max_pers": 193,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p>Новая Стратегия ИСЖ «Стратегия Роста».</p><p><strong>Стратегия с регулярной выплатой купонов, не зависящих от динамики инвестиционного актива:</strong></p><ul><li>фиксированный купонный доход​</li><li>барьер 85%*</li><li>короткий срок 6 месяцев</li></ul><p><strong>Инвестиционный актив</strong></p><p>Акции российских компаний**:</p><ul><li>ПАО «Ростелеком»</li><li>ПАО «Сбербанк»</li><li>ПАО «МТС»</li><li>ПАО «Совкомфлот»</li><li>ПАО НК «Роснефть»&nbsp;</li></ul><p>Как донести эти преимущества до клиента? Как снять его сомнения и опасения? Как сделать продажу качественной, а клиента - довольным и лояльным?<br />Эксперты Росбанк Страхование ответят на эти и многие другие вопросы, поделяться опытом и лучшими практиками.</p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский;macroregion_2][Дальневосточный;macroregion_3][Московский;macroregion_4][Северо-Западный;macroregion_5][Южный;macroregion_6][Приволжский",
+    "category": "category_2][Централизованное обучение",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_2][Премиум",
+    "format_education": "format_2][Digital тренинг",
+    "type_detailed": "",
+    "place": "На рабочих местах",
+    "class": "ПАО Росбанк",
+    "person_num": 7,
+    "type": "training",
+    "start_date": "2024-06-21T10:00:00+00:00",
+    "finish_date": "2024-06-21T12:00:00+00:00",
+    "is_passed": 1,
+    "company": "Эксперт по продукту партнеров",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7038343988050327622",
+    "name": "Продукты РБ Страхование жизни",
+    "local_time_string": "",
+    "max_pers": 175,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p>Новая Стратегия ИСЖ «Стратегия Роста».</p><p><strong>Стратегия с регулярной выплатой купонов, не зависящих от динамики инвестиционного актива:</strong></p><ul><li>фиксированный купонный доход​</li><li>барьер 85%*</li><li>короткий срок 6 месяцев</li></ul><p><strong>Инвестиционный актив</strong></p><p>Акции российских компаний**:</p><ul><li>ПАО «Ростелеком»</li><li>ПАО «Сбербанк»</li><li>ПАО «МТС»</li><li>ПАО «Совкомфлот»</li><li>ПАО НК «Роснефть»&nbsp;</li></ul><p>Как донести эти преимущества до клиента? Как снять его сомнения и опасения? Как сделать продажу качественной, а клиента - довольным и лояльным?<br />Эксперты Росбанк Страхование ответят на эти и многие другие вопросы, поделяться опытом и лучшими практиками.</p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский;macroregion_2][Дальневосточный;macroregion_3][Московский;macroregion_4][Северо-Западный;macroregion_5][Южный;macroregion_6][Приволжский",
+    "category": "category_2][Централизованное обучение",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_2][Премиум",
+    "format_education": "format_2][Digital тренинг",
+    "type_detailed": "",
+    "place": "На рабочих местах",
+    "class": "ПАО Росбанк",
+    "person_num": 25,
+    "type": "training",
+    "start_date": "2024-06-19T07:00:00+00:00",
+    "finish_date": "2024-06-19T08:00:00+00:00",
+    "is_passed": 1,
+    "company": "Алфимова Анна Евгеньевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7038345531570946038",
+    "name": "Продукты РБ Страхование жизни",
+    "local_time_string": "",
+    "max_pers": 162,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p>Новая Стратегия ИСЖ «Стратегия Роста».</p><p><strong>Стратегия с регулярной выплатой купонов, не зависящих от динамики инвестиционного актива:</strong></p><ul><li>фиксированный купонный доход​</li><li>барьер 85%*</li><li>короткий срок 6 месяцев</li></ul><p><strong>Инвестиционный актив</strong></p><p>Акции российских компаний**:</p><ul><li>ПАО «Ростелеком»</li><li>ПАО «Сбербанк»</li><li>ПАО «МТС»</li><li>ПАО «Совкомфлот»</li><li>ПАО НК «Роснефть»&nbsp;</li></ul><p>Как донести эти преимущества до клиента? Как снять его сомнения и опасения? Как сделать продажу качественной, а клиента - довольным и лояльным?<br />Эксперты Росбанк Страхование ответят на эти и многие другие вопросы, поделяться опытом и лучшими практиками.</p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский;macroregion_2][Дальневосточный;macroregion_3][Московский;macroregion_4][Северо-Западный;macroregion_5][Южный;macroregion_6][Приволжский",
+    "category": "category_2][Централизованное обучение",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_2][Премиум",
+    "format_education": "format_2][Digital тренинг",
+    "type_detailed": "",
+    "place": "На рабочих местах",
+    "class": "ПАО Росбанк",
+    "person_num": 38,
+    "type": "training",
+    "start_date": "2024-06-20T10:00:00+00:00",
+    "finish_date": "2024-06-20T11:00:00+00:00",
+    "is_passed": 1,
+    "company": "Эксперт по продукту партнеров",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7032269893873434198",
+    "name": "'Пилот по продажам кредитных и дебетовых карт Тинькофф Банка в офисах Росбанка'",
+    "local_time_string": "",
+    "max_pers": 106,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p>Вебинар проводится в формате вопросов-ответов.</p><p>Мероприятие пройдет в TrueConf.<br />После записи тебе придет отдельное приглашение с ящика Training_Retail, где будут указаны реквизиты для прохождения обучения.</p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей;spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский;macroregion_2][Дальневосточный",
+    "category": "category_2][Централизованное обучение",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_2][Digital тренинг",
+    "type_detailed": "",
+    "place": "Вне учебного класса",
+    "class": "TrueConf",
+    "person_num": 94,
+    "type": "training",
+    "start_date": "2024-06-04T09:00:00+00:00",
+    "finish_date": "2024-06-04T10:00:00+00:00",
+    "is_passed": 1,
+    "company": "Флегентова Виктория Витальевна; brЭксперт по продукту партнеров; brСоловьева Ирина Алексеевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7040889152335510538",
+    "name": "Типология DISC в переговорах",
+    "local_time_string": "",
+    "max_pers": 100,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p>Для&nbsp;опытных менеджеров продаж B2B<span style='color:black; font-family:source sans pro,sans-serif; font-size:11pt; mso-ansi-language:RU; mso-bidi-font-family:Calibri; mso-bidi-language:AR-SA; mso-fareast-font-family:Calibri; mso-fareast-language:EN-US; mso-fareast-theme-font:minor-latin'>&nbsp;</span>запущена программа &laquo;Типология DISC в переговорах&raquo;.</p><p>В настоящее время высокие требования к продукту и личностные особенности клиента усложняют продавцу движение к сделке. Быстро заключить сделку с любым клиентом помогает умение на ходу подстраивать продуктовые предложения и ход переговоров согласно коммуникативным потребностям и мотиваторам клиента. Типология DISC &ndash; понятный и действенный инструмент для успешных продаж, для искусных и результативных переговоров, позволяющий считать и грамотно учесть поведенческие характеристики клиента.</p><p>По итогам тренинга участники:<br />- познакомятся с принципами типологии DISC;<br />- научатся диагностировать тип клиента по DISC;<br />- смогут адаптировать стиль общения с клиентом с учетом его типа<br />- повысят результативность коммуникации с клиентом на каждом этапе продаж.</p><p>Тренинг пройдет в онлайн формате на платформе TrueConf. После записи на тренинг тебе придет отдельное приглашение с ящика Training_Retail, где будут указаны все реквизиты для подключения.</p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей;spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский;macroregion_2][Дальневосточный;macroregion_3][Московский;macroregion_4][Северо-Западный;macroregion_5][Южный;macroregion_6][Приволжский",
+    "category": "category_1][Обязательное обучение в должности",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_5][Payroll",
+    "format_education": "format_5][Онлайн тренинг",
+    "type_detailed": "",
+    "place": "Вне учебного класса",
+    "class": "TrueConf",
+    "person_num": 0,
+    "type": "training",
+    "start_date": "2024-07-02T10:00:00+00:00",
+    "finish_date": "2024-07-03T13:00:00+00:00",
+    "is_passed": 0,
+    "company": "Чапаева Наталья Юрьевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7040891401352491664",
+    "name": "Мастер-Класс по навыку Публичных Выступлений",
+    "local_time_string": "",
+    "max_pers": 100,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<span style='font-size:20px'><span style='font-family:arial,helvetica,sans-serif'>В ходе мастер-класса вы сможете:<br />&bull; Определить особенности и специфику проведения Публичного выступления менеджерами прямых продаж.<br />&bull; Сформировать понимание структуры Публичного выступления.<br />&bull; Отработать техники эффективной работы с аудиторией.<br />&bull; Узнать инструменты снятия волнения и приобретения уверенности в себе.<br />&bull; Сформировать умение проведения Публичного выступлениям.</span></span>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский;macroregion_2][Дальневосточный;macroregion_3][Московский;macroregion_4][Северо-Западный;macroregion_5][Южный;macroregion_6][Приволжский",
+    "category": "category_1][Обязательное обучение в должности",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_6][DSA",
+    "format_education": "format_5][Онлайн тренинг",
+    "type_detailed": "",
+    "place": "Вне учебного класса",
+    "class": "TrueConf",
+    "person_num": 0,
+    "type": "training",
+    "start_date": "2024-07-03T10:00:00+00:00",
+    "finish_date": "2024-07-03T13:00:00+00:00",
+    "is_passed": 0,
+    "company": "Керимова Татьяна Викторовна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7040892826883651083",
+    "name": "'Как научиться думать правильно'",
+    "local_time_string": "",
+    "max_pers": 99,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p>Мир меняется, а вместе с ним меняются и гибкие навыки, которые необходимы для комфортной жизни в 21 веке. Системность, креативность, гибкость, скорость - must have современности. При этом мы поглощаем готовые ментальные модели, созданные не нами. Возникает противоречие. И ключевой задачей становится примирение данности и необходимости.</p><p><br />В результате обучения Ты:<br />- познакомишься с ловушками мышления, в которые попадаешь ежедневно;<br />- изучишь инструменты системного мышления;<br />- научишься действовать в проблемных ситуациях с использованием моделей системного мышлениния;</p><p>Тренинг пройдет в очном формате в ОКО 2.<br />После записи на тренинг тебе придет отдельное приглашение с ящика Training_Retail, где будут указаны вводные данные&nbsp; для прохождения обучения.</p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей;spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский;macroregion_2][Дальневосточный;macroregion_3][Московский;macroregion_4][Северо-Западный;macroregion_5][Южный;macroregion_6][Приволжский",
+    "category": "category_4][Обучение по проектам",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_5][Payroll;channel_6][DSA",
+    "format_education": "format_5][Онлайн тренинг",
+    "type_detailed": "",
+    "place": "Вне учебного класса",
+    "class": "TrueConf",
+    "person_num": 1,
+    "type": "training",
+    "start_date": "2024-07-12T10:00:00+00:00",
+    "finish_date": "2024-07-12T13:00:00+00:00",
+    "is_passed": 0,
+    "company": "Чапаева Наталья Юрьевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7040890935754512596",
+    "name": "SPIN-продажи",
+    "local_time_string": "",
+    "max_pers": 98,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p>Как часто менеджеры продаж слышат от клиентов: &laquo;нас вроде бы все устраивает&raquo;, &laquo;мы уже привыкли&raquo;, &laquo;в целом все нормально&raquo;? Почти в каждой продаже. А ведь зачастую за этими &laquo;вроде бы&raquo;, &laquo;привыкли&raquo;, &laquo;в целом, хорошо&raquo; скрываются проблемы клиента в текущей ситуации.</p><p>Поэтому в продажах главное умение &ndash; это работать с потребностью клиента. Профессиональный менеджер помогает клиенту пройти этот путь &ndash; от осознания своей текущей ситуации и проблем в ней к явным потребностям и тем выгодам, которые помогут клиенту.</p><p>И здесь лучший помощник менеджера по продажам метод SPIN-продаж &ndash; одна из самых мощных техник в работе с потребностями клиента. На этом тренинге ты разберешься с тем, как она работает, и потренируешься применять навык SPIN-продаж с коллегами.</p><p>Тренинг пройдет в онлайн формате на платформе yTrueConf. После записи на тренинг тебе придет отдельное приглашение с ящика Training_Retail, где будут указаны все реквизиты для подключения.</p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей;spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский;macroregion_2][Дальневосточный;macroregion_3][Московский;macroregion_4][Северо-Западный;macroregion_5][Южный;macroregion_6][Приволжский",
+    "category": "category_1][Обязательное обучение в должности",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_5][Payroll",
+    "format_education": "format_5][Онлайн тренинг",
+    "type_detailed": "",
+    "place": "Вне учебного класса",
+    "class": "TrueConf",
+    "person_num": 2,
+    "type": "training",
+    "start_date": "2024-07-17T10:00:00+00:00",
+    "finish_date": "2024-07-18T13:00:00+00:00",
+    "is_passed": 0,
+    "company": "Чапаева Наталья Юрьевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 1
+}, {
+    "id": "7043371042363857855",
+    "name": "Академия Премиум_Тренинг",
+    "local_time_string": "",
+    "max_pers": 97,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p>Премиальные клиенты - особая каста. Они более состоятельны и более лояльны, чем клиенты масс-сегмента.&nbsp;<br />Не удивительно, что многие банки хотят стать для них Банком Первого Выбора.<br />Только представьте, как много менеджеров выходят с ними на связь, стремятся завоевать их сердца и, что скрывать, кошельки.<br />Так почему же премиальный клиент должен выбрать именно наш банк и нашего менеджера? Чем мы выгодно отличаемся от остальных? Почему именно с нашим менеджером клиент должен быть готов говорить о своих, откровенно говоря, немалых финансах, о своих жизненных целях, о своей семье и своем доходе?<br />Премиальные клиенты еще и гораздо более требовательны и финансово грамотны, чем масс-сегмент. Избалованы вниманием и знают себе цену. А, значит, и менеджер должен соответствовать определенному уровню, быть профессионалом, стать личным банкиром для своего клиента. То есть в полном смысле слова быть Премиальным менеджером, а не очередным банковским продавцом.<br />Какие знания, умения, навыки должны быть у такого менежера? Какие инструменты продаж позволят ему завоевать клиента? Об этом ты узнаешь на тренинге 'Академия Премиум'. А еще:<br />- Познакомишься с моделью продаж, эффективной именно для работы с сотоятельными клиентами.<br />- Освоишь интременты формирования потребностей и потренируешь их на практике<br />- Научишься проводить встречи по персональному финансовому планированию<br />- Узнаешь из чего складывается портрет успешного премиального менеджера и как ему соответсвовать<br />- Составишь свой собственный сценарий работы с премиальным клиентом и протестируешь его на практике</p><p>Тренинг пройдет в формате 'смешанного обучения': индивидуальные задания в оффлайне, работа на различных цифровых платформах, онлайн-тренировки в TrueConf. После записи на тренинг тебе придет отдельное приглашение с ящика Training_Retail, где будут указаны все реквизиты для подключения.</p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский;macroregion_2][Дальневосточный;macroregion_3][Московский;macroregion_4][Северо-Западный;macroregion_5][Южный;macroregion_6][Приволжский",
+    "category": "category_1][Обязательное обучение в должности",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_2][Премиум",
+    "format_education": "format_5][Онлайн тренинг",
+    "type_detailed": "",
+    "place": "ПАО РОСБАНК",
+    "class": "на рабочих местах",
+    "person_num": 3,
+    "type": "training",
+    "start_date": "2024-07-01T10:00:00+00:00",
+    "finish_date": "2024-07-09T13:00:00+00:00",
+    "is_passed": 1,
+    "company": "Полянская Евгения Сергеевна; brЧаплыгин Антон Владимирович",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 1,
+    "sub": 0
+}, {
+    "id": "7043372211307509048",
+    "name": "Академия Премиум_Выпускной_Экзамен",
+    "local_time_string": "",
+    "max_pers": 97,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "Успешное прохождение Экзамена позволит получить доступы для оформления инвестиционных продуктов.",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский;macroregion_2][Дальневосточный;macroregion_3][Московский;macroregion_4][Северо-Западный;macroregion_5][Южный;macroregion_6][Приволжский",
+    "category": "category_1][Обязательное обучение в должности",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_2][Премиум",
+    "format_education": "format_7][Экзамен",
+    "type_detailed": "",
+    "place": "ПАО РОСБАНК",
+    "class": "на рабочих местах",
+    "person_num": 3,
+    "type": "training",
+    "start_date": "2024-07-11T10:00:00+00:00",
+    "finish_date": "2024-07-11T12:00:00+00:00",
+    "is_passed": 0,
+    "company": "",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7028428051037444414",
+    "name": "Типология DISC в переговорах",
+    "local_time_string": "",
+    "max_pers": 95,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p>Для&nbsp;опытных менеджеров продаж B2B<span style='color:black; font-family:source sans pro,sans-serif; font-size:11pt; mso-ansi-language:RU; mso-bidi-font-family:Calibri; mso-bidi-language:AR-SA; mso-fareast-font-family:Calibri; mso-fareast-language:EN-US; mso-fareast-theme-font:minor-latin'>&nbsp;</span>запущена программа &laquo;Типология DISC в переговорах&raquo;.</p><p>В настоящее время высокие требования к продукту и личностные особенности клиента усложняют продавцу движение к сделке. Быстро заключить сделку с любым клиентом помогает умение на ходу подстраивать продуктовые предложения и ход переговоров согласно коммуникативным потребностям и мотиваторам клиента. Типология DISC &ndash; понятный и действенный инструмент для успешных продаж, для искусных и результативных переговоров, позволяющий считать и грамотно учесть поведенческие характеристики клиента.</p><p>По итогам тренинга участники:<br />- познакомятся с принципами типологии DISC;<br />- научатся диагностировать тип клиента по DISC;<br />- смогут адаптировать стиль общения с клиентом с учетом его типа<br />- повысят результативность коммуникации с клиентом на каждом этапе продаж.</p><p>Тренинг пройдет в онлайн формате на платформе TrueConf. После записи на тренинг тебе придет отдельное приглашение с ящика Training_Retail, где будут указаны все реквизиты для подключения.</p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей;spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский;macroregion_2][Дальневосточный;macroregion_3][Московский;macroregion_4][Северо-Западный;macroregion_5][Южный;macroregion_6][Приволжский",
+    "category": "category_1][Обязательное обучение в должности",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_5][Payroll",
+    "format_education": "format_5][Онлайн тренинг",
+    "type_detailed": "",
+    "place": "Вне учебного класса",
+    "class": "TrueConf",
+    "person_num": 5,
+    "type": "training",
+    "start_date": "2024-06-17T10:00:00+00:00",
+    "finish_date": "2024-06-18T13:00:00+00:00",
+    "is_passed": 1,
+    "company": "Чапаева Наталья Юрьевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7028426682960016912",
+    "name": "SPIN-продажи",
+    "local_time_string": "",
+    "max_pers": 91,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p>Как часто менеджеры продаж слышат от клиентов: &laquo;нас вроде бы все устраивает&raquo;, &laquo;мы уже привыкли&raquo;, &laquo;в целом все нормально&raquo;? Почти в каждой продаже. А ведь зачастую за этими &laquo;вроде бы&raquo;, &laquo;привыкли&raquo;, &laquo;в целом, хорошо&raquo; скрываются проблемы клиента в текущей ситуации.</p><p>Поэтому в продажах главное умение &ndash; это работать с потребностью клиента. Профессиональный менеджер помогает клиенту пройти этот путь &ndash; от осознания своей текущей ситуации и проблем в ней к явным потребностям и тем выгодам, которые помогут клиенту.</p><p>И здесь лучший помощник менеджера по продажам метод SPIN-продаж &ndash; одна из самых мощных техник в работе с потребностями клиента. На этом тренинге ты разберешься с тем, как она работает, и потренируешься применять навык SPIN-продаж с коллегами.</p><p>Тренинг пройдет в онлайн формате на платформе yTrueConf. После записи на тренинг тебе придет отдельное приглашение с ящика Training_Retail, где будут указаны все реквизиты для подключения.</p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей;spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский;macroregion_2][Дальневосточный;macroregion_3][Московский;macroregion_4][Северо-Западный;macroregion_5][Южный;macroregion_6][Приволжский",
+    "category": "category_1][Обязательное обучение в должности",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_5][Payroll",
+    "format_education": "format_5][Онлайн тренинг",
+    "type_detailed": "",
+    "place": "Вне учебного класса",
+    "class": "TrueConf",
+    "person_num": 9,
+    "type": "training",
+    "start_date": "2024-06-10T10:00:00+00:00",
+    "finish_date": "2024-06-11T13:00:00+00:00",
+    "is_passed": 1,
+    "company": "Чапаева Наталья Юрьевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7032349811445420940",
+    "name": "ИСЖ_базовый тренинг",
+    "local_time_string": "",
+    "max_pers": 90,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p>Инвестиционное страхование жизни - что же это в первую очередь? Инвестиционный продукт? Страховая программа? Удачный гибрид? Где его место в финансовом портфеле клиента? И самое главное: как его успешно предложить?</p><p>Ответы на эти и многие другие вопросы вы найдете на базовом тренинге с экспертами Росбанк Страхования.</p><p>Тренинг пройдет в онлайн формате на платформе Zoom. После записи на тренинг тебе придет отдельное приглашение с ящика Training_Retail, где будут указаны все реквизиты для подключения.</p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей;spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский;macroregion_2][Дальневосточный;macroregion_3][Московский;macroregion_4][Северо-Западный;macroregion_5][Южный;macroregion_6][Приволжский",
+    "category": "category_1][Обязательное обучение в должности",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_2][Digital тренинг",
+    "type_detailed": "",
+    "place": "Вне учебного класса",
+    "class": "Trueconf",
+    "person_num": 10,
+    "type": "training",
+    "start_date": "2024-06-19T10:00:00+00:00",
+    "finish_date": "2024-06-19T13:00:00+00:00",
+    "is_passed": 1,
+    "company": "",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7032350293559858848",
+    "name": "НСЖ_базовый тренинг",
+    "local_time_string": "",
+    "max_pers": 89,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p>НСЖ, казалось бы, знакомый продукт, давно на рынке, каждый клиент хоть раз о нем слышал. Но что же такое НСЖ на самом деле? Зачем оно нужно клиенту? И нужно ли? Как оно работает?&nbsp;И самое главное: как его продать?</p><p>Если вас тревожит хотя бы один из этих вопросов или если у вас есть свои, этот тренинг - для вас!</p><p>В течение 3-х часов в формате онлайн вы получите все ответы от экспертов Росбанк Страхования, узнаете успешные приемы продаж и сможете освоить их на практике.</p><p>Тренинг пройдет в онлайн формате на платформе Zoom. После записи на тренинг тебе придет отдельное приглашение с ящика Training_Retail, где будут указаны все реквизиты для подключения.</p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей;spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский;macroregion_2][Дальневосточный;macroregion_3][Московский;macroregion_4][Северо-Западный;macroregion_5][Южный;macroregion_6][Приволжский",
+    "category": "category_1][Обязательное обучение в должности",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_2][Digital тренинг",
+    "type_detailed": "",
+    "place": "Вне учебного класса",
+    "class": "Trueconf",
+    "person_num": 11,
+    "type": "training",
+    "start_date": "2024-06-20T10:00:00+00:00",
+    "finish_date": "2024-06-20T13:00:00+00:00",
+    "is_passed": 1,
+    "company": "Алфимова Анна Евгеньевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7042699976112497646",
+    "name": "Организация работы с сейфовыми ячейками",
+    "local_time_string": "",
+    "max_pers": 50,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p>Вебинар для сотрудников, задействованных в предоставлении клиентам-ФЛ услуги по аренде сейфовых ячеек.&nbsp;&nbsp;</p><p>На встрече мы рассмотрим вопросы:</p><ul><li>Организация работы, распределение функций между сотрудниками, возможность их совмещения.</li><li>Хранение и передача ключей от депозитария.</li><li>Работа в ПО SafeCells, ведение и редактирование справочника &laquo;Ответственный за ключи&raquo;.</li><li>Оформление и продление договора аренды, обеспечение доступа к сейфовой ячейке.</li><li>Расчет суммы возврата при досрочном расторжении договора.</li><li>Порядок вскрытия сейфовой ячейки, хранения и возврата изъятого содержимого.</li></ul><p>Обучение пройдет в онлайн формате на платформе Skype для бизнеса. После записи на вебинар тебе придет отдельное приглашение с ящика Training_Retail, где будут указаны все реквизиты для подключения.</p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский;macroregion_2][Дальневосточный;macroregion_3][Московский;macroregion_4][Северо-Западный;macroregion_5][Южный;macroregion_6][Приволжский",
+    "category": "category_4][Обучение по проектам",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_2][Digital тренинг",
+    "type_detailed": "",
+    "place": "Вне учебного класса",
+    "class": "TrueConf",
+    "person_num": 0,
+    "type": "training",
+    "start_date": "2024-07-10T10:00:00+00:00",
+    "finish_date": "2024-07-10T11:30:00+00:00",
+    "is_passed": 0,
+    "company": "Модина Ольга Сергеевна; brКлочкова Екатерина Дмитриевна; brСеменова Ирина Александровна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7042700631096398646",
+    "name": "Практикум по работе с сейфовыми ячейками. Расчет комиссий, штрафов и неустойки",
+    "local_time_string": "",
+    "max_pers": 50,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p><span style='font-size:20px'>Данный практикум предназначен для сотрудников офисов, предоставляющих услугу по аренде сейфовых ячеек. </span></p><p><span style='font-size:20px'>На встрече мы разберемся с алгоритмами расчета неустойки при нарушении сроков аренды, возвратом комиссии при досрочном расторжении контрактов, списанием штрафов. На реальных примерах произведем расчеты и составим примеры оформления запросов.<br />Перед прохождением практикума рекомендуем пройти вебинар &quot;Работа с сейфовыми ячейками&quot; .</span></p><p><span style='font-size:20px'>После записи на практикум тебе придет отдельное приглашение с ящика Training_Retail, где будут указаны все реквизиты для подключения.</span></p><p><span style='font-size:20px'>До встречи на обучении!</span></p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский;macroregion_2][Дальневосточный;macroregion_3][Московский;macroregion_4][Северо-Западный;macroregion_5][Южный;macroregion_6][Приволжский",
+    "category": "category_4][Обучение по проектам",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_2][Digital тренинг",
+    "type_detailed": "",
+    "place": "Вне учебного класса",
+    "class": "TrueConf",
+    "person_num": 0,
+    "type": "training",
+    "start_date": "2024-07-11T10:00:00+00:00",
+    "finish_date": "2024-07-11T11:30:00+00:00",
+    "is_passed": 0,
+    "company": "Клочкова Екатерина Дмитриевна; brМодина Ольга Сергеевна; brСеменова Ирина Александровна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7031995892921957892",
+    "name": "'Пилот по продажам кредитных и дебетовых карт Тинькофф Банка в офисах Росбанка'",
+    "local_time_string": "",
+    "max_pers": 49,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p>Вебинар проводится в формате вопросов-ответов.</p><p>Мероприятие пройдет в TrueConf.</p><p><strong><span style='font-family:Montserrat'><span style='color:black'>Данные для подключения на&nbsp;4&nbsp;июня&nbsp;10.00мск </span></span></strong></p><p><strong><span style='background:yellow'><span style='font-family:Montserrat'>ID конференции:</span></span></strong><strong><span style='font-family:Montserrat'> 72391653885704</span></strong></p><p><strong><span style='background:yellow'><span style='font-family:Montserrat'>Подключиться через браузер/приложение:</span></span></strong><strong> </strong></p><p><span style='font-family:Montserrat'><a href='https://tconfapp09.rosbank.ru/c/72391653885704'><span style='color:blue'>https://tconfapp09.rosbank.ru/c/72391653885704</span></a></span></p><p><br /><span style='font-family:Montserrat'><strong><span style='background:yellow'>С сотового телефона:</span></strong></span></p><p><span style='font-family:Montserrat'>Бесплатный номер(РФ): 8-800-250-34-54</span></p><p><span style='font-family:Montserrat'>Городской номер (МСК): +7(495)725-05-05</span></p><p><span style='font-family:Montserrat'>ID конференции: 0072391653885704</span></p><p><span style='font-family:Montserrat'><span style='color:black'>С сотового телефона (автодозвон): перешлите ссылку ниже на свой телефон </span></span></p><p><span style='font-family:Montserrat'><span style='color:black'>Он сам наберет все нужные цифры и подключится к конференции.</span></span></p><p><a href='tel:88002503454,,,0072391653885704'><span style='color:blue'>tel:88002503454,,,0072391653885704</span></a></p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей;spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_3][Московский;macroregion_4][Северо-Западный",
+    "category": "category_2][Централизованное обучение",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_2][Digital тренинг",
+    "type_detailed": "",
+    "place": "Вне учебного класса",
+    "class": "TrueConf",
+    "person_num": 151,
+    "type": "webinar",
+    "start_date": "2024-06-04T10:00:00+00:00",
+    "finish_date": "2024-06-04T11:00:00+00:00",
+    "is_passed": 1,
+    "company": "Филатова Екатерина Анатольевна; brЭксперт по продукту партнеров",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7030557428185725340",
+    "name": "Инструктаж по итогам проверки операционно-кассового обслуживания",
+    "local_time_string": "",
+    "max_pers": 30,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p>Инструктаж для сотрудников ДО/Кассовых центров/Групп кассовых операций по результатам проведения проверки операционно- кассового обслуживания.<br />На встрече мы:<br />&bull; Разберем часто повторящиеся нарушения<br />&bull; Обсудим отдельные кейсы, выявленные в ходе проверок<br />&bull; Составим алгоритм действий по устранению замечаний</p><p>Инструктаж пройдет в онлайн формате на платформе TrueConf. После записи на тренинг тебе придет отдельное прилашение от эксперта, где будут указаны все реквизиты для подключения</p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей;spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский;macroregion_2][Дальневосточный;macroregion_3][Московский;macroregion_4][Северо-Западный;macroregion_5][Южный;macroregion_6][Приволжский",
+    "category": "category_4][Обучение по проектам",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_2][Digital тренинг",
+    "type_detailed": "",
+    "place": "Вне учебного класса",
+    "class": "TrueConf",
+    "person_num": 20,
+    "type": "training",
+    "start_date": "2024-06-27T10:00:00+00:00",
+    "finish_date": "2024-06-27T12:00:00+00:00",
+    "is_passed": 1,
+    "company": "Семенова Ирина Александровна; brКлочкова Екатерина Дмитриевна; brМодина Ольга Сергеевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7042701747753570940",
+    "name": "Вебинар. Порядок хранения и передачи ценностей.",
+    "local_time_string": "",
+    "max_pers": 20,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p>Работа с наличными деньгами не ограничивается только кассовым обслуживанием клиентов. На тебя может быть возложена ответственность за сохранность ценностей, как на заведующего кассой или второе должностное лицо.</p><p>Задача эта очень ответственная. Нужно быть готовым принять на себя такую роль. Этот вебинар поможет тебе узнать &laquo;золотые правила&raquo; хранения и передачи ценностей.</p><p>На встрече мы обсудим:</p><ul><li>Правила безопасного доступа к ценностям;</li><li>Порядок формирования, упаковки и хранения наличных денег и других ценностей;</li><li>Особенности передачи ценностей между кассовыми работниками и должностными лицами;</li><li>Алгоритм проведения ревизии и оформления актов.</li></ul><p>Обучение пройдет в онлайн формате на платформе Skype для бизнеса. После записи на вебинар тебе придет отдельное приглашение с ящика Training_Retail, где будут указаны все реквизиты для подключения.</p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский;macroregion_2][Дальневосточный;macroregion_3][Московский;macroregion_4][Северо-Западный;macroregion_5][Южный;macroregion_6][Приволжский",
+    "category": "category_1][Обязательное обучение в должности",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_2][Digital тренинг",
+    "type_detailed": "",
+    "place": "Вне учебного класса",
+    "class": "TrueConf",
+    "person_num": 0,
+    "type": "training",
+    "start_date": "2024-07-17T10:00:00+00:00",
+    "finish_date": "2024-07-17T11:30:00+00:00",
+    "is_passed": 0,
+    "company": "Семенова Ирина Александровна; brМодина Ольга Сергеевна; brКлочкова Екатерина Дмитриевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7042701153855830187",
+    "name": "Основы кассовой работы",
+    "local_time_string": "",
+    "max_pers": 20,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "Вебинар для кассовых работников, специалистов по обслуживанию и финансовых менеджеров (старших, ведущих)<br />На встрече вы:<br />&bull; Разберетесь с основными задачами и ролями сотрудников при работе с наличными деньгами и ценностями;<br />&bull; Узнаете об особенностях организации и оснащения рабочих мест;<br />&bull; Познакомитесь с базовым функционалом программ для проведения кассовых операций.<br />&nbsp;<br />Вебинар проходит в онлайн формате на платформе TrueConf. После записи на тренинг вам поступит отдельное прилашение от эксперта, где будут указаны все реквизиты для подключения",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский;macroregion_2][Дальневосточный;macroregion_3][Московский;macroregion_4][Северо-Западный;macroregion_5][Южный;macroregion_6][Приволжский",
+    "category": "category_1][Обязательное обучение в должности",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_2][Digital тренинг",
+    "type_detailed": "",
+    "place": "Вне учебного класса",
+    "class": "TrueConf",
+    "person_num": 0,
+    "type": "training",
+    "start_date": "2024-07-16T10:00:00+00:00",
+    "finish_date": "2024-07-16T11:00:00+00:00",
+    "is_passed": 0,
+    "company": "Клочкова Екатерина Дмитриевна; brМодина Ольга Сергеевна; brСеменова Ирина Александровна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7042705623994823473",
+    "name": "Вебинар. Формирование сшивов кассовых и бухгалтерских документов дня",
+    "local_time_string": "",
+    "max_pers": 20,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p>В твои обязанности входит формирование кассовых или бухгалтерских документов дня? Возникает много вопросов? Приходи на этот вебинар.</p><p>На встрече мы обсудим:</p><ul><li>Структуру кассовых и бухгалтерских сшивов;</li><li>Алгоритм сборки сшивов;</li><li>Основные ошибки при формировании документов дня;</li><li>Порядок сбора сшива после перехода на проект &laquo;Багратион&raquo;</li></ul><p>Обучение пройдет в онлайн формате на платформе Skype для бизнеса. После записи на вебинар тебе придет отдельное приглашение с ящика Training_Retail, где будут указаны все реквизиты для подключения.</p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский;macroregion_2][Дальневосточный;macroregion_3][Московский;macroregion_4][Северо-Западный;macroregion_5][Южный;macroregion_6][Приволжский",
+    "category": "category_1][Обязательное обучение в должности",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_2][Digital тренинг",
+    "type_detailed": "",
+    "place": "Вне учебного класса",
+    "class": "TrueConf",
+    "person_num": 0,
+    "type": "training",
+    "start_date": "2024-07-24T10:00:00+00:00",
+    "finish_date": "2024-07-24T11:30:00+00:00",
+    "is_passed": 0,
+    "company": "Семенова Ирина Александровна; brКлочкова Екатерина Дмитриевна; brМодина Ольга Сергеевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7042702280254776899",
+    "name": "Вебинар. Особенности осуществления кассовых операций",
+    "local_time_string": "",
+    "max_pers": 20,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p>Ты &ndash; финансовый менеджер/старший/ведущий, и твоя главная задача &ndash; это продажи! Однако, операционно-кассовое обслуживание клиентов тоже неотъемлемая часть твоей работы.&nbsp;</p><p>Ты &ndash; кассир /старший / главный или заведующий кассой. Нюансы кассового обслуживания клиентов &ndash; это твой &laquo;хлеб&raquo;.</p><p>Как выдать деньги по чеку? Или внести их на счет юр. лица? Что делать, если обратился не сам клиент, а его представитель или наследник? Обнаружилась подделка? Или купюра, вызывающая сомнения в ее подлинности? Обо всем этом пойдет речь на вебинаре.</p><p>На встрече мы обсудим:</p><ul><li>Нюансы идентификации клиентов и их представителей;</li><li>Особенности кассового обслуживания юридических и физических лиц;</li><li>Порядок действий при обнаружении проблемных купюр;</li><li>Правила организации работы по перевозке денег между ВСП и ГКО/КЦ</li></ul><p>Обучение пройдет в онлайн формате на платформе Skype для бизнеса. После записи на вебинар тебе придет отдельное приглашение с ящика Training_Retail, где будут указаны все реквизиты для подключения.</p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский;macroregion_2][Дальневосточный;macroregion_3][Московский;macroregion_4][Северо-Западный;macroregion_5][Южный;macroregion_6][Приволжский",
+    "category": "category_1][Обязательное обучение в должности",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_2][Digital тренинг",
+    "type_detailed": "",
+    "place": "Вне учебного класса",
+    "class": "TrueConf",
+    "person_num": 0,
+    "type": "training",
+    "start_date": "2024-07-18T10:00:00+00:00",
+    "finish_date": "2024-07-18T12:00:00+00:00",
+    "is_passed": 0,
+    "company": "Семенова Ирина Александровна; brМодина Ольга Сергеевна; brКлочкова Екатерина Дмитриевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7042699386488323293",
+    "name": "Организация операционно-кассовой работы для руководителей ВСП",
+    "local_time_string": "",
+    "max_pers": 18,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p>Ты - новый руководитель ВСП, занимающий должность не более 3-х месяцев, или сотрудник с опытом, но у тебя недостаточно знаний по организации операционно- кассовой работы:</p><ul><li>Управляющий ДО/ОО/Центра клиентского обслуживания / Заместитель управляющего</li><li>Главный эксперт по продажам и клиентскому сервису</li></ul><p>Этот вебинар подготовлен специально для тебя.</p><p><u>В рамках вебинара будут рассмотрены вопросы:</u></p><ul><li>Перечень действующих ТФ приказов/распоряжений по РКО и порядок их оформления, распределение полномочий. Доведение до сотрудников/ознакомление;</li><li>Прием/Увольнение сотрудников, контроль подотчетных счетов при увольнении;</li><li>Оформление временного перевода сотрудника в/из другого ВСП для кассовой работы;</li><li>Формирование кассового досье отделения;</li><li>Наличие и состав информации, размещенной на стенде для клиентов (требования Инструкции №136-И);</li><li>Контроль с использованием систем видеонаблюдения;</li><li>Контрольные процедуры в ВСП.</li></ul><p>Обучение пройдет в онлайн формате на платформе Skype для бизнеса. После записи на вебинар придет отдельное приглашение с ящика Training_Retail, где будут указаны все реквизиты для подключения.</p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский;macroregion_2][Дальневосточный;macroregion_3][Московский;macroregion_4][Северо-Западный;macroregion_5][Южный;macroregion_6][Приволжский",
+    "category": "category_1][Обязательное обучение в должности",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_2][Digital тренинг",
+    "type_detailed": "",
+    "place": "Вне учебного класса",
+    "class": "TrueConf",
+    "person_num": 2,
+    "type": "training",
+    "start_date": "2024-07-03T10:00:00+00:00",
+    "finish_date": "2024-07-03T11:30:00+00:00",
+    "is_passed": 0,
+    "company": "Клочкова Екатерина Дмитриевна; brМодина Ольга Сергеевна; brСеменова Ирина Александровна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7042702836516862601",
+    "name": "Вебинар. Работа с пластиковыми картами",
+    "local_time_string": "",
+    "max_pers": 17,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p>Ежедневно в своей работе ты сталкиваешься с пластиковыми картами: заказываешь и выдаешь их клиентам, принимаешь карты от курьера, участвуешь в уничтожении, отвечаешь за их сохранность.</p><p>Каждый день возникают различные вопросы: почему не выдается карта в REACT? Как передать карты сотруднику DSA? Как работать с картами по авансовой технологии? Что делать, если не идут остатки карт? Хочешь знать ответы - зарегистрируйся на это обучение.</p><p>На встрече мы:</p><ul><li>Обсудим алгоритм ежедневной сверки карт;</li><li>Разберемся, как урегулировать расхождения по картам;</li><li>Поговорим об основных ошибках при работе с картами.</li></ul><p>Обучение пройдет в онлайн формате на платформе Skype для бизнеса. После записи на вебинар тебе придет отдельное приглашение с ящика Training_Retail, где будут указаны все реквизиты для подключения.</p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский;macroregion_2][Дальневосточный;macroregion_3][Московский;macroregion_4][Северо-Западный;macroregion_5][Южный;macroregion_6][Приволжский",
+    "category": "category_1][Обязательное обучение в должности",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_2][Digital тренинг",
+    "type_detailed": "",
+    "place": "Вне учебного класса",
+    "class": "TrueConf",
+    "person_num": 3,
+    "type": "training",
+    "start_date": "2024-07-23T10:00:00+00:00",
+    "finish_date": "2024-07-23T12:00:00+00:00",
+    "is_passed": 0,
+    "company": "Модина Ольга Сергеевна; brКлочкова Екатерина Дмитриевна; brСеменова Ирина Александровна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7032080368828152183",
+    "name": "'Пилот по продажам кредитных и дебетовых карт Тинькофф Банка в офисах Росбанка'",
+    "local_time_string": "",
+    "max_pers": 13,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p>Вебинар проводится в формате вопросов-ответов.</p><p>Мероприятие пройдет в TrueConf.<br />После записи тебе придет отдельное приглашение с ящика Training_Retail, где будут указаны реквизиты для прохождения обучения.</p><p><span style='font-size:12pt'><span style='font-family:&quot;Times New Roman&quot;,serif'><strong>Для подключения пользователей тонкого клиента сделайте конференцию Публичной.</strong></span></span></p><p><span style='font-size:12pt'><span style='font-family:&quot;Times New Roman&quot;,serif'><strong><span style='font-size:16.0pt'><span style='background:yellow'>ID конференции: 0072325692403015</span></span></strong></span></span></p><p><span style='font-size:12pt'><span style='font-family:&quot;Times New Roman&quot;,serif'><span style='font-family:Montserrat'><span style='color:black'>Способы подключения к конференции:</span></span></span></span></p><p><span style='font-size:12pt'><span style='font-family:&quot;Times New Roman&quot;,serif'><strong><span style='font-size:14.0pt'><span style='background:yellow'>Подключиться через браузер/приложение</span></span><span style='background:yellow'>:</span> </strong></span></span></p><p><span style='font-size:12pt'><span style='font-family:&quot;Times New Roman&quot;,serif'><span style='font-size:16.0pt'><a href='https://tconfapp02.rosbank.ru/c/72325692403015'><span style='color:blue'>https://tconfapp02.rosbank.ru/c/72325692403015</span></a></span><br /><br /><strong><span style='font-size:16.0pt'>С сотового телефона:</span></strong></span></span></p><p><span style='font-size:12pt'><span style='font-family:&quot;Times New Roman&quot;,serif'><span style='font-family:Montserrat'><span style='color:black'>Бесплатный номер(РФ): 8-800-250-34-54</span></span></span></span></p><p><span style='font-size:12pt'><span style='font-family:&quot;Times New Roman&quot;,serif'><span style='font-family:Montserrat'><span style='color:black'>Городской номер (МСК): +7(495)725-05-05</span></span></span></span></p><p><span style='font-size:12pt'><span style='font-family:&quot;Times New Roman&quot;,serif'><span style='font-family:Montserrat'><span style='color:black'>С сотового телефона (автодозвон): перешлите ссылку ниже на свой телефон (в почту) или откройте в Capsule и нажмите на нее. Телефон сам наберет все нужные цифры и подключится к конференции.</span></span></span></span></p><p><span style='font-size:12pt'><span style='font-family:&quot;Times New Roman&quot;,serif'><a href='tel:88002503454,,,0072325692403015'><span style='color:blue'>tel:88002503454,,,0072325692403015</span></a></span></span></p><p> </p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей;spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский;macroregion_2][Дальневосточный;macroregion_3][Московский;macroregion_4][Северо-Западный;macroregion_5][Южный;macroregion_6][Приволжский",
+    "category": "category_2][Централизованное обучение",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_2][Digital тренинг",
+    "type_detailed": "",
+    "place": "ПАО РОСБАНК",
+    "class": "TrueConf",
+    "person_num": 187,
+    "type": "training",
+    "start_date": "2024-06-05T11:30:00+00:00",
+    "finish_date": "2024-06-05T12:30:00+00:00",
+    "is_passed": 1,
+    "company": "Голубева Ксения Геннадьевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7030554500024562312",
+    "name": "Организация работы с сейфовыми ячейками",
+    "local_time_string": "",
+    "max_pers": 12,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p>Вебинар для сотрудников, задействованных в предоставлении клиентам-ФЛ услуги по аренде сейфовых ячеек.&nbsp;&nbsp;</p><p>На встрече мы рассмотрим вопросы:</p><ul><li>Организация работы, распределение функций между сотрудниками, возможность их совмещения.</li><li>Хранение и передача ключей от депозитария.</li><li>Работа в ПО SafeCells, ведение и редактирование справочника &laquo;Ответственный за ключи&raquo;.</li><li>Оформление и продление договора аренды, обеспечение доступа к сейфовой ячейке.</li><li>Расчет суммы возврата при досрочном расторжении договора.</li><li>Порядок вскрытия сейфовой ячейки, хранения и возврата изъятого содержимого.</li></ul><p>Обучение пройдет в онлайн формате на платформе Skype для бизнеса. После записи на вебинар тебе придет отдельное приглашение с ящика Training_Retail, где будут указаны все реквизиты для подключения.</p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский;macroregion_2][Дальневосточный;macroregion_3][Московский;macroregion_4][Северо-Западный;macroregion_5][Южный;macroregion_6][Приволжский",
+    "category": "category_4][Обучение по проектам",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_2][Digital тренинг",
+    "type_detailed": "",
+    "place": "Вне учебного класса",
+    "class": "TrueConf",
+    "person_num": 38,
+    "type": "training",
+    "start_date": "2024-06-11T10:00:00+00:00",
+    "finish_date": "2024-06-11T11:30:00+00:00",
+    "is_passed": 1,
+    "company": "Модина Ольга Сергеевна; brСеменова Ирина Александровна; brКлочкова Екатерина Дмитриевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7039759490088294142",
+    "name": "FRONT. Стабильность персонала. Фасилитационная сессия",
+    "local_time_string": "",
+    "max_pers": 12,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p>Мастермайнд (фасилитация) «Вдохновляйся и действуй»&nbsp; для сотрудников ДО ДВ.</p><p>Цель:</p><p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Сконцентрировать участников на выполнение бизнес KPI, через их ресурсное состояние.</p><p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Настроить команду (УДО+ сотрудники) на решения текущих задач бизнеса и проявления компетенции лидера в условиях турбулентности.</p><p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Осознание своей ответственности за командный и индивидуальный результат по выполнению плана и отношению к работе.</p><p>Результат сессии: 3 часа (вариант 3,5 часа)</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Замотивированную команду</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Концентрацию на бизнес KPI через ресурсное состояние</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Проявление лидеров в условиях турбулентности</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Осознанность своей ответственности за командный и индивидуальный результат</p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей;spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_2][Дальневосточный",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_5][Онлайн тренинг",
+    "type_detailed": "",
+    "place": " г. Благовещенск, ул.Амурская,187",
+    "class": "онлайн",
+    "person_num": 3,
+    "type": "training",
+    "start_date": "2024-06-19T12:00:00+00:00",
+    "finish_date": "2024-06-19T16:00:00+00:00",
+    "is_passed": 1,
+    "company": "Мишалова Светлана Николаевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7043256360137388967",
+    "name": "Экзамен (НАВЫКИ)_NEW DSA",
+    "local_time_string": "",
+    "max_pers": 6,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<span style='font-size:20px'><span style='font-family:arial,helvetica,sans-serif'>Экзамен будет проходить в формате решения профессионального кейса, в котором менеджеру необходимо будет продемонстрировать свои навыки продаж при проведении встречи с клиентом.</span></span>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский;macroregion_2][Дальневосточный;macroregion_3][Московский;macroregion_4][Северо-Западный;macroregion_5][Южный;macroregion_6][Приволжский",
+    "category": "category_4][Обучение по проектам",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_6][DSA",
+    "format_education": "format_7][Экзамен",
+    "type_detailed": "",
+    "place": "На рабочих местах",
+    "class": "TrueConf",
+    "person_num": 7,
+    "type": "training",
+    "start_date": "2024-07-05T09:00:00+00:00",
+    "finish_date": "2024-07-05T10:30:00+00:00",
+    "is_passed": 0,
+    "company": "Керимова Татьяна Викторовна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7032071675109702164",
+    "name": "Базовые управленческие навыки",
+    "local_time_string": "",
+    "max_pers": 6,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p>Все мы хотим быть хороши в своей сфере. Хороший продавец - тот, кто много и качественно продает. А хороший руководитель - какой? Как понять?</p><ul><li>Может быть, это тот, кто уходит в отпуск, оставляя дома мобильный, а без него все работает так же эффективно, как&nbsp; при нем?</li><li>А может, это тот, кто находит ключик к любому сотруднику, каким бы сложным тот ни был?</li><li>Или тот, кем гордятся и кого любят его подчинненные?</li><li>Или тот, с кем сотрудники развиваются и растут? И достаточно ли быть лидером, чтобы стать хорошим руководителем?</li></ul><p>Казалось бы, все эти вопросы из области философии, но нет! Они - самые что ни на есть практические! Так какой он, хороший руководитель? Что он должен знать, что уметь?</p><p>На этом тренинге каждый из вас сможет научится тому, что не умел, вспомнить то, что забыл, узнать то, что не знал, поделиться опытом и получить советы от коллег. И самое главное - тренироваться на своих реальных сотрудниках, без всяких придуманных персонажей и далеких от реальности кейсов:<br />- как выстроить работу с каждым конкретным сотрудинком;<br />- как понять, что его мотивирует;<br />- как давать обратную связь, которая будет воодушевлять сотрудника;<br />- как добиться максимальной производительности от команды при минимуме усилий.</p><p>Тренинг пройдет в онлайн формате на платформе Zoom. После записи на тренинг тебе придет отдельное приглашение с ящика Training_Retail, где будут указаны все реквизиты для подключения.</p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский;macroregion_2][Дальневосточный;macroregion_3][Московский;macroregion_4][Северо-Западный;macroregion_5][Южный;macroregion_6][Приволжский",
+    "category": "category_1][Обязательное обучение в должности",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_5][Онлайн тренинг",
+    "type_detailed": "",
+    "place": "ПАО РОСБАНК",
+    "class": "zoom",
+    "person_num": 14,
+    "type": "training",
+    "start_date": "2024-06-19T10:00:00+00:00",
+    "finish_date": "2024-06-19T13:00:00+00:00",
+    "is_passed": 1,
+    "company": "Соловьева Ольга Михайловна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7039755002401734257",
+    "name": "FRONT. Стабильность персонала. Фасилитационная сессия",
+    "local_time_string": "",
+    "max_pers": 5,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p>Мастермайнд (фасилитация) «Вдохновляйся и действуй»&nbsp; для сотрудников ДО ДВ.</p><p>Цель:</p><p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Сконцентрировать участников на выполнение бизнес KPI, через их ресурсное состояние.</p><p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Настроить команду (УДО+ сотрудники) на решения текущих задач бизнеса и проявления компетенции лидера в условиях турбулентности.</p><p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Осознание своей ответственности за командный и индивидуальный результат по выполнению плана и отношению к работе.</p><p>Результат сессии: 3 часа (вариант 3,5 часа)</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Замотивированную команду</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Концентрацию на бизнес KPI через ресурсное состояние</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Проявление лидеров в условиях турбулентности</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Осознанность своей ответственности за командный и индивидуальный результат</p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей;spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_2][Дальневосточный",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_5][Онлайн тренинг",
+    "type_detailed": "",
+    "place": " г. Благовещенск, ул.Амурская,187",
+    "class": "онлайн",
+    "person_num": 10,
+    "type": "training",
+    "start_date": "2024-06-18T14:00:00+00:00",
+    "finish_date": "2024-06-18T18:00:00+00:00",
+    "is_passed": 1,
+    "company": "Мишалова Светлана Николаевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7039753621031615082",
+    "name": "FRONT. Стабильность персонала. Фасилитационная сессия",
+    "local_time_string": "",
+    "max_pers": 5,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p>Мастермайнд (фасилитация) «Вдохновляйся и действуй»&nbsp; для сотрудников ДО ДВ.</p><p><span style='font-family:Montserrat'><span style='color:black'>Цель: </span></span></p><p><span style='font-family:Montserrat'><span style='color:black'>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Сконцентрировать участников на выполнение бизнес KPI, через их ресурсное состояние.</span></span></p><p><span style='font-family:Montserrat'><span style='color:black'>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Настроить команду (УДО+ сотрудники) на решения текущих задач бизнеса и проявления компетенции лидера в условиях турбулентности. </span></span></p><p><span style='font-family:Montserrat'><span style='color:black'>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Осознание своей ответственности за командный и индивидуальный результат по выполнению плана и отношению к работе.</span></span></p><p><span style='font-family:Montserrat'><span style='color:black'>Результат сессии: 3 часа (вариант 3,5 часа)</span></span></p><p><span style='font-family:Montserrat'><span style='color:black'>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Замотивированную команду </span></span></p><p><span style='font-family:Montserrat'><span style='color:black'>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Концентрацию на бизнес KPI через ресурсное состояние</span></span></p><p><span style='font-family:Montserrat'><span style='color:black'>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Проявление лидеров в условиях турбулентности</span></span></p><p><span style='font-family:Montserrat'><span style='color:black'>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Осознанность своей ответственности за командный и индивидуальный результат</span></span></p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей;spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_2][Дальневосточный",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_5][Онлайн тренинг",
+    "type_detailed": "",
+    "place": " г. Благовещенск, ул.Амурская,187",
+    "class": "онлайн",
+    "person_num": 10,
+    "type": "training",
+    "start_date": "2024-06-17T12:00:00+00:00",
+    "finish_date": "2024-06-17T14:00:00+00:00",
+    "is_passed": 1,
+    "company": "Мишалова Светлана Николаевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7043038459228742092",
+    "name": "FRONT. Бизнес. Индивидуальная сессия",
+    "local_time_string": "",
+    "max_pers": 5,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "Командная сессия с ФМ ТО Ярославский. Отработка навыка предложения ККБП Т-Банка и продажа коробок на входящем потоке.",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей;spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_5][Южный",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": "",
+    "class": "Все ФМ ДО ТО Ярославский с RR менее 100%",
+    "person_num": 5,
+    "type": "training",
+    "start_date": "2024-06-25T12:00:00+00:00",
+    "finish_date": "2024-06-25T20:00:00+00:00",
+    "is_passed": 1,
+    "company": "Хрипливая Елена Николаевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7039752029748589381",
+    "name": "FRONT. Стабильность персонала. Фасилитационная сессия",
+    "local_time_string": "",
+    "max_pers": 5,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p>Мастермайнд (фасилитация) «Вдохновляйся и действуй» для УДО ДВ</p><p><span style='font-family:Montserrat'>Цель: </span></p><p><span style='font-family:Montserrat'>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Сконцентрировать участников на выполнение бизнес KPI, через их ресурсное состояние.</span></p><p><span style='font-family:Montserrat'>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Настроить команду (УДО+ сотрудники) на решения текущих задач бизнеса и проявления компетенции лидера в условиях турбулентности. </span></p><p><span style='font-family:Montserrat'>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Осознание своей ответственности за командный и индивидуальный результат по выполнению плана и отношению к работе.</span></p><p><span style='font-family:Montserrat'>Результат сессии: 3 часа (вариант 3,5 часа)</span></p><p><span style='font-family:Montserrat'>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Замотивированную команду </span></p><p><span style='font-family:Montserrat'>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Концентрацию на бизнес KPI через ресурсное состояние</span></p><p><span style='font-family:Montserrat'>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Проявление лидеров в условиях турбулентности</span></p><span style='font-size:12pt'><span style='font-family:Montserrat'>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Осознанность своей ответственности за командный и индивидуальный&nbsp;</span></span>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей",
+    "event_rb_type": "",
+    "macroregion": "macroregion_2][Дальневосточный",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_5][Онлайн тренинг",
+    "type_detailed": "",
+    "place": " г. Благовещенск, ул.Амурская,187",
+    "class": "онлайн",
+    "person_num": 10,
+    "type": "training",
+    "start_date": "2024-06-14T12:00:00+00:00",
+    "finish_date": "2024-06-14T16:00:00+00:00",
+    "is_passed": 1,
+    "company": "Мишалова Светлана Николаевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7040161409251849938",
+    "name": "FRONT. Стабильность персонала. Фасилитационная сессия",
+    "local_time_string": "",
+    "max_pers": 4,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<span style='font-size:20px'><span style='font-family:arial,helvetica,sans-serif'>Цель:<br />Поиск причин отклонений по заданной тематике<br />Проработка возможных решений<br />Обмен идеями и лучшими практиками<br />Командообразование<br />Формирование проектов, определение лидеров\\ответственных<br />Составление Action плана</span></span>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей;spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_6][Приволжский",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": "Вне учебного класса",
+    "class": "ТО Челябинский ЦКО Челябинский Плотникова Н",
+    "person_num": 2,
+    "type": "training",
+    "start_date": "2024-06-19T06:00:00+00:00",
+    "finish_date": "2024-06-19T10:00:00+00:00",
+    "is_passed": 1,
+    "company": "Аладьева Ирина Анатольевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7043040270065063692",
+    "name": "FRONT. Бизнес. Командная сессия в ДО",
+    "local_time_string": "",
+    "max_pers": 4,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "Командная сессия с ФМ ТО Липецкий. Отработка навыка предложения ККБП Т-Банка и продажа коробок на входящем потоке.",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей;spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_5][Южный",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": "",
+    "class": "ФМ ТО Липецкий, с RR менее 100%",
+    "person_num": 6,
+    "type": "training",
+    "start_date": "2024-06-26T12:00:00+00:00",
+    "finish_date": "2024-06-26T20:00:00+00:00",
+    "is_passed": 1,
+    "company": "Хрипливая Елена Николаевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7043257476677870436",
+    "name": "Экзамен (НАВЫКИ)_NEW DSA",
+    "local_time_string": "",
+    "max_pers": 4,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<span style='font-size:20px'><span style='font-family:arial,helvetica,sans-serif'>Экзамен будет проходить в формате решения профессионального кейса, в котором менеджеру необходимо будет продемонстрировать свои навыки продаж при проведении встречи с клиентом.</span></span>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский;macroregion_2][Дальневосточный;macroregion_3][Московский;macroregion_4][Северо-Западный;macroregion_5][Южный;macroregion_6][Приволжский",
+    "category": "category_4][Обучение по проектам",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_6][DSA",
+    "format_education": "format_7][Экзамен",
+    "type_detailed": "",
+    "place": "На рабочих местах",
+    "class": "TrueConf",
+    "person_num": 9,
+    "type": "training",
+    "start_date": "2024-07-05T11:00:00+00:00",
+    "finish_date": "2024-07-05T12:30:00+00:00",
+    "is_passed": 0,
+    "company": "Керимова Татьяна Викторовна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7042913378004462352",
+    "name": "Экзамен (НАВЫКИ)_NEW DSA",
+    "local_time_string": "",
+    "max_pers": 4,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<span style='font-size:20px'><span style='font-family:arial,helvetica,sans-serif'>Экзамен будет проходить в формате решения профессионального кейса, в котором менеджеру необходимо будет продемонстрировать свои навыки продаж при проведении встречи с клиентом.</span></span>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский;macroregion_2][Дальневосточный;macroregion_3][Московский;macroregion_4][Северо-Западный;macroregion_5][Южный;macroregion_6][Приволжский",
+    "category": "category_4][Обучение по проектам",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_6][DSA",
+    "format_education": "format_7][Экзамен",
+    "type_detailed": "",
+    "place": "На рабочих местах",
+    "class": "TrueConf",
+    "person_num": 9,
+    "type": "training",
+    "start_date": "2024-07-01T11:00:00+00:00",
+    "finish_date": "2024-07-01T12:30:00+00:00",
+    "is_passed": 0,
+    "company": "Керимова Татьяна Викторовна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7043041819004678872",
+    "name": "FRONT. Бизнес. Командная сессия в ДО",
+    "local_time_string": "",
+    "max_pers": 3,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "Командная сессия с ФМ ТО Калужский. Отработка навыка предложения ККБП Т-Банка и продажа коробок на входящем потоке.",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей;spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_5][Южный",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": "",
+    "class": "ФМ ТО Калужский, с RR менее 100%",
+    "person_num": 7,
+    "type": "training",
+    "start_date": "2024-06-27T12:00:00+00:00",
+    "finish_date": "2024-06-27T20:00:00+00:00",
+    "is_passed": 1,
+    "company": "Хрипливая Елена Николаевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7038341767566965566",
+    "name": "FRONT. Бизнес. Командная сессия в ДО",
+    "local_time_string": "",
+    "max_pers": 3,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "Продажа коробки МНД на входящем потоке:<br />1) занния продукта<br />2) информация по выплатам<br />3) формирование речевого модуля для продажи МНД",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей;spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_5][Южный",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": "",
+    "class": "Центр-Юг\\ ТО Калужский",
+    "person_num": 7,
+    "type": "training",
+    "start_date": "2024-05-24T10:00:00+00:00",
+    "finish_date": "2024-06-24T18:00:00+00:00",
+    "is_passed": 1,
+    "company": "Хрипливая Елена Николаевна",
+    "start_date_prev_month": 1,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7042922279310709918",
+    "name": "Экзамен (НАВЫКИ)_NEW DSA",
+    "local_time_string": "",
+    "max_pers": 3,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<span style='font-size:20px'><span style='font-family:arial,helvetica,sans-serif'>Экзамен будет проходить в формате решения профессионального кейса, в котором менеджеру необходимо будет продемонстрировать свои навыки продаж при проведении встречи с клиентом.</span></span>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский;macroregion_2][Дальневосточный",
+    "category": "category_4][Обучение по проектам",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_6][DSA",
+    "format_education": "format_7][Экзамен",
+    "type_detailed": "",
+    "place": "На рабочих местах",
+    "class": "TrueConf",
+    "person_num": 10,
+    "type": "training",
+    "start_date": "2024-07-03T06:00:00+00:00",
+    "finish_date": "2024-07-03T07:30:00+00:00",
+    "is_passed": 0,
+    "company": "Керимова Татьяна Викторовна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7039726214835534480",
+    "name": "Payroll. Индивидуальная сессия",
+    "local_time_string": "",
+    "max_pers": 2,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "Промежуточные результаты по выполнению задач в программе Jira. Супервизия утренней планерки с сотрудниками ОКП/DSA.",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей",
+    "event_rb_type": "",
+    "macroregion": "macroregion_2][Дальневосточный",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_5][Payroll",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": " г. Якутск, ул. Дзержинского,23",
+    "class": "онлайн",
+    "person_num": 1,
+    "type": "training",
+    "start_date": "2024-06-19T09:00:00+00:00",
+    "finish_date": "2024-06-19T11:00:00+00:00",
+    "is_passed": 1,
+    "company": "Мишалова Светлана Николаевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7039692759130665748",
+    "name": "Payroll. Индивидуальная сессия",
+    "local_time_string": "",
+    "max_pers": 2,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "Промежуточные результаты по выполнению задач в программе Jira. Супервизия утренней планерки с сотрудниками ОКП/DSA.",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей",
+    "event_rb_type": "",
+    "macroregion": "macroregion_2][Дальневосточный",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_5][Payroll",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": " г. Якутск, ул. Дзержинского,23",
+    "class": "онлайн",
+    "person_num": 1,
+    "type": "training",
+    "start_date": "2024-06-10T08:30:00+00:00",
+    "finish_date": "2024-06-10T10:30:00+00:00",
+    "is_passed": 1,
+    "company": "Мишалова Светлана Николаевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7039692126765137719",
+    "name": "Payroll. Индивидуальная сессия",
+    "local_time_string": "",
+    "max_pers": 2,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "Промежуточные результаты по выполнению задач в программе Jira. Супервизия утренней планерки с сотрудниками ОКП/DSA.",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей",
+    "event_rb_type": "",
+    "macroregion": "macroregion_2][Дальневосточный",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_5][Payroll",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": "г. Комсомольск-на-Амуре, пр. Мира, д. 26",
+    "class": "онлайн",
+    "person_num": 1,
+    "type": "training",
+    "start_date": "2024-06-07T15:00:00+00:00",
+    "finish_date": "2024-06-07T17:00:00+00:00",
+    "is_passed": 1,
+    "company": "",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7039691472121092710",
+    "name": "Payroll. Индивидуальная сессия",
+    "local_time_string": "",
+    "max_pers": 2,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "Промежуточные результаты по выполнению задач в программе Jira. Супервизия утренней планерки с сотрудниками ОКП/DSA.",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей",
+    "event_rb_type": "",
+    "macroregion": "macroregion_2][Дальневосточный",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_5][Payroll",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": " г. Якутск, ул. Дзержинского,23",
+    "class": "онлайн",
+    "person_num": 1,
+    "type": "training",
+    "start_date": "2024-06-05T10:00:00+00:00",
+    "finish_date": "2024-06-05T12:00:00+00:00",
+    "is_passed": 1,
+    "company": "Мишалова Светлана Николаевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7042911962547345363",
+    "name": "Экзамен (НАВЫКИ)_NEW DSA",
+    "local_time_string": "",
+    "max_pers": 2,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<span style='font-size:20px'><span style='font-family:arial,helvetica,sans-serif'>Экзамен будет проходить в формате решения профессионального кейса, в котором менеджеру необходимо будет продемонстрировать свои навыки продаж при проведении встречи с клиентом.</span></span>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский;macroregion_2][Дальневосточный",
+    "category": "category_4][Обучение по проектам",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_6][DSA",
+    "format_education": "format_7][Экзамен",
+    "type_detailed": "",
+    "place": "На рабочих местах",
+    "class": "TrueConf",
+    "person_num": 11,
+    "type": "training",
+    "start_date": "2024-07-01T08:00:00+00:00",
+    "finish_date": "2024-07-01T09:30:00+00:00",
+    "is_passed": 1,
+    "company": "Керимова Татьяна Викторовна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7039750362223154725",
+    "name": "Premium. Индивидуальная сессия",
+    "local_time_string": "",
+    "max_pers": 2,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<span style='font-size:20px'><span style='font-family:arial,helvetica,sans-serif'>Цель:<br />Супервизия работы Руководителя<br />Развитие управленческих компетенций по итогам диагностики<br />Составление ИПР, оценка прогресса по ИПР</span></span>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей",
+    "event_rb_type": "",
+    "macroregion": "macroregion_2][Дальневосточный",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_2][Премиум",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": " г. Хабаровск, ул.Ким Ю Чена,26",
+    "class": "онлайн",
+    "person_num": 1,
+    "type": "training",
+    "start_date": "2024-06-25T10:00:00+00:00",
+    "finish_date": "2024-06-25T11:00:00+00:00",
+    "is_passed": 1,
+    "company": "",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7039750822521435795",
+    "name": "Premium. Индивидуальная сессия",
+    "local_time_string": "",
+    "max_pers": 2,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<span style='font-size:20px'><span style='font-family:arial,helvetica,sans-serif'>Цель:<br />Супервизия работы Руководителя<br />Развитие управленческих компетенций по итогам диагностики<br />Составление ИПР, оценка прогресса по ИПР</span></span>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей",
+    "event_rb_type": "",
+    "macroregion": "macroregion_2][Дальневосточный",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_2][Премиум",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": "Хабаровск",
+    "class": "онлайн",
+    "person_num": 1,
+    "type": "training",
+    "start_date": "2024-06-26T10:00:00+00:00",
+    "finish_date": "2024-06-26T12:00:00+00:00",
+    "is_passed": 1,
+    "company": "Мишалова Светлана Николаевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7039749067217139738",
+    "name": "Premium. Индивидуальная сессия",
+    "local_time_string": "",
+    "max_pers": 2,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "Трехсторонняя встреча с РР Premium Вялков Леонид, по итогам диагностической карты. Формирование ИПР",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей",
+    "event_rb_type": "",
+    "macroregion": "macroregion_2][Дальневосточный",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_2][Премиум",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": "Владивосток",
+    "class": "онлайн",
+    "person_num": 1,
+    "type": "training",
+    "start_date": "2024-06-05T15:00:00+00:00",
+    "finish_date": "2024-06-05T17:00:00+00:00",
+    "is_passed": 1,
+    "company": "Мишалова Светлана Николаевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7039745860354644307",
+    "name": "Payroll. Индивидуальная сессия",
+    "local_time_string": "",
+    "max_pers": 2,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "Промежуточные результаты по выполнению задач в программе Jira. Супервизия утренней планерки с сотрудниками ОКП/DSA.",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей",
+    "event_rb_type": "",
+    "macroregion": "macroregion_2][Дальневосточный",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_5][Payroll",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": "г. Комсомольск-на-Амуре, пр. Мира, д. 26",
+    "class": "онлайн",
+    "person_num": 1,
+    "type": "training",
+    "start_date": "2024-06-20T11:00:00+00:00",
+    "finish_date": "2024-06-20T13:00:00+00:00",
+    "is_passed": 1,
+    "company": "Мишалова Светлана Николаевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7039693330967076586",
+    "name": "Payroll. Индивидуальная сессия",
+    "local_time_string": "",
+    "max_pers": 2,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "Промежуточные результаты по выполнению задач в программе Jira. Супервизия утренней планерки с сотрудниками ОКП/DSA.",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей",
+    "event_rb_type": "",
+    "macroregion": "macroregion_2][Дальневосточный",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_5][Payroll",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": "Хабаровск",
+    "class": "онлайн",
+    "person_num": 1,
+    "type": "training",
+    "start_date": "2024-06-13T09:00:00+00:00",
+    "finish_date": "2024-06-13T11:00:00+00:00",
+    "is_passed": 1,
+    "company": "Мишалова Светлана Николаевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7039747832488129288",
+    "name": "Payroll. Индивидуальная сессия",
+    "local_time_string": "",
+    "max_pers": 2,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "Промежуточные результаты по выполнению задач в программе Jira. Супервизия утренней планерки с сотрудниками ОКП/DSA.",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей",
+    "event_rb_type": "",
+    "macroregion": "macroregion_2][Дальневосточный",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_5][Payroll",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": "Хабаровск",
+    "class": "онлайн",
+    "person_num": 1,
+    "type": "training",
+    "start_date": "2024-06-26T15:00:00+00:00",
+    "finish_date": "2024-06-26T17:00:00+00:00",
+    "is_passed": 1,
+    "company": "Мишалова Светлана Николаевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7028427149606285679",
+    "name": "Мастер-Класс по навыку Публичных Выступлений",
+    "local_time_string": "",
+    "max_pers": 2,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<span style='font-size:20px'><span style='font-family:arial,helvetica,sans-serif'>В ходе мастер-класса вы сможете:<br />&bull; Определить особенности и специфику проведения Публичного выступления менеджерами прямых продаж.<br />&bull; Сформировать понимание структуры Публичного выступления.<br />&bull; Отработать техники эффективной работы с аудиторией.<br />&bull; Узнать инструменты снятия волнения и приобретения уверенности в себе.<br />&bull; Сформировать умение проведения Публичного выступлениям.</span></span>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский;macroregion_2][Дальневосточный;macroregion_3][Московский;macroregion_4][Северо-Западный;macroregion_5][Южный;macroregion_6][Приволжский",
+    "category": "category_1][Обязательное обучение в должности",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_6][DSA",
+    "format_education": "format_5][Онлайн тренинг",
+    "type_detailed": "",
+    "place": "Вне учебного класса",
+    "class": "TrueConf",
+    "person_num": 13,
+    "type": "training",
+    "start_date": "2024-06-10T10:00:00+00:00",
+    "finish_date": "2024-06-10T13:00:00+00:00",
+    "is_passed": 1,
+    "company": "Керимова Татьяна Викторовна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7039693902734124439",
+    "name": "Payroll. Индивидуальная сессия",
+    "local_time_string": "",
+    "max_pers": 2,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "Промежуточные результаты по выполнению задач в программе Jira. Супервизия утренней планерки с сотрудниками ОКП/DSA.",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей",
+    "event_rb_type": "",
+    "macroregion": "macroregion_2][Дальневосточный",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_5][Payroll",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": "г. Комсомольск-на-Амуре, пр. Мира, д. 26",
+    "class": "онлайн",
+    "person_num": 1,
+    "type": "training",
+    "start_date": "2024-06-13T16:00:00+00:00",
+    "finish_date": "2024-06-13T18:00:00+00:00",
+    "is_passed": 1,
+    "company": "Мишалова Светлана Николаевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7039749642812088697",
+    "name": "Premium. Индивидуальная сессия",
+    "local_time_string": "",
+    "max_pers": 2,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<span style='font-size:20px'><span style='font-family:arial,helvetica,sans-serif'>Цель:<br />Супервизия работы Руководителя<br />Развитие управленческих компетенций по итогам диагностики<br />Составление ИПР, оценка прогресса по ИПР</span></span>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей",
+    "event_rb_type": "",
+    "macroregion": "macroregion_2][Дальневосточный",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_2][Премиум",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": "Владивосток",
+    "class": "онлайн",
+    "person_num": 1,
+    "type": "training",
+    "start_date": "2024-06-13T14:00:00+00:00",
+    "finish_date": "2024-06-13T16:00:00+00:00",
+    "is_passed": 1,
+    "company": "Мишалова Светлана Николаевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7039694439057389217",
+    "name": "Payroll. Индивидуальная сессия",
+    "local_time_string": "",
+    "max_pers": 2,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "Промежуточные результаты по выполнению задач в программе Jira. Супервизия утренней планерки с сотрудниками ОКП/DSA.",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей",
+    "event_rb_type": "",
+    "macroregion": "macroregion_2][Дальневосточный",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_5][Payroll",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": " г. Якутск, ул. Дзержинского,23",
+    "class": "онлайн",
+    "person_num": 1,
+    "type": "training",
+    "start_date": "2024-06-14T10:00:00+00:00",
+    "finish_date": "2024-06-14T12:00:00+00:00",
+    "is_passed": 1,
+    "company": "Мишалова Светлана Николаевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7039690756536125361",
+    "name": "Payroll. Индивидуальная сессия",
+    "local_time_string": "",
+    "max_pers": 2,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "Промежуточные результаты по выполнению задач в программе Jira. Супервизия утренней планерки с сотрудниками ОКП/DSA.&nbsp;",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей",
+    "event_rb_type": "",
+    "macroregion": "macroregion_2][Дальневосточный",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_5][Payroll",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": "Хабаровск",
+    "class": "онлайн",
+    "person_num": 1,
+    "type": "training",
+    "start_date": "2024-06-05T09:00:00+00:00",
+    "finish_date": "2024-06-05T11:00:00+00:00",
+    "is_passed": 1,
+    "company": "Мишалова Светлана Николаевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7034448895515883538",
+    "name": "Экзамен (НАВЫКИ)_NEW DSA",
+    "local_time_string": "",
+    "max_pers": 2,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<span style='font-size:20px'><span style='font-family:arial,helvetica,sans-serif'>Экзамен будет проходить в формате решения профессионального кейса, в котором менеджеру необходимо будет продемонстрировать свои навыки продаж при проведении встречи с клиентом.</span></span>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский;macroregion_2][Дальневосточный",
+    "category": "category_4][Обучение по проектам",
+    "starting": 0,
+    "type_val": "fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_6][DSA",
+    "format_education": "format_7][Экзамен",
+    "type_detailed": "",
+    "place": "На рабочих местах",
+    "class": "TrueConf",
+    "person_num": 6,
+    "type": "training",
+    "start_date": "2024-06-05T06:00:00+00:00",
+    "finish_date": "2024-06-05T08:00:00+00:00",
+    "is_passed": 1,
+    "company": "Керимова Татьяна Викторовна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7040200421113057473",
+    "name": "Premium. Индивидуальная сессия",
+    "local_time_string": "",
+    "max_pers": 1,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "Составление ИПР по результататм диагностики РР Прем",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей",
+    "event_rb_type": "",
+    "macroregion": "macroregion_3][Московский",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_2][Премиум",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": "",
+    "class": "Московский",
+    "person_num": 1,
+    "type": "training",
+    "start_date": "2024-06-19T11:00:00+00:00",
+    "finish_date": "2024-06-19T13:00:00+00:00",
+    "is_passed": 1,
+    "company": "Хрипливая Елена Николаевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7043041279985773989",
+    "name": "FRONT. Бизнес. Индивидуальная сессия",
+    "local_time_string": "",
+    "max_pers": 1,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "Супервизия планерки ТО Калужский \\ ДО Орловский",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей",
+    "event_rb_type": "",
+    "macroregion": "macroregion_5][Южный",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": "",
+    "class": "ТО Калужский \\ ДО Орловский",
+    "person_num": 1,
+    "type": "training",
+    "start_date": "2024-06-27T09:00:00+00:00",
+    "finish_date": "2024-06-27T11:00:00+00:00",
+    "is_passed": 1,
+    "company": "Хрипливая Елена Николаевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7040577796065514094",
+    "name": "FRONT. Бизнес. Индивидуальная сессия",
+    "local_time_string": "",
+    "max_pers": 1,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "Супервизия&nbsp;Наставнической сессии УДО\\ФМ Продуктивность, продажи Т-банк",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей",
+    "event_rb_type": "",
+    "macroregion": "macroregion_5][Южный",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": "",
+    "class": "ДО Рязанский ТО Ярославский",
+    "person_num": 1,
+    "type": "training",
+    "start_date": "2024-06-20T18:00:00+00:00",
+    "finish_date": "2024-06-20T20:00:00+00:00",
+    "is_passed": 1,
+    "company": "Хрипливая Елена Николаевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7040522075491915750",
+    "name": "FRONT. Бизнес. Индивидуальная сессия",
+    "local_time_string": "",
+    "max_pers": 1,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "&nbsp;Планерка, постановка задач на день( Продуктивность, Т-Банк)",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей",
+    "event_rb_type": "",
+    "macroregion": "macroregion_5][Южный",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": "",
+    "class": "ДО Рязанский ТО Ярославский",
+    "person_num": 1,
+    "type": "training",
+    "start_date": "2024-06-20T09:30:00+00:00",
+    "finish_date": "2024-06-20T11:30:00+00:00",
+    "is_passed": 1,
+    "company": "Хрипливая Елена Николаевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7040578438357268278",
+    "name": "FRONT. Бизнес. Индивидуальная сессия",
+    "local_time_string": "",
+    "max_pers": 1,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "Супервизия наставнической сессии УДО\\ФМ Продуктивность, продажи Т-банк",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей",
+    "event_rb_type": "",
+    "macroregion": "macroregion_5][Южный",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": "",
+    "class": "ДО Ивановский ТО Ярославский",
+    "person_num": 1,
+    "type": "training",
+    "start_date": "2024-06-20T20:00:00+00:00",
+    "finish_date": "2024-06-20T22:00:00+00:00",
+    "is_passed": 1,
+    "company": "Хрипливая Елена Николаевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7043036837915386886",
+    "name": "FRONT. Бизнес. Индивидуальная сессия",
+    "local_time_string": "",
+    "max_pers": 1,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "Планерка, постановка задач на день( Продуктивность, Т-Банк)",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей",
+    "event_rb_type": "",
+    "macroregion": "macroregion_5][Южный",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": "",
+    "class": "ДО Тамбовский\\ТО Липецкий",
+    "person_num": 1,
+    "type": "training",
+    "start_date": "2024-06-24T09:00:00+00:00",
+    "finish_date": "2024-06-24T11:00:00+00:00",
+    "is_passed": 1,
+    "company": "Хрипливая Елена Николаевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7040204853347842394",
+    "name": "FRONT. Бизнес. Индивидуальная сессия",
+    "local_time_string": "",
+    "max_pers": 1,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p>&nbsp;Наставническая сессия УДО\\ФМ Продуктивность, продажи Т-банк.</p><p>&nbsp;</p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей",
+    "event_rb_type": "",
+    "macroregion": "macroregion_5][Южный",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": "",
+    "class": "ДО Тамбовский ТО Липецкий",
+    "person_num": 1,
+    "type": "training",
+    "start_date": "2024-06-19T20:00:00+00:00",
+    "finish_date": "2024-06-19T22:00:00+00:00",
+    "is_passed": 1,
+    "company": "Хрипливая Елена Николаевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7040199774680377725",
+    "name": "FRONT. Бизнес. Индивидуальная сессия",
+    "local_time_string": "",
+    "max_pers": 1,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p>Супервизия планерки.Постановка задач на день( Продуктивность, Т-Банк)</p><p> </p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей",
+    "event_rb_type": "",
+    "macroregion": "macroregion_5][Южный",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": "",
+    "class": "ДО Ивановский\\ТО Ярославский",
+    "person_num": 1,
+    "type": "training",
+    "start_date": "2024-06-19T09:00:00+00:00",
+    "finish_date": "2024-06-19T11:00:00+00:00",
+    "is_passed": 1,
+    "company": "Хрипливая Елена Николаевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7043042890582800266",
+    "name": "FRONT. Бизнес. Индивидуальная сессия",
+    "local_time_string": "",
+    "max_pers": 1,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "Индивидуальная сессия. Сопровождение после прохождения обучения Обучение и развитие сотрудников на рабочих местах",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей",
+    "event_rb_type": "",
+    "macroregion": "macroregion_5][Южный",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": "",
+    "class": "ЦКО Калужский",
+    "person_num": 1,
+    "type": "training",
+    "start_date": "2024-06-28T12:00:00+00:00",
+    "finish_date": "2024-06-28T14:00:00+00:00",
+    "is_passed": 1,
+    "company": "",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7040203217081701574",
+    "name": "FRONT. Бизнес. Индивидуальная сессия",
+    "local_time_string": "",
+    "max_pers": 1,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "Супервизия наставнической сессии УДО\\ФМ Продуктивность, продажи Т-банк",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей",
+    "event_rb_type": "",
+    "macroregion": "macroregion_5][Южный",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": "",
+    "class": "ДО Тамбовский ТО Липецкий",
+    "person_num": 1,
+    "type": "training",
+    "start_date": "2024-06-19T18:00:00+00:00",
+    "finish_date": "2024-06-19T20:00:00+00:00",
+    "is_passed": 1,
+    "company": "Хрипливая Елена Николаевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7043037865481890386",
+    "name": "FRONT. Бизнес. Индивидуальная сессия",
+    "local_time_string": "",
+    "max_pers": 1,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "Супервизия планерки ТО Калужский \\ЦКО",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей",
+    "event_rb_type": "",
+    "macroregion": "macroregion_5][Южный",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": "",
+    "class": "ТО Калужский \\ЦКО",
+    "person_num": 1,
+    "type": "training",
+    "start_date": "2024-06-25T09:00:00+00:00",
+    "finish_date": "2024-06-25T11:00:00+00:00",
+    "is_passed": 1,
+    "company": "Хрипливая Елена Николаевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7040132549256881123",
+    "name": "Premium. Индивидуальная сессия",
+    "local_time_string": "",
+    "max_pers": 1,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<span style='font-size:20px'><span style='font-family:arial,helvetica,sans-serif'>Цель:<br />Супервизия работы Руководителя<br />Развитие управленческих компетенций по итогам диагностики<br />Составление ИПР, оценка прогресса по ИПР</span></span>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей",
+    "event_rb_type": "",
+    "macroregion": "macroregion_3][Московский",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность",
+    "hub": "",
+    "channel": "channel_2][Премиум",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": "",
+    "class": "",
+    "person_num": 0,
+    "type": "training",
+    "start_date": "2024-06-05T00:00:00+00:00",
+    "finish_date": "2024-06-05T00:00:00+00:00",
+    "is_passed": 1,
+    "company": "Реветнева Олеся Евгеньевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7038096058936720917",
+    "name": "Premium. Индивидуальная сессия",
+    "local_time_string": "",
+    "max_pers": 1,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<span style='font-size:20px'><span style='font-family:arial,helvetica,sans-serif'>Цель:<br />Супервизия работы Руководителя<br />Развитие управленческих компетенций по итогам диагностики<br />Составление ИПР, оценка прогресса по ИПР</span></span>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей",
+    "event_rb_type": "",
+    "macroregion": "macroregion_6][Приволжский",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_2][Премиум",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": "Вне учебного класса",
+    "class": "ТО екатеринбургский Премиум Давыдова Екатерина",
+    "person_num": 2,
+    "type": "training",
+    "start_date": "2024-06-13T15:00:00+00:00",
+    "finish_date": "2024-06-13T17:00:00+00:00",
+    "is_passed": 1,
+    "company": "Аладьева Ирина Анатольевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7040201663859932695",
+    "name": "FRONT. Бизнес. Командная сессия в ДО",
+    "local_time_string": "",
+    "max_pers": 1,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<span style='font-size:18px'><span style='font-family:arial,helvetica,sans-serif'>Цель:<br />Поиск причин отклонений по заданной тематике<br />Проработка возможных решений<br />Обмен идеями и лучшими практиками<br />Командообразование<br />Составление Action плана по достижению фокусных KPI в ДО</span></span><br />&nbsp;",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей",
+    "event_rb_type": "",
+    "macroregion": "macroregion_3][Московский",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": "",
+    "class": "",
+    "person_num": 0,
+    "type": "training",
+    "start_date": "2024-06-07T00:00:00+00:00",
+    "finish_date": "2024-06-07T00:00:00+00:00",
+    "is_passed": 1,
+    "company": "Реветнева Олеся Евгеньевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7040202972278800266",
+    "name": "FRONT. Бизнес. Командная сессия в ДО",
+    "local_time_string": "",
+    "max_pers": 1,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<span style='font-size:18px'><span style='font-family:arial,helvetica,sans-serif'>Цель:<br />Поиск причин отклонений по заданной тематике<br />Проработка возможных решений<br />Обмен идеями и лучшими практиками<br />Командообразование<br />Составление Action плана по достижению фокусных KPI в ДО</span></span><br />&nbsp;",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей",
+    "event_rb_type": "",
+    "macroregion": "macroregion_3][Московский",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": "",
+    "class": "",
+    "person_num": 0,
+    "type": "training",
+    "start_date": "2024-06-19T00:00:00+00:00",
+    "finish_date": "2024-06-19T00:00:00+00:00",
+    "is_passed": 1,
+    "company": "Реветнева Олеся Евгеньевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7040202613383445282",
+    "name": "FRONT. Бизнес. Командная сессия в ДО",
+    "local_time_string": "",
+    "max_pers": 1,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<span style='font-size:18px'><span style='font-family:arial,helvetica,sans-serif'>Цель:<br />Поиск причин отклонений по заданной тематике<br />Проработка возможных решений<br />Обмен идеями и лучшими практиками<br />Командообразование<br />Составление Action плана по достижению фокусных KPI в ДО</span></span><br />&nbsp;",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей",
+    "event_rb_type": "",
+    "macroregion": "macroregion_3][Московский",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": "",
+    "class": "",
+    "person_num": 0,
+    "type": "training",
+    "start_date": "2024-06-13T00:00:00+00:00",
+    "finish_date": "2024-06-13T00:00:00+00:00",
+    "is_passed": 1,
+    "company": "Реветнева Олеся Евгеньевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7040133660004849818",
+    "name": "FRONT. Индивидуальная сессия",
+    "local_time_string": "",
+    "max_pers": 1,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей",
+    "event_rb_type": "",
+    "macroregion": "macroregion_3][Московский",
+    "category": "category_2][Централизованное обучение",
+    "starting": 0,
+    "type_val": "",
+    "hub": "",
+    "channel": "channel_2][Премиум",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": "",
+    "class": "",
+    "person_num": 0,
+    "type": "training",
+    "start_date": "2024-06-14T00:00:00+00:00",
+    "finish_date": "2024-06-14T00:00:00+00:00",
+    "is_passed": 1,
+    "company": "Реветнева Олеся Евгеньевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7040202242948823939",
+    "name": "FRONT. Командная сессия в отделении",
+    "local_time_string": "",
+    "max_pers": 1,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей",
+    "event_rb_type": "",
+    "macroregion": "macroregion_3][Московский",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": "",
+    "class": "ДО Павлецкий",
+    "person_num": 0,
+    "type": "training",
+    "start_date": "2024-06-04T00:00:00+00:00",
+    "finish_date": "2024-06-04T00:00:00+00:00",
+    "is_passed": 1,
+    "company": "Реветнева Олеся Евгеньевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7034501206035656958",
+    "name": "КАДРОВЫЙ РЕЗЕРВ Payroll&DSA: Практикум по теме 'Работа с установками'",
+    "local_time_string": "",
+    "max_pers": 1,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский;macroregion_2][Дальневосточный;macroregion_3][Московский;macroregion_4][Северо-Западный;macroregion_5][Южный;macroregion_6][Приволжский",
+    "category": "category_4][Обучение по проектам",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_5][Payroll;channel_6][DSA",
+    "format_education": "format_4][Бизнес-игра",
+    "type_detailed": "",
+    "place": "Вне учебного класса",
+    "class": "TrueConf",
+    "person_num": 13,
+    "type": "training",
+    "start_date": "2024-06-19T10:00:00+00:00",
+    "finish_date": "2024-06-19T12:00:00+00:00",
+    "is_passed": 1,
+    "company": "Чапаева Наталья Юрьевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7039384226456631830",
+    "name": "Payroll. Индивидуальная сессия",
+    "local_time_string": "",
+    "max_pers": 1,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "Супервизия задач по ИПР. Закрытие задач доя 21.06.2024",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_5][Payroll",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": "",
+    "class": "Payroll. Красноярск",
+    "person_num": 1,
+    "type": "training",
+    "start_date": "2024-06-17T11:00:00+00:00",
+    "finish_date": "2024-06-17T13:00:00+00:00",
+    "is_passed": 1,
+    "company": "Хрипливая Елена Николаевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7039383678989431956",
+    "name": "Payroll. Индивидуальная сессия",
+    "local_time_string": "",
+    "max_pers": 1,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "Супервизия планерки, согласно ИПР по результатам Диагностики",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_5][Payroll",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": "",
+    "class": "Рayroll Красноярск",
+    "person_num": 1,
+    "type": "training",
+    "start_date": "2024-06-17T09:00:00+00:00",
+    "finish_date": "2024-06-17T11:00:00+00:00",
+    "is_passed": 1,
+    "company": "Хрипливая Елена Николаевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7043043837437899891",
+    "name": "Payroll. Индивидуальная сессия",
+    "local_time_string": "",
+    "max_pers": 1,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "Работа по ИПР",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_5][Payroll",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": "",
+    "class": "Payroll ТО Норильский",
+    "person_num": 1,
+    "type": "training",
+    "start_date": "2024-06-27T09:00:00+00:00",
+    "finish_date": "2024-06-27T11:00:00+00:00",
+    "is_passed": 1,
+    "company": "Хрипливая Елена Николаевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7040140928786362925",
+    "name": "Payroll. Индивидуальная сессия",
+    "local_time_string": "",
+    "max_pers": 1,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<span style='font-size:20px'><span style='font-family:arial,helvetica,sans-serif'>Цель:<br />Супервизия работы Руководителя<br />Развитие управленческих компетенций по итогам диагностики<br />Составление ИПР, оценка прогресса по ИПР</span></span>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей",
+    "event_rb_type": "",
+    "macroregion": "macroregion_3][Московский",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность",
+    "hub": "",
+    "channel": "channel_5][Payroll",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": "",
+    "class": "",
+    "person_num": 0,
+    "type": "training",
+    "start_date": "2024-06-13T00:00:00+00:00",
+    "finish_date": "2024-06-13T00:00:00+00:00",
+    "is_passed": 1,
+    "company": "Реветнева Олеся Евгеньевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 1
+}, {
+    "id": "7042205392364072963",
+    "name": "Диагностика сотрудников Payroll_Хантер, Фармер, Активатор",
+    "local_time_string": "",
+    "max_pers": 0,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>Вы записаны на </span><strong style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>диагностику сотрудников направления&nbsp;Payroll&nbsp;</strong><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>по блокам базовых знаний и компетенций. </span></p><p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>По итогам диагностики будут даны обратная связь и рекомендации по развитию.&nbsp;</span>&nbsp;</p><p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(33, 37, 41); display:inline !important; float:none; font-family:roboto,arial,tahoma,verdana,sans-serif; font-size:14px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-align:left; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>Диагностика&nbsp;пройдет в онлайн формате на платформе TrueConf. Вам придет отдельное приглашение, где будут указаны все реквизиты для подключения.</span></p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский;macroregion_2][Дальневосточный;macroregion_3][Московский;macroregion_4][Северо-Западный;macroregion_5][Южный;macroregion_6][Приволжский",
+    "category": "category_4][Обучение по проектам",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_5][Payroll",
+    "format_education": "format_7][Экзамен",
+    "type_detailed": "",
+    "place": "На рабочих местах",
+    "class": "TrueConf",
+    "person_num": 1,
+    "type": "training",
+    "start_date": "2024-06-25T09:30:00+00:00",
+    "finish_date": "2024-06-25T11:00:00+00:00",
+    "is_passed": 1,
+    "company": "Керимова Татьяна Викторовна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7040093756250351160",
+    "name": "Диагностика сотрудников Payroll_Хантер, Фармер, Активатор",
+    "local_time_string": "",
+    "max_pers": 0,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>Вы записаны на </span><strong style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>диагностику сотрудников направления&nbsp;Payroll&nbsp;</strong><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>по блокам базовых знаний и компетенций. </span></p><p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>По итогам диагностики будут даны обратная связь и рекомендации по развитию.&nbsp;</span>&nbsp;</p><p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(33, 37, 41); display:inline !important; float:none; font-family:roboto,arial,tahoma,verdana,sans-serif; font-size:14px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-align:left; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>Диагностика&nbsp;пройдет в онлайн формате на платформе TrueConf. Вам придет отдельное приглашение, где будут указаны все реквизиты для подключения.</span></p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_2][Дальневосточный",
+    "category": "category_4][Обучение по проектам",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_5][Payroll",
+    "format_education": "format_7][Экзамен",
+    "type_detailed": "",
+    "place": "Вне учебного класса",
+    "class": "TrueConf",
+    "person_num": 1,
+    "type": "training",
+    "start_date": "2024-06-14T10:00:00+00:00",
+    "finish_date": "2024-06-14T11:30:00+00:00",
+    "is_passed": 1,
+    "company": "Чапаева Наталья Юрьевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7039760305024116508",
+    "name": "Диагностика сотрудников Payroll_Хантер, Фармер, Активатор",
+    "local_time_string": "",
+    "max_pers": 0,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>Вы записаны на </span><strong style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>диагностику сотрудников направления&nbsp;Payroll&nbsp;</strong><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>по блокам базовых знаний и компетенций. </span></p><p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>По итогам диагностики будут даны обратная связь и рекомендации по развитию.&nbsp;</span>&nbsp;</p><p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(33, 37, 41); display:inline !important; float:none; font-family:roboto,arial,tahoma,verdana,sans-serif; font-size:14px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-align:left; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>Диагностика&nbsp;пройдет в онлайн формате на платформе TrueConf. Вам придет отдельное приглашение, где будут указаны все реквизиты для подключения.</span></p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский;macroregion_2][Дальневосточный;macroregion_3][Московский;macroregion_4][Северо-Западный;macroregion_5][Южный;macroregion_6][Приволжский",
+    "category": "category_4][Обучение по проектам",
+    "starting": 0,
+    "type_val": "fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_5][Payroll",
+    "format_education": "format_7][Экзамен",
+    "type_detailed": "",
+    "place": "На рабочих местах",
+    "class": "TrueConf",
+    "person_num": 1,
+    "type": "training",
+    "start_date": "2024-06-18T09:30:00+00:00",
+    "finish_date": "2024-06-18T11:00:00+00:00",
+    "is_passed": 1,
+    "company": "Керимова Татьяна Викторовна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7039447104105670931",
+    "name": "Payroll. Индивидуальная сессия",
+    "local_time_string": "",
+    "max_pers": 0,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<span style='font-size:20px'><span style='font-family:arial,helvetica,sans-serif'>Цель:<br />Супервизия работы Руководителя<br />Развитие управленческих компетенций по итогам диагностики<br />Составление ИПР, оценка прогресса по ИПР</span></span>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей",
+    "event_rb_type": "",
+    "macroregion": "macroregion_6][Приволжский",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_5][Payroll",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": "Казань",
+    "class": "ТО Казанский payroll Щербаков А",
+    "person_num": 2,
+    "type": "training",
+    "start_date": "2024-06-11T15:00:00+00:00",
+    "finish_date": "2024-06-11T17:00:00+00:00",
+    "is_passed": 1,
+    "company": "Аладьева Ирина Анатольевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7042205943206712424",
+    "name": "Диагностика сотрудников Payroll_Хантер, Фармер, Активатор",
+    "local_time_string": "",
+    "max_pers": 0,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>Вы записаны на </span><strong style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>диагностику сотрудников направления&nbsp;Payroll&nbsp;</strong><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>по блокам базовых знаний и компетенций. </span></p><p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>По итогам диагностики будут даны обратная связь и рекомендации по развитию.&nbsp;</span>&nbsp;</p><p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(33, 37, 41); display:inline !important; float:none; font-family:roboto,arial,tahoma,verdana,sans-serif; font-size:14px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-align:left; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>Диагностика&nbsp;пройдет в онлайн формате на платформе TrueConf. Вам придет отдельное приглашение, где будут указаны все реквизиты для подключения.</span></p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский;macroregion_2][Дальневосточный;macroregion_3][Московский;macroregion_4][Северо-Западный;macroregion_5][Южный;macroregion_6][Приволжский",
+    "category": "category_4][Обучение по проектам",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_5][Payroll",
+    "format_education": "format_7][Экзамен",
+    "type_detailed": "",
+    "place": "На рабочих местах",
+    "class": "TrueConf",
+    "person_num": 1,
+    "type": "training",
+    "start_date": "2024-06-25T12:00:00+00:00",
+    "finish_date": "2024-06-25T13:30:00+00:00",
+    "is_passed": 1,
+    "company": "Керимова Татьяна Викторовна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7040905652993880893",
+    "name": "Payroll. Индивидуальная сессия",
+    "local_time_string": "",
+    "max_pers": 0,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "ИВ с Зам Нач ОПКП ТО Астраханский (Супервизия еженедельного совещания)",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей",
+    "event_rb_type": "",
+    "macroregion": "macroregion_5][Южный",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "",
+    "hub": "",
+    "channel": "channel_5][Payroll",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": "Элиста",
+    "class": "дистанционно",
+    "person_num": 1,
+    "type": "training",
+    "start_date": "2024-06-11T15:30:00+00:00",
+    "finish_date": "2024-06-11T17:30:00+00:00",
+    "is_passed": 1,
+    "company": "Машонина Нина Владимировна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7041917903799792935",
+    "name": "Payroll. Индивидуальная сессия",
+    "local_time_string": "",
+    "max_pers": 0,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<span style='font-size:20px'><span style='font-family:arial,helvetica,sans-serif'>Цель:<br />Супервизия работы Руководителя<br />Развитие управленческих компетенций по итогам диагностики<br />Составление ИПР, оценка прогресса по ИПР</span></span>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей",
+    "event_rb_type": "",
+    "macroregion": "macroregion_6][Приволжский",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_5][Payroll",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": "Вне учебного класса",
+    "class": "ТО Тюменскй Payroll Жданов А",
+    "person_num": 2,
+    "type": "training",
+    "start_date": "2024-06-28T09:00:00+00:00",
+    "finish_date": "2024-06-28T11:00:00+00:00",
+    "is_passed": 1,
+    "company": "Аладьева Ирина Анатольевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7035901718226239386",
+    "name": "Диагностика сотрудников Payroll_Хантер, Фармер, Активатор",
+    "local_time_string": "",
+    "max_pers": 0,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>Вы записаны на </span><strong style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>диагностику сотрудников направления&nbsp;Payroll&nbsp;</strong><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>по блокам базовых знаний и компетенций. </span></p><p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>По итогам диагностики будут даны обратная связь и рекомендации по развитию.&nbsp;</span>&nbsp;</p><p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(33, 37, 41); display:inline !important; float:none; font-family:roboto,arial,tahoma,verdana,sans-serif; font-size:14px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-align:left; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>Диагностика&nbsp;пройдет в онлайн формате на платформе TrueConf. Вам придет отдельное приглашение, где будут указаны все реквизиты для подключения.</span></p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский",
+    "category": "category_4][Обучение по проектам",
+    "starting": 0,
+    "type_val": "fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_5][Payroll",
+    "format_education": "format_7][Экзамен",
+    "type_detailed": "",
+    "place": "На рабочих местах",
+    "class": "TrueConf",
+    "person_num": 1,
+    "type": "training",
+    "start_date": "2024-06-07T07:00:00+00:00",
+    "finish_date": "2024-06-07T11:30:00+00:00",
+    "is_passed": 1,
+    "company": "Серов Илья Антонович",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7040435883293239652",
+    "name": "Диагностика сотрудников Payroll_Хантер, Фармер, Активатор",
+    "local_time_string": "",
+    "max_pers": 0,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>Вы записаны на </span><strong style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>диагностику сотрудников направления&nbsp;Payroll&nbsp;</strong><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>по блокам базовых знаний и компетенций. </span></p><p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>По итогам диагностики будут даны обратная связь и рекомендации по развитию.&nbsp;</span>&nbsp;</p><p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(33, 37, 41); display:inline !important; float:none; font-family:roboto,arial,tahoma,verdana,sans-serif; font-size:14px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-align:left; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>Диагностика&nbsp;пройдет в онлайн формате на платформе TrueConf. Вам придет отдельное приглашение, где будут указаны все реквизиты для подключения.</span></p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_3][Московский",
+    "category": "category_4][Обучение по проектам",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_5][Payroll",
+    "format_education": "format_7][Экзамен",
+    "type_detailed": "",
+    "place": "На рабочих местах",
+    "class": "TrueConf",
+    "person_num": 1,
+    "type": "training",
+    "start_date": "2024-06-20T12:00:00+00:00",
+    "finish_date": "2024-06-20T13:30:00+00:00",
+    "is_passed": 1,
+    "company": "Керимова Татьяна Викторовна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7041917088297825932",
+    "name": "Payroll. Индивидуальная сессия",
+    "local_time_string": "",
+    "max_pers": 0,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<span style='font-size:20px'><span style='font-family:arial,helvetica,sans-serif'>Цель:<br />Супервизия работы Руководителя<br />Развитие управленческих компетенций по итогам диагностики<br />Составление ИПР, оценка прогресса по ИПР</span></span>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей",
+    "event_rb_type": "",
+    "macroregion": "macroregion_6][Приволжский",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_5][Payroll",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": "Вне учебного класса",
+    "class": "ТО Екатеринбургский Payroll гаврин К",
+    "person_num": 2,
+    "type": "training",
+    "start_date": "2024-06-26T11:00:00+00:00",
+    "finish_date": "2024-06-26T13:00:00+00:00",
+    "is_passed": 1,
+    "company": "Аладьева Ирина Анатольевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7040901598143205585",
+    "name": "Payroll. Индивидуальная сессия",
+    "local_time_string": "",
+    "max_pers": 0,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "ИВ с Нач ОПКП ТО Ростовский (работа по ИПР )",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей",
+    "event_rb_type": "",
+    "macroregion": "macroregion_5][Южный",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "",
+    "hub": "",
+    "channel": "channel_5][Payroll",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": "г. Ростов-на-Дону, пр. Ворошиловский, 48",
+    "class": "очно",
+    "person_num": 1,
+    "type": "training",
+    "start_date": "2024-06-06T16:00:00+00:00",
+    "finish_date": "2024-06-06T18:00:00+00:00",
+    "is_passed": 1,
+    "company": "Машонина Нина Владимировна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7042206502720566232",
+    "name": "Диагностика сотрудников Payroll_Хантер, Фармер, Активатор",
+    "local_time_string": "",
+    "max_pers": 0,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>Вы записаны на </span><strong style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>диагностику сотрудников направления&nbsp;Payroll&nbsp;</strong><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>по блокам базовых знаний и компетенций. </span></p><p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>По итогам диагностики будут даны обратная связь и рекомендации по развитию.&nbsp;</span>&nbsp;</p><p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(33, 37, 41); display:inline !important; float:none; font-family:roboto,arial,tahoma,verdana,sans-serif; font-size:14px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-align:left; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>Диагностика&nbsp;пройдет в онлайн формате на платформе TrueConf. Вам придет отдельное приглашение, где будут указаны все реквизиты для подключения.</span></p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский;macroregion_2][Дальневосточный;macroregion_3][Московский;macroregion_4][Северо-Западный;macroregion_5][Южный;macroregion_6][Приволжский",
+    "category": "category_4][Обучение по проектам",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_5][Payroll",
+    "format_education": "format_7][Экзамен",
+    "type_detailed": "",
+    "place": "На рабочих местах",
+    "class": "TrueConf",
+    "person_num": 1,
+    "type": "training",
+    "start_date": "2024-06-27T08:00:00+00:00",
+    "finish_date": "2024-06-27T09:30:00+00:00",
+    "is_passed": 1,
+    "company": "Керимова Татьяна Викторовна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7040094320306401654",
+    "name": "Диагностика сотрудников Payroll_Хантер, Фармер, Активатор",
+    "local_time_string": "",
+    "max_pers": 0,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>Вы записаны на </span><strong style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>диагностику сотрудников направления&nbsp;Payroll&nbsp;</strong><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>по блокам базовых знаний и компетенций. </span></p><p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>По итогам диагностики будут даны обратная связь и рекомендации по развитию.&nbsp;</span>&nbsp;</p><p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(33, 37, 41); display:inline !important; float:none; font-family:roboto,arial,tahoma,verdana,sans-serif; font-size:14px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-align:left; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>Диагностика&nbsp;пройдет в онлайн формате на платформе TrueConf. Вам придет отдельное приглашение, где будут указаны все реквизиты для подключения.</span></p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_4][Северо-Западный",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_5][Payroll",
+    "format_education": "format_7][Экзамен",
+    "type_detailed": "",
+    "place": "Вне учебного класса",
+    "class": "TrueConf",
+    "person_num": 1,
+    "type": "training",
+    "start_date": "2024-06-14T12:00:00+00:00",
+    "finish_date": "2024-06-14T13:30:00+00:00",
+    "is_passed": 1,
+    "company": "Чапаева Наталья Юрьевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7042924079992531980",
+    "name": "Диагностика сотрудников Payroll_Хантер, Фармер, Активатор",
+    "local_time_string": "",
+    "max_pers": 0,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>Вы записаны на </span><strong style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>диагностику сотрудников направления&nbsp;Payroll&nbsp;</strong><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>по блокам базовых знаний и компетенций. </span></p><p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>По итогам диагностики будут даны обратная связь и рекомендации по развитию.&nbsp;</span>&nbsp;</p><p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(33, 37, 41); display:inline !important; float:none; font-family:roboto,arial,tahoma,verdana,sans-serif; font-size:14px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-align:left; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>Диагностика&nbsp;пройдет в онлайн формате на платформе TrueConf. Вам придет отдельное приглашение, где будут указаны все реквизиты для подключения.</span></p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_2][Дальневосточный;macroregion_3][Московский;macroregion_4][Северо-Западный;macroregion_5][Южный;macroregion_6][Приволжский",
+    "category": "category_4][Обучение по проектам",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_5][Payroll",
+    "format_education": "format_7][Экзамен",
+    "type_detailed": "",
+    "place": "На рабочих местах",
+    "class": "TrueConf",
+    "person_num": 1,
+    "type": "webinar",
+    "start_date": "2024-07-04T15:00:00+00:00",
+    "finish_date": "2024-07-04T16:30:00+00:00",
+    "is_passed": 0,
+    "company": "Керимова Татьяна Викторовна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7042923552632992662",
+    "name": "Диагностика сотрудников Payroll_Хантер, Фармер, Активатор",
+    "local_time_string": "",
+    "max_pers": 0,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>Вы записаны на </span><strong style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>диагностику сотрудников направления&nbsp;Payroll&nbsp;</strong><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>по блокам базовых знаний и компетенций. </span></p><p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>По итогам диагностики будут даны обратная связь и рекомендации по развитию.&nbsp;</span>&nbsp;</p><p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(33, 37, 41); display:inline !important; float:none; font-family:roboto,arial,tahoma,verdana,sans-serif; font-size:14px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-align:left; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>Диагностика&nbsp;пройдет в онлайн формате на платформе TrueConf. Вам придет отдельное приглашение, где будут указаны все реквизиты для подключения.</span></p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский;macroregion_2][Дальневосточный;macroregion_3][Московский;macroregion_4][Северо-Западный;macroregion_5][Южный;macroregion_6][Приволжский",
+    "category": "category_4][Обучение по проектам",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_5][Payroll",
+    "format_education": "format_7][Экзамен",
+    "type_detailed": "",
+    "place": "На рабочих местах",
+    "class": "TrueConf",
+    "person_num": 1,
+    "type": "training",
+    "start_date": "2024-07-04T12:00:00+00:00",
+    "finish_date": "2024-07-04T13:30:00+00:00",
+    "is_passed": 0,
+    "company": "Керимова Татьяна Викторовна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7035207207518661338",
+    "name": "Диагностика сотрудников Payroll_Хантер, Фармер, Активатор",
+    "local_time_string": "",
+    "max_pers": 0,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>Вы записаны на </span><strong style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>диагностику сотрудников направления&nbsp;Payroll&nbsp;</strong><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>по блокам базовых знаний и компетенций. </span></p><p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>По итогам диагностики будут даны обратная связь и рекомендации по развитию.&nbsp;</span>&nbsp;</p><p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(33, 37, 41); display:inline !important; float:none; font-family:roboto,arial,tahoma,verdana,sans-serif; font-size:14px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-align:left; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>Диагностика&nbsp;пройдет в онлайн формате на платформе TrueConf. Вам придет отдельное приглашение, где будут указаны все реквизиты для подключения.</span></p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_6][Приволжский",
+    "category": "category_4][Обучение по проектам",
+    "starting": 0,
+    "type_val": "fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_5][Payroll",
+    "format_education": "format_7][Экзамен",
+    "type_detailed": "",
+    "place": "На рабочих местах",
+    "class": "TrueConf",
+    "person_num": 1,
+    "type": "training",
+    "start_date": "2024-06-05T13:00:00+00:00",
+    "finish_date": "2024-06-05T14:30:00+00:00",
+    "is_passed": 1,
+    "company": "Серов Илья Антонович",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7040179472275831972",
+    "name": "Диагностика сотрудников Payroll_Хантер, Фармер, Активатор",
+    "local_time_string": "",
+    "max_pers": 0,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>Вы записаны на </span><strong style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>диагностику сотрудников направления&nbsp;Payroll&nbsp;</strong><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>по блокам базовых знаний и компетенций. </span></p><p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>По итогам диагностики будут даны обратная связь и рекомендации по развитию.&nbsp;</span>&nbsp;</p><p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(33, 37, 41); display:inline !important; float:none; font-family:roboto,arial,tahoma,verdana,sans-serif; font-size:14px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-align:left; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>Диагностика&nbsp;пройдет в онлайн формате на платформе TrueConf. Вам придет отдельное приглашение, где будут указаны все реквизиты для подключения.</span></p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский;macroregion_2][Дальневосточный;macroregion_3][Московский;macroregion_4][Северо-Западный;macroregion_5][Южный;macroregion_6][Приволжский",
+    "category": "category_4][Обучение по проектам",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_5][Payroll",
+    "format_education": "format_7][Экзамен",
+    "type_detailed": "",
+    "place": "На рабочих местах",
+    "class": "TrueConf",
+    "person_num": 1,
+    "type": "training",
+    "start_date": "2024-06-20T09:30:00+00:00",
+    "finish_date": "2024-06-20T11:00:00+00:00",
+    "is_passed": 1,
+    "company": "",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7042209251942283389",
+    "name": "Диагностика сотрудников Payroll_Хантер, Фармер, Активатор",
+    "local_time_string": "",
+    "max_pers": 0,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>Вы записаны на </span><strong style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>диагностику сотрудников направления&nbsp;Payroll&nbsp;</strong><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>по блокам базовых знаний и компетенций. </span></p><p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>По итогам диагностики будут даны обратная связь и рекомендации по развитию.&nbsp;</span>&nbsp;</p><p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(33, 37, 41); display:inline !important; float:none; font-family:roboto,arial,tahoma,verdana,sans-serif; font-size:14px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-align:left; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>Диагностика&nbsp;пройдет в онлайн формате на платформе TrueConf. Вам придет отдельное приглашение, где будут указаны все реквизиты для подключения.</span></p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский;macroregion_2][Дальневосточный;macroregion_3][Московский;macroregion_4][Северо-Западный;macroregion_5][Южный;macroregion_6][Приволжский",
+    "category": "category_4][Обучение по проектам",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_5][Payroll",
+    "format_education": "format_7][Экзамен",
+    "type_detailed": "",
+    "place": "На рабочих местах",
+    "class": "TrueConf",
+    "person_num": 1,
+    "type": "training",
+    "start_date": "2024-06-28T12:00:00+00:00",
+    "finish_date": "2024-06-28T13:30:00+00:00",
+    "is_passed": 1,
+    "company": "Керимова Татьяна Викторовна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7029501388048453653",
+    "name": "Диагностика сотрудников Payroll_Хантер, Фармер, Активатор",
+    "local_time_string": "",
+    "max_pers": 0,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>Вы записаны на </span><strong style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>диагностику сотрудников направления&nbsp;Payroll&nbsp;</strong><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>по блокам базовых знаний и компетенций. </span></p><p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>По итогам диагностики будут даны обратная связь и рекомендации по развитию.&nbsp;</span>&nbsp;</p><p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(33, 37, 41); display:inline !important; float:none; font-family:roboto,arial,tahoma,verdana,sans-serif; font-size:14px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-align:left; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>Диагностика&nbsp;пройдет в онлайн формате на платформе TrueConf. Вам придет отдельное приглашение, где будут указаны все реквизиты для подключения.</span></p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_3][Московский",
+    "category": "category_4][Обучение по проектам",
+    "starting": 0,
+    "type_val": "fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_5][Payroll",
+    "format_education": "format_7][Экзамен",
+    "type_detailed": "",
+    "place": "На рабочих местах",
+    "class": "TrueConf",
+    "person_num": 1,
+    "type": "training",
+    "start_date": "2024-06-13T10:00:00+00:00",
+    "finish_date": "2024-06-13T11:30:00+00:00",
+    "is_passed": 1,
+    "company": "Серов Илья Антонович",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7040917319320590074",
+    "name": "FRONT. Стабильность персонала. Индивидуальная сессия",
+    "local_time_string": "",
+    "max_pers": 0,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "Супервизия пятничного обучения ДО М. Шолохов по запросу ДТО&nbsp;",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей",
+    "event_rb_type": "",
+    "macroregion": "macroregion_5][Южный",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": "г. Ростов-на-Дону, пр. М.Шолохова, 128",
+    "class": "очно",
+    "person_num": 1,
+    "type": "training",
+    "start_date": "2024-06-14T09:30:00+00:00",
+    "finish_date": "2024-06-14T10:30:00+00:00",
+    "is_passed": 1,
+    "company": "Машонина Нина Владимировна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7042641256724805206",
+    "name": "FRONT. Стабильность персонала. Индивидуальная сессия",
+    "local_time_string": "",
+    "max_pers": 0,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<span style='font-size:20px'><span style='font-family:arial,helvetica,sans-serif'>Цель:<br />Адаптация Руководителя<br />Супервизия работы УДО<br />Развитие управленческих компетенций по работе с персоналом<br />Составление ИПР, оценка прогресса по ИПР</span></span>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей;spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_6][Приволжский",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": "Вне учебного класса",
+    "class": "ЦКО Челябинский Плотникова Надежда",
+    "person_num": 2,
+    "type": "training",
+    "start_date": "2024-06-26T07:00:00+00:00",
+    "finish_date": "2024-06-26T00:00:00+00:00",
+    "is_passed": 1,
+    "company": "Аладьева Ирина Анатольевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7043071108362269324",
+    "name": "FRONT. Стабильность персонала. Индивидуальная сессия",
+    "local_time_string": "",
+    "max_pers": 0,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "Супервзия пятничного обучения ЦКО Ростовский",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей",
+    "event_rb_type": "",
+    "macroregion": "macroregion_5][Южный",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": "г. Ростов-на-Дону, пр. Ворошиловский, 48",
+    "class": "очно",
+    "person_num": 1,
+    "type": "training",
+    "start_date": "2024-06-20T08:40:00+00:00",
+    "finish_date": "2024-06-20T09:40:00+00:00",
+    "is_passed": 1,
+    "company": "Машонина Нина Владимировна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7038431800476557699",
+    "name": "FRONT. Стабильность персонала. Индивидуальная сессия",
+    "local_time_string": "",
+    "max_pers": 0,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<span style='font-size:20px'><span style='font-family:arial,helvetica,sans-serif'>Цель:<br />Адаптация Руководителя<br />Супервизия работы УДО<br />Развитие управленческих компетенций по работе с персоналом<br />Составление ИПР, оценка прогресса по ИПР</span></span>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей",
+    "event_rb_type": "",
+    "macroregion": "macroregion_6][Приволжский",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": "Вне учебного класса",
+    "class": "ТО Челябинский ДО Курганский Жилякова Наталья",
+    "person_num": 2,
+    "type": "training",
+    "start_date": "2024-06-14T07:00:00+00:00",
+    "finish_date": "2024-06-14T09:00:00+00:00",
+    "is_passed": 1,
+    "company": "Аладьева Ирина Анатольевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7037309381918059509",
+    "name": "Диагностика сотрудников Payroll_Хантер, Фармер, Активатор",
+    "local_time_string": "",
+    "max_pers": 0,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>Вы записаны на </span><strong style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>диагностику сотрудников направления&nbsp;Payroll&nbsp;</strong><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>по блокам базовых знаний и компетенций. </span></p><p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>По итогам диагностики будут даны обратная связь и рекомендации по развитию.&nbsp;</span>&nbsp;</p><p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(33, 37, 41); display:inline !important; float:none; font-family:roboto,arial,tahoma,verdana,sans-serif; font-size:14px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-align:left; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>Диагностика&nbsp;пройдет в онлайн формате на платформе TrueConf. Вам придет отдельное приглашение, где будут указаны все реквизиты для подключения.</span></p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский",
+    "category": "category_4][Обучение по проектам",
+    "starting": 0,
+    "type_val": "fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_5][Payroll",
+    "format_education": "format_7][Экзамен",
+    "type_detailed": "",
+    "place": "На рабочих местах",
+    "class": "TrueConf",
+    "person_num": 1,
+    "type": "training",
+    "start_date": "2024-06-11T09:30:00+00:00",
+    "finish_date": "2024-06-11T11:00:00+00:00",
+    "is_passed": 1,
+    "company": "Серов Илья Антонович",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7040902298207154856",
+    "name": "Payroll. Индивидуальная сессия",
+    "local_time_string": "",
+    "max_pers": 0,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "ИВ с Зам Нач ОПКП ТО Астраханский (Работа по ИПР)",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей",
+    "event_rb_type": "",
+    "macroregion": "macroregion_5][Южный",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "",
+    "hub": "",
+    "channel": "channel_5][Payroll",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": "Элиста",
+    "class": "дистанционно",
+    "person_num": 1,
+    "type": "training",
+    "start_date": "2024-06-07T13:00:00+00:00",
+    "finish_date": "2024-06-07T15:00:00+00:00",
+    "is_passed": 1,
+    "company": "Машонина Нина Владимировна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7039762327045911711",
+    "name": "Диагностика сотрудников Payroll_Хантер, Фармер, Активатор",
+    "local_time_string": "",
+    "max_pers": 0,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>Вы записаны на </span><strong style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>диагностику сотрудников направления&nbsp;Payroll&nbsp;</strong><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>по блокам базовых знаний и компетенций. </span></p><p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>По итогам диагностики будут даны обратная связь и рекомендации по развитию.&nbsp;</span>&nbsp;</p><p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(33, 37, 41); display:inline !important; float:none; font-family:roboto,arial,tahoma,verdana,sans-serif; font-size:14px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-align:left; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>Диагностика&nbsp;пройдет в онлайн формате на платформе TrueConf. Вам придет отдельное приглашение, где будут указаны все реквизиты для подключения.</span></p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский;macroregion_2][Дальневосточный;macroregion_3][Московский;macroregion_4][Северо-Западный;macroregion_5][Южный;macroregion_6][Приволжский",
+    "category": "category_4][Обучение по проектам",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_5][Payroll",
+    "format_education": "format_7][Экзамен",
+    "type_detailed": "",
+    "place": "На рабочих местах",
+    "class": "TrueConf",
+    "person_num": 1,
+    "type": "training",
+    "start_date": "2024-06-18T12:00:00+00:00",
+    "finish_date": "2024-06-18T13:30:00+00:00",
+    "is_passed": 1,
+    "company": "Керимова Татьяна Викторовна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7040201429625061396",
+    "name": "FRONT. Бизнес. Круглый стол",
+    "local_time_string": "",
+    "max_pers": 0,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "Круглый стол «Масштабирование проекта Т-Банка» для УДО",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей",
+    "event_rb_type": "",
+    "macroregion": "macroregion_5][Южный",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": "",
+    "class": "ТО Ярославский",
+    "person_num": 7,
+    "type": "training",
+    "start_date": "2024-06-19T15:00:00+00:00",
+    "finish_date": "2024-06-19T17:00:00+00:00",
+    "is_passed": 1,
+    "company": "Хрипливая Елена Николаевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7040522934710402359",
+    "name": "FRONT. Бизнес. Круглый стол",
+    "local_time_string": "",
+    "max_pers": 0,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "Круглый стол «Масштабирование проекта Т-Банка»&nbsp;",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей",
+    "event_rb_type": "",
+    "macroregion": "macroregion_5][Южный",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": "",
+    "class": "ТО Липецкий, все УДО",
+    "person_num": 7,
+    "type": "training",
+    "start_date": "2024-06-20T15:15:00+00:00",
+    "finish_date": "2024-06-20T17:15:00+00:00",
+    "is_passed": 1,
+    "company": "Хрипливая Елена Николаевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7040623366507291820",
+    "name": "FRONT. Бизнес. Командная сессия в ДО",
+    "local_time_string": "",
+    "max_pers": 0,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<span style='font-size:18px'><span style='font-family:arial,helvetica,sans-serif'>Цель:<br />Поиск причин отклонений по заданной тематике<br />Проработка возможных решений<br />Обмен идеями и лучшими практиками<br />Командообразование<br />Составление Action плана по достижению фокусных KPI в ДО</span></span><br />&nbsp;",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей;spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_6][Приволжский",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": "Вне учебного класса",
+    "class": "ТО Нижегородский ЦКО Нижегородский Столетова оксана",
+    "person_num": 2,
+    "type": "training",
+    "start_date": "2024-06-20T09:00:00+00:00",
+    "finish_date": "2024-06-20T16:00:00+00:00",
+    "is_passed": 1,
+    "company": "Аладьева Ирина Анатольевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7040952086556009787",
+    "name": "FRONT. Бизнес. Командная сессия в ДО",
+    "local_time_string": "",
+    "max_pers": 0,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<span style='font-size:18px'><span style='font-family:arial,helvetica,sans-serif'>Цель:<br />Поиск причин отклонений по заданной тематике<br />Проработка возможных решений<br />Обмен идеями и лучшими практиками<br />Командообразование<br />Составление Action плана по достижению фокусных KPI в ДО</span></span><br />&nbsp;",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей;spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_6][Приволжский",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": "Вне учебного класса",
+    "class": "ТО Самарский Автозаводской Мокшанцева Татьяна",
+    "person_num": 2,
+    "type": "training",
+    "start_date": "2024-06-21T09:00:00+00:00",
+    "finish_date": "2024-06-21T17:00:00+00:00",
+    "is_passed": 1,
+    "company": "Аладьева Ирина Анатольевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7040923517473322091",
+    "name": "FRONT. Бизнес. Командная сессия в ДО",
+    "local_time_string": "",
+    "max_pers": 0,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "Командная сессия в ДО М.Шолохов ( работа с сотрудниками по задачам от ДТО/УД)&nbsp;",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей;spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_5][Южный",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": "г. Ростов-на-Дону, пр. М.Шолохова, 128",
+    "class": "очно",
+    "person_num": 1,
+    "type": "training",
+    "start_date": "2024-06-21T09:40:00+00:00",
+    "finish_date": "2024-06-21T17:00:00+00:00",
+    "is_passed": 1,
+    "company": "Машонина Нина Владимировна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7043340507907743750",
+    "name": "Диагностика сотрудников Payroll_Хантер, Фармер, Активатор",
+    "local_time_string": "",
+    "max_pers": 0,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>Вы записаны на </span><strong style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>диагностику сотрудников направления&nbsp;Payroll&nbsp;</strong><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>по блокам базовых знаний и компетенций. </span></p><p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>По итогам диагностики будут даны обратная связь и рекомендации по развитию.&nbsp;</span>&nbsp;</p><p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(33, 37, 41); display:inline !important; float:none; font-family:roboto,arial,tahoma,verdana,sans-serif; font-size:14px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-align:left; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>Диагностика&nbsp;пройдет в онлайн формате на платформе TrueConf. Вам придет отдельное приглашение, где будут указаны все реквизиты для подключения.</span></p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский;macroregion_2][Дальневосточный;macroregion_3][Московский;macroregion_4][Северо-Западный;macroregion_5][Южный;macroregion_6][Приволжский",
+    "category": "category_4][Обучение по проектам",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_5][Payroll",
+    "format_education": "format_7][Экзамен",
+    "type_detailed": "",
+    "place": "На рабочих местах",
+    "class": "TrueConf",
+    "person_num": 1,
+    "type": "training",
+    "start_date": "2024-07-04T09:30:00+00:00",
+    "finish_date": "2024-07-04T11:00:00+00:00",
+    "is_passed": 0,
+    "company": "Керимова Татьяна Викторовна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7040919956378957226",
+    "name": "FRONT. Бизнес. Командная сессия в ДО",
+    "local_time_string": "",
+    "max_pers": 0,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "Командная сессия в ЦКО Ставропольский ( работа с сотрудниками по задачам от ДТО/УД)&nbsp;",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей;spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_5][Южный",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": "г. Ставрополь, ул. Ленина, 375",
+    "class": "дистанционно",
+    "person_num": 1,
+    "type": "training",
+    "start_date": "2024-06-18T10:00:00+00:00",
+    "finish_date": "2024-06-18T18:00:00+00:00",
+    "is_passed": 1,
+    "company": "Машонина Нина Владимировна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7043023094205479655",
+    "name": "FRONT. Бизнес. Командная сессия в ДО",
+    "local_time_string": "",
+    "max_pers": 0,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<span style='font-size:18px'><span style='font-family:arial,helvetica,sans-serif'>Цель:<br />Поиск причин отклонений по заданной тематике<br />Проработка возможных решений<br />Обмен идеями и лучшими практиками<br />Командообразование<br />Составление Action плана по достижению фокусных KPI в ДО</span></span><br />&nbsp;",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей;spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_6][Приволжский",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": "Вне учебного класса",
+    "class": "ТО Самарский ДО Старозагорский Кирияк Антонина",
+    "person_num": 2,
+    "type": "training",
+    "start_date": "2024-06-27T09:00:00+00:00",
+    "finish_date": "2024-06-27T17:00:00+00:00",
+    "is_passed": 1,
+    "company": "Аладьева Ирина Анатольевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7040913774244324399",
+    "name": "FRONT. Бизнес. Командная сессия в ДО",
+    "local_time_string": "",
+    "max_pers": 0,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "Командная сессия в ЦКО Астраханский ( работа с сотрудниками по задачам от ДТО/УД)&nbsp;",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей;spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_5][Южный",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": " г. Астрахань, пр-т Губернатора Анатолия Гужвина, д. 10",
+    "class": "дистанционно",
+    "person_num": 1,
+    "type": "training",
+    "start_date": "2024-06-13T15:00:00+00:00",
+    "finish_date": "2024-06-13T20:00:00+00:00",
+    "is_passed": 1,
+    "company": "Машонина Нина Владимировна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7039815856078876837",
+    "name": "FRONT. Бизнес. Командная сессия в ДО",
+    "local_time_string": "",
+    "max_pers": 0,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<span style='font-size:18px'><span style='font-family:arial,helvetica,sans-serif'>Цель:<br />Поиск причин отклонений по заданной тематике<br />Проработка возможных решений<br />Обмен идеями и лучшими практиками<br />Командообразование<br />Составление Action плана по достижению фокусных KPI в ДО</span></span><br />&nbsp;",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей;spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_6][Приволжский",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": "Вне учебного класса",
+    "class": "ТО Пермский ОО Губернский",
+    "person_num": 2,
+    "type": "training",
+    "start_date": "2024-06-18T07:00:00+00:00",
+    "finish_date": "2024-06-18T15:00:00+00:00",
+    "is_passed": 1,
+    "company": "Аладьева Ирина Анатольевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7037317389867805642",
+    "name": "Диагностика сотрудников Payroll_Хантер, Фармер, Активатор",
+    "local_time_string": "",
+    "max_pers": 0,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>Вы записаны на </span><strong style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>диагностику сотрудников направления&nbsp;Payroll&nbsp;</strong><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>по блокам базовых знаний и компетенций. </span></p><p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>По итогам диагностики будут даны обратная связь и рекомендации по развитию.&nbsp;</span>&nbsp;</p><p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(33, 37, 41); display:inline !important; float:none; font-family:roboto,arial,tahoma,verdana,sans-serif; font-size:14px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-align:left; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>Диагностика&nbsp;пройдет в онлайн формате на платформе TrueConf. Вам придет отдельное приглашение, где будут указаны все реквизиты для подключения.</span></p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский",
+    "category": "category_4][Обучение по проектам",
+    "starting": 0,
+    "type_val": "fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_5][Payroll",
+    "format_education": "format_7][Экзамен",
+    "type_detailed": "",
+    "place": "На рабочих местах",
+    "class": "TrueConf",
+    "person_num": 1,
+    "type": "training",
+    "start_date": "2024-06-11T12:00:00+00:00",
+    "finish_date": "2024-06-11T13:30:00+00:00",
+    "is_passed": 1,
+    "company": "Серов Илья Антонович",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7040922364212639153",
+    "name": "FRONT. Бизнес. Командная сессия в ДО",
+    "local_time_string": "",
+    "max_pers": 0,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "Командная сессия в ЦКО Ростовский ( работа с сотрудниками по задачам от ДТО/УД)&nbsp;",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей;spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_5][Южный",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": "г. Ростов-на-Дону, пр. Ворошиловский, 48",
+    "class": "очно",
+    "person_num": 1,
+    "type": "training",
+    "start_date": "2024-06-20T08:40:00+00:00",
+    "finish_date": "2024-06-20T15:00:00+00:00",
+    "is_passed": 1,
+    "company": "Машонина Нина Владимировна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7040928168508617359",
+    "name": "Premium. Индивидуальная сессия",
+    "local_time_string": "",
+    "max_pers": 0,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "ИВ с РР Премиум&nbsp; (работа по ИПР+супервизия еженедельного совещания с командой ПМ )",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей",
+    "event_rb_type": "",
+    "macroregion": "macroregion_5][Южный",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "",
+    "hub": "",
+    "channel": "channel_2][Премиум",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": "ОКО г. Москва, Красногвардейский 1-й проезд,д. 19, 12 этаж",
+    "class": "дистанционно",
+    "person_num": 1,
+    "type": "training",
+    "start_date": "2024-06-19T11:00:00+00:00",
+    "finish_date": "2024-06-19T13:00:00+00:00",
+    "is_passed": 1,
+    "company": "Машонина Нина Владимировна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7040921165881112229",
+    "name": "FRONT. Бизнес. Командная сессия в ДО",
+    "local_time_string": "",
+    "max_pers": 0,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "Командная сессия в ЦКО Волгоградский ( работа с сотрудниками по задачам от ДТО/УД)&nbsp;",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей;spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_5][Южный",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": " г. Волгоград, ул. им. Ленина, 46",
+    "class": "дистанционно",
+    "person_num": 1,
+    "type": "training",
+    "start_date": "2024-06-19T09:00:00+00:00",
+    "finish_date": "2024-06-19T18:00:00+00:00",
+    "is_passed": 1,
+    "company": "Машонина Нина Владимировна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7041916342110210000",
+    "name": "FRONT. Бизнес. Командная сессия в ДО",
+    "local_time_string": "",
+    "max_pers": 0,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<span style='font-size:18px'><span style='font-family:arial,helvetica,sans-serif'>Цель:<br />Поиск причин отклонений по заданной тематике<br />Проработка возможных решений<br />Обмен идеями и лучшими практиками<br />Командообразование<br />Составление Action плана по достижению фокусных KPI в ДО</span></span><br />&nbsp;",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей;spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_6][Приволжский",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": "Вне учебного класса",
+    "class": "ТО Тюменский ДО Мельникайте Мальцев Витмалий",
+    "person_num": 2,
+    "type": "training",
+    "start_date": "2024-06-26T09:00:00+00:00",
+    "finish_date": "2024-06-26T16:00:00+00:00",
+    "is_passed": 1,
+    "company": "Аладьева Ирина Анатольевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7040903233978873746",
+    "name": "FRONT. Бизнес. Командная сессия в ДО",
+    "local_time_string": "",
+    "max_pers": 0,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "Командная сессия в ДО М. Шолохов &nbsp;( работа с сотрудниками по задачам от ДТО/УД)&nbsp;",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей;spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_5][Южный",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": "г. Ростов-на-Дону, пр. М.Шолохова, 128",
+    "class": "очно",
+    "person_num": 2,
+    "type": "training",
+    "start_date": "2024-06-11T10:00:00+00:00",
+    "finish_date": "2024-06-11T18:00:00+00:00",
+    "is_passed": 1,
+    "company": "Машонина Нина Владимировна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7041915341253864622",
+    "name": "FRONT. Бизнес. Командная сессия в ДО",
+    "local_time_string": "",
+    "max_pers": 0,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<span style='font-size:18px'><span style='font-family:arial,helvetica,sans-serif'>Цель:<br />Поиск причин отклонений по заданной тематике<br />Проработка возможных решений<br />Обмен идеями и лучшими практиками<br />Командообразование<br />Составление Action плана по достижению фокусных KPI в ДО</span></span><br />&nbsp;",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей;spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_6][Приволжский",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": "Вне учебного класса",
+    "class": "ТО Екатеринбургский ЦКО Екатеринбургский",
+    "person_num": 2,
+    "type": "training",
+    "start_date": "2024-06-25T09:00:00+00:00",
+    "finish_date": "2024-06-25T16:00:00+00:00",
+    "is_passed": 1,
+    "company": "Аладьева Ирина Анатольевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7038487667142124054",
+    "name": "FRONT. Бизнес. Командная сессия в ДО",
+    "local_time_string": "",
+    "max_pers": 0,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<span style='font-size:18px'><span style='font-family:arial,helvetica,sans-serif'>Цель:<br />Поиск причин отклонений по заданной тематике<br />Проработка возможных решений<br />Обмен идеями и лучшими практиками<br />Командообразование<br />Составление Action плана по достижению фокусных KPI в ДО</span></span><br />&nbsp;",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей;spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_6][Приволжский",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": "Казань",
+    "class": "ТО Казанский ОО Пл Тукая",
+    "person_num": 2,
+    "type": "training",
+    "start_date": "2024-06-11T09:00:00+00:00",
+    "finish_date": "2024-06-11T17:00:00+00:00",
+    "is_passed": 1,
+    "company": "Аладьева Ирина Анатольевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7040918987518465148",
+    "name": "FRONT. Бизнес. Командная сессия в ДО",
+    "local_time_string": "",
+    "max_pers": 0,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "Командная сессия в ДО Калмыцкий ( работа с сотрудниками по задачам от ДТО/УД)&nbsp;",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей;spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_5][Южный",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": "Элиста",
+    "class": "дистанционно",
+    "person_num": 2,
+    "type": "training",
+    "start_date": "2024-06-14T11:00:00+00:00",
+    "finish_date": "2024-06-14T16:00:00+00:00",
+    "is_passed": 1,
+    "company": "Машонина Нина Владимировна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7040162423537237944",
+    "name": "Premium. Индивидуальная сессия",
+    "local_time_string": "",
+    "max_pers": 0,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<span style='font-size:20px'><span style='font-family:arial,helvetica,sans-serif'>Цель:<br />Супервизия работы Руководителя<br />Развитие управленческих компетенций по итогам диагностики<br />Составление ИПР, оценка прогресса по ИПР</span></span>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей",
+    "event_rb_type": "",
+    "macroregion": "macroregion_6][Приволжский",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_2][Премиум",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": "Вне учебного класса",
+    "class": "ТО Екатеринбургский Премиум Давыдова Е",
+    "person_num": 2,
+    "type": "training",
+    "start_date": "2024-06-19T10:00:00+00:00",
+    "finish_date": "2024-06-19T12:00:00+00:00",
+    "is_passed": 1,
+    "company": "Аладьева Ирина Анатольевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7038426960390258291",
+    "name": "FRONT. Бизнес. Командная сессия в ДО",
+    "local_time_string": "",
+    "max_pers": 0,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<span style='font-size:18px'><span style='font-family:arial,helvetica,sans-serif'>Цель:<br />Поиск причин отклонений по заданной тематике<br />Проработка возможных решений<br />Обмен идеями и лучшими практиками<br />Командообразование<br />Составление Action плана по достижению фокусных KPI в ДО</span></span><br />&nbsp;",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей;spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_6][Приволжский",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": "Вне учебного класса",
+    "class": "То Удмурдский ДО Удмурдский Фаррахова Адиля",
+    "person_num": 2,
+    "type": "training",
+    "start_date": "2024-06-14T09:00:00+00:00",
+    "finish_date": "2024-06-14T17:00:00+00:00",
+    "is_passed": 1,
+    "company": "Аладьева Ирина Анатольевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7042208693316711999",
+    "name": "Диагностика сотрудников Payroll_Хантер, Фармер, Активатор",
+    "local_time_string": "",
+    "max_pers": 0,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>Вы записаны на </span><strong style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>диагностику сотрудников направления&nbsp;Payroll&nbsp;</strong><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>по блокам базовых знаний и компетенций. </span></p><p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>По итогам диагностики будут даны обратная связь и рекомендации по развитию.&nbsp;</span>&nbsp;</p><p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(33, 37, 41); display:inline !important; float:none; font-family:roboto,arial,tahoma,verdana,sans-serif; font-size:14px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-align:left; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>Диагностика&nbsp;пройдет в онлайн формате на платформе TrueConf. Вам придет отдельное приглашение, где будут указаны все реквизиты для подключения.</span></p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский;macroregion_2][Дальневосточный;macroregion_3][Московский;macroregion_4][Северо-Западный;macroregion_5][Южный;macroregion_6][Приволжский",
+    "category": "category_4][Обучение по проектам",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_5][Payroll",
+    "format_education": "format_7][Экзамен",
+    "type_detailed": "",
+    "place": "На рабочих местах",
+    "class": "TrueConf",
+    "person_num": 1,
+    "type": "training",
+    "start_date": "2024-06-28T10:00:00+00:00",
+    "finish_date": "2024-06-28T11:30:00+00:00",
+    "is_passed": 1,
+    "company": "Керимова Татьяна Викторовна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7040164187291350661",
+    "name": "FRONT. Бизнес. Командная сессия в ДО",
+    "local_time_string": "",
+    "max_pers": 0,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<span style='font-size:18px'><span style='font-family:arial,helvetica,sans-serif'>Цель:<br />Поиск причин отклонений по заданной тематике<br />Проработка возможных решений<br />Обмен идеями и лучшими практиками<br />Командообразование<br />Составление Action плана по достижению фокусных KPI в ДО</span></span><br />&nbsp;",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей;spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_6][Приволжский",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": "Вне учебного класса",
+    "class": "ТО Уфимский ДО Стерлитомак Галимов Гульнар",
+    "person_num": 2,
+    "type": "training",
+    "start_date": "2024-06-19T12:00:00+00:00",
+    "finish_date": "2024-06-19T18:00:00+00:00",
+    "is_passed": 1,
+    "company": "Аладьева Ирина Анатольевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7040912743519351675",
+    "name": "FRONT. Бизнес. Командная сессия в ДО",
+    "local_time_string": "",
+    "max_pers": 0,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "Командная сессия в ЦКО Ростовский ( работа с сотрудниками по задачам от ДТО/УД)&nbsp;",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей;spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_5][Южный",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": "г. Ростов-на-Дону, пр. Ворошиловский, 48",
+    "class": "очно",
+    "person_num": 1,
+    "type": "training",
+    "start_date": "2024-06-13T08:40:00+00:00",
+    "finish_date": "2024-06-13T15:00:00+00:00",
+    "is_passed": 1,
+    "company": "Машонина Нина Владимировна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7042207570857014834",
+    "name": "Диагностика сотрудников Payroll_Хантер, Фармер, Активатор",
+    "local_time_string": "",
+    "max_pers": 0,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>Вы записаны на </span><strong style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>диагностику сотрудников направления&nbsp;Payroll&nbsp;</strong><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>по блокам базовых знаний и компетенций. </span></p><p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>По итогам диагностики будут даны обратная связь и рекомендации по развитию.&nbsp;</span>&nbsp;</p><p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(33, 37, 41); display:inline !important; float:none; font-family:roboto,arial,tahoma,verdana,sans-serif; font-size:14px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-align:left; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>Диагностика&nbsp;пройдет в онлайн формате на платформе TrueConf. Вам придет отдельное приглашение, где будут указаны все реквизиты для подключения.</span></p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский;macroregion_2][Дальневосточный;macroregion_3][Московский;macroregion_4][Северо-Западный;macroregion_5][Южный;macroregion_6][Приволжский",
+    "category": "category_4][Обучение по проектам",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_5][Payroll",
+    "format_education": "format_7][Экзамен",
+    "type_detailed": "",
+    "place": "На рабочих местах",
+    "class": "TrueConf",
+    "person_num": 1,
+    "type": "training",
+    "start_date": "2024-06-27T11:00:00+00:00",
+    "finish_date": "2024-06-27T12:30:00+00:00",
+    "is_passed": 1,
+    "company": "Керимова Татьяна Викторовна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7042915422342732506",
+    "name": "Диагностика сотрудников Payroll_Хантер, Фармер, Активатор",
+    "local_time_string": "",
+    "max_pers": 0,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>Вы записаны на </span><strong style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>диагностику сотрудников направления&nbsp;Payroll&nbsp;</strong><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>по блокам базовых знаний и компетенций. </span></p><p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>По итогам диагностики будут даны обратная связь и рекомендации по развитию.&nbsp;</span>&nbsp;</p><p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(33, 37, 41); display:inline !important; float:none; font-family:roboto,arial,tahoma,verdana,sans-serif; font-size:14px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-align:left; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>Диагностика&nbsp;пройдет в онлайн формате на платформе TrueConf. Вам придет отдельное приглашение, где будут указаны все реквизиты для подключения.</span></p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский;macroregion_2][Дальневосточный;macroregion_3][Московский;macroregion_4][Северо-Западный;macroregion_5][Южный;macroregion_6][Приволжский",
+    "category": "category_4][Обучение по проектам",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_5][Payroll",
+    "format_education": "format_7][Экзамен",
+    "type_detailed": "",
+    "place": "На рабочих местах",
+    "class": "TrueConf",
+    "person_num": 1,
+    "type": "training",
+    "start_date": "2024-07-02T12:00:00+00:00",
+    "finish_date": "2024-07-02T13:30:00+00:00",
+    "is_passed": 0,
+    "company": "Керимова Татьяна Викторовна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7040900985433978767",
+    "name": "Premium. Индивидуальная сессия",
+    "local_time_string": "",
+    "max_pers": 0,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "ИВ с РР Premium работа по ИПР",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей",
+    "event_rb_type": "",
+    "macroregion": "macroregion_5][Южный",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "",
+    "hub": "",
+    "channel": "channel_2][Премиум",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": "г. Ростов-на-Дону, пр. Ворошиловский, 48",
+    "class": "очно",
+    "person_num": 1,
+    "type": "training",
+    "start_date": "2024-06-05T11:00:00+00:00",
+    "finish_date": "2024-06-05T13:00:00+00:00",
+    "is_passed": 1,
+    "company": "Машонина Нина Владимировна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7042914552546280579",
+    "name": "Диагностика сотрудников Payroll_Хантер, Фармер, Активатор",
+    "local_time_string": "",
+    "max_pers": 0,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>Вы записаны на </span><strong style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>диагностику сотрудников направления&nbsp;Payroll&nbsp;</strong><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>по блокам базовых знаний и компетенций. </span></p><p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>По итогам диагностики будут даны обратная связь и рекомендации по развитию.&nbsp;</span>&nbsp;</p><p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(33, 37, 41); display:inline !important; float:none; font-family:roboto,arial,tahoma,verdana,sans-serif; font-size:14px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-align:left; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>Диагностика&nbsp;пройдет в онлайн формате на платформе TrueConf. Вам придет отдельное приглашение, где будут указаны все реквизиты для подключения.</span></p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский;macroregion_2][Дальневосточный;macroregion_3][Московский;macroregion_4][Северо-Западный;macroregion_5][Южный;macroregion_6][Приволжский",
+    "category": "category_4][Обучение по проектам",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_5][Payroll",
+    "format_education": "format_7][Экзамен",
+    "type_detailed": "",
+    "place": "На рабочих местах",
+    "class": "TrueConf",
+    "person_num": 1,
+    "type": "training",
+    "start_date": "2024-07-02T09:30:00+00:00",
+    "finish_date": "2024-07-02T11:00:00+00:00",
+    "is_passed": 0,
+    "company": "Керимова Татьяна Викторовна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7037952741169402314",
+    "name": "FRONT. Бизнес. Индивидуальная сессия",
+    "local_time_string": "",
+    "max_pers": 0,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "Индивидуальная сессия с УДО ДО 'Взлетка'. Тема - Т-БАНК пилот.",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": "",
+    "class": "ДО Взлетка ТО Красноярский",
+    "person_num": 2,
+    "type": "training",
+    "start_date": "2024-06-06T14:00:00+00:00",
+    "finish_date": "2024-06-06T16:00:00+00:00",
+    "is_passed": 1,
+    "company": "Белоусова Екатерина Михайловна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7041913505325609089",
+    "name": "FRONT. Бизнес. Индивидуальная сессия",
+    "local_time_string": "",
+    "max_pers": 0,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<span style='font-size:18px'><span style='font-family:arial,helvetica,sans-serif'>Цель:<br />Адаптация Руководителя<br />Супервизия работы УДО<br />Развитие управленческих компетенций<br />Работа с отклонениями и мотивацией на достижение результата и поиск решений<br />Составление ИПР, оценка прогресса по ИПР</span></span>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей",
+    "event_rb_type": "",
+    "macroregion": "macroregion_6][Приволжский",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": "Вне учебного класса",
+    "class": "ТО Уфимский ДО Стерлитомак Галимова Гульнар",
+    "person_num": 2,
+    "type": "training",
+    "start_date": "2024-06-24T15:00:00+00:00",
+    "finish_date": "2024-06-24T17:00:00+00:00",
+    "is_passed": 1,
+    "company": "Аладьева Ирина Анатольевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7040436826305066487",
+    "name": "Диагностика сотрудников Payroll_Хантер, Фармер, Активатор",
+    "local_time_string": "",
+    "max_pers": 0,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>Вы записаны на </span><strong style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>диагностику сотрудников направления&nbsp;Payroll&nbsp;</strong><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>по блокам базовых знаний и компетенций. </span></p><p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>По итогам диагностики будут даны обратная связь и рекомендации по развитию.&nbsp;</span>&nbsp;</p><p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(33, 37, 41); display:inline !important; float:none; font-family:roboto,arial,tahoma,verdana,sans-serif; font-size:14px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-align:left; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>Диагностика&nbsp;пройдет в онлайн формате на платформе TrueConf. Вам придет отдельное приглашение, где будут указаны все реквизиты для подключения.</span></p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский;macroregion_2][Дальневосточный;macroregion_3][Московский;macroregion_4][Северо-Западный;macroregion_5][Южный;macroregion_6][Приволжский",
+    "category": "category_4][Обучение по проектам",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_5][Payroll",
+    "format_education": "format_7][Экзамен",
+    "type_detailed": "",
+    "place": "На рабочих местах",
+    "class": "TrueConf",
+    "person_num": 1,
+    "type": "training",
+    "start_date": "2024-06-21T12:00:00+00:00",
+    "finish_date": "2024-06-21T13:30:00+00:00",
+    "is_passed": 1,
+    "company": "Керимова Татьяна Викторовна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7040437507413987058",
+    "name": "Диагностика сотрудников Payroll_Хантер, Фармер, Активатор",
+    "local_time_string": "",
+    "max_pers": 0,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>Вы записаны на </span><strong style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>диагностику сотрудников направления&nbsp;Payroll&nbsp;</strong><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>по блокам базовых знаний и компетенций. </span></p><p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>По итогам диагностики будут даны обратная связь и рекомендации по развитию.&nbsp;</span>&nbsp;</p><p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(33, 37, 41); display:inline !important; float:none; font-family:roboto,arial,tahoma,verdana,sans-serif; font-size:14px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-align:left; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>Диагностика&nbsp;пройдет в онлайн формате на платформе TrueConf. Вам придет отдельное приглашение, где будут указаны все реквизиты для подключения.</span></p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский;macroregion_2][Дальневосточный;macroregion_3][Московский;macroregion_4][Северо-Западный;macroregion_5][Южный;macroregion_6][Приволжский",
+    "category": "category_4][Обучение по проектам",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_5][Payroll",
+    "format_education": "format_7][Экзамен",
+    "type_detailed": "",
+    "place": "На рабочих местах",
+    "class": "TrueConf",
+    "person_num": 1,
+    "type": "training",
+    "start_date": "2024-07-19T15:00:00+00:00",
+    "finish_date": "2024-07-19T17:30:00+00:00",
+    "is_passed": 0,
+    "company": "Керимова Татьяна Викторовна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7040133036968505443",
+    "name": "Premium. Индивидуальная сессия",
+    "local_time_string": "",
+    "max_pers": 0,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<span style='font-size:20px'><span style='font-family:arial,helvetica,sans-serif'>Цель:<br />Супервизия работы Руководителя<br />Развитие управленческих компетенций по итогам диагностики<br />Составление ИПР, оценка прогресса по ИПР</span></span>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей",
+    "event_rb_type": "",
+    "macroregion": "macroregion_3][Московский",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность",
+    "hub": "",
+    "channel": "channel_2][Премиум",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": "",
+    "class": "",
+    "person_num": 1,
+    "type": "training",
+    "start_date": "2024-06-06T00:00:00+00:00",
+    "finish_date": "2024-06-06T00:00:00+00:00",
+    "is_passed": 1,
+    "company": "Реветнева Олеся Евгеньевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7040888566540336313",
+    "name": "Диагностика сотрудников Payroll_Хантер, Фармер, Активатор",
+    "local_time_string": "",
+    "max_pers": 0,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>Вы записаны на </span><strong style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>диагностику сотрудников направления&nbsp;Payroll&nbsp;</strong><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>по блокам базовых знаний и компетенций. </span></p><p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>По итогам диагностики будут даны обратная связь и рекомендации по развитию.&nbsp;</span>&nbsp;</p><p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(33, 37, 41); display:inline !important; float:none; font-family:roboto,arial,tahoma,verdana,sans-serif; font-size:14px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-align:left; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>Диагностика&nbsp;пройдет в онлайн формате на платформе TrueConf. Вам придет отдельное приглашение, где будут указаны все реквизиты для подключения.</span></p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_2][Дальневосточный",
+    "category": "category_4][Обучение по проектам",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_5][Payroll",
+    "format_education": "format_7][Экзамен",
+    "type_detailed": "",
+    "place": "Вне учебного класса",
+    "class": "TrueConf",
+    "person_num": 1,
+    "type": "training",
+    "start_date": "2024-06-21T10:00:00+00:00",
+    "finish_date": "2024-06-21T12:00:00+00:00",
+    "is_passed": 1,
+    "company": "Чапаева Наталья Юрьевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7040972227748950105",
+    "name": "FRONT. Бизнес. Индивидуальная сессия",
+    "local_time_string": "",
+    "max_pers": 0,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<span style='font-size:18px'><span style='font-family:arial,helvetica,sans-serif'>Цель:<br />Адаптация Руководителя<br />Супервизия работы УДО<br />Развитие управленческих компетенций<br />Работа с отклонениями и мотивацией на достижение результата и поиск решений<br />Составление ИПР, оценка прогресса по ИПР</span></span>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей;spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_6][Приволжский",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": "Вне учебного класса",
+    "class": "ТО Казанский Наб. Челны",
+    "person_num": 2,
+    "type": "training",
+    "start_date": "2024-06-21T16:00:00+00:00",
+    "finish_date": "2024-06-21T18:00:00+00:00",
+    "is_passed": 1,
+    "company": "Аладьева Ирина Анатольевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7035178532603656848",
+    "name": "Диагностика сотрудников Payroll_Хантер, Фармер, Активатор",
+    "local_time_string": "",
+    "max_pers": 0,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>Вы записаны на </span><strong style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>диагностику сотрудников направления&nbsp;Payroll&nbsp;</strong><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>по блокам базовых знаний и компетенций. </span></p><p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>По итогам диагностики будут даны обратная связь и рекомендации по развитию.&nbsp;</span>&nbsp;</p><p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(33, 37, 41); display:inline !important; float:none; font-family:roboto,arial,tahoma,verdana,sans-serif; font-size:14px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-align:left; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>Диагностика&nbsp;пройдет в онлайн формате на платформе TrueConf. Вам придет отдельное приглашение, где будут указаны все реквизиты для подключения.</span></p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_4][Северо-Западный",
+    "category": "category_4][Обучение по проектам",
+    "starting": 0,
+    "type_val": "fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_5][Payroll",
+    "format_education": "format_7][Экзамен",
+    "type_detailed": "",
+    "place": "На рабочих местах",
+    "class": "TrueConf",
+    "person_num": 1,
+    "type": "training",
+    "start_date": "2024-06-05T11:00:00+00:00",
+    "finish_date": "2024-06-05T12:30:00+00:00",
+    "is_passed": 1,
+    "company": "Серов Илья Антонович",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7030556848897792665",
+    "name": "Вебинар. Формирование сшивов кассовых и бухгалтерских документов дня",
+    "local_time_string": "",
+    "max_pers": 0,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p>В твои обязанности входит формирование кассовых или бухгалтерских документов дня? Возникает много вопросов? Приходи на этот вебинар.</p><p>На встрече мы обсудим:</p><ul><li>Структуру кассовых и бухгалтерских сшивов;</li><li>Алгоритм сборки сшивов;</li><li>Основные ошибки при формировании документов дня;</li><li>Порядок сбора сшива после перехода на проект &laquo;Багратион&raquo;</li></ul><p>Обучение пройдет в онлайн формате на платформе Skype для бизнеса. После записи на вебинар тебе придет отдельное приглашение с ящика Training_Retail, где будут указаны все реквизиты для подключения.</p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский;macroregion_2][Дальневосточный;macroregion_3][Московский;macroregion_4][Северо-Западный;macroregion_5][Южный;macroregion_6][Приволжский",
+    "category": "category_1][Обязательное обучение в должности",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_2][Digital тренинг",
+    "type_detailed": "",
+    "place": "Вне учебного класса",
+    "class": "TrueConf",
+    "person_num": 6,
+    "type": "training",
+    "start_date": "2024-06-20T10:00:00+00:00",
+    "finish_date": "2024-06-20T11:30:00+00:00",
+    "is_passed": 1,
+    "company": "Модина Ольга Сергеевна; brСеменова Ирина Александровна; brКлочкова Екатерина Дмитриевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7030556232574032485",
+    "name": "Вебинар. Работа с пластиковыми картами",
+    "local_time_string": "",
+    "max_pers": 0,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p>Ежедневно в своей работе ты сталкиваешься с пластиковыми картами: заказываешь и выдаешь их клиентам, принимаешь карты от курьера, участвуешь в уничтожении, отвечаешь за их сохранность.</p><p>Каждый день возникают различные вопросы: почему не выдается карта в REACT? Как передать карты сотруднику DSA? Как работать с картами по авансовой технологии? Что делать, если не идут остатки карт? Хочешь знать ответы - зарегистрируйся на это обучение.</p><p>На встрече мы:</p><ul><li>Обсудим алгоритм ежедневной сверки карт;</li><li>Разберемся, как урегулировать расхождения по картам;</li><li>Поговорим об основных ошибках при работе с картами.</li></ul><p>Обучение пройдет в онлайн формате на платформе Skype для бизнеса. После записи на вебинар тебе придет отдельное приглашение с ящика Training_Retail, где будут указаны все реквизиты для подключения.</p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский;macroregion_2][Дальневосточный;macroregion_3][Московский;macroregion_4][Северо-Западный;macroregion_5][Южный;macroregion_6][Приволжский",
+    "category": "category_1][Обязательное обучение в должности",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_2][Digital тренинг",
+    "type_detailed": "",
+    "place": "Вне учебного класса",
+    "class": "TrueConf",
+    "person_num": 42,
+    "type": "training",
+    "start_date": "2024-06-19T10:00:00+00:00",
+    "finish_date": "2024-06-19T12:00:00+00:00",
+    "is_passed": 1,
+    "company": "Клочкова Екатерина Дмитриевна; brМодина Ольга Сергеевна; brСеменова Ирина Александровна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7040623911313864917",
+    "name": "FRONT. Бизнес. Индивидуальная сессия",
+    "local_time_string": "",
+    "max_pers": 0,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<span style='font-size:18px'><span style='font-family:arial,helvetica,sans-serif'>Цель:<br />Адаптация Руководителя<br />Супервизия работы УДО<br />Развитие управленческих компетенций<br />Работа с отклонениями и мотивацией на достижение результата и поиск решений<br />Составление ИПР, оценка прогресса по ИПР</span></span>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей",
+    "event_rb_type": "",
+    "macroregion": "macroregion_6][Приволжский",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": "Вне учебного класса",
+    "class": "ТО Пермский ОО Губернский",
+    "person_num": 2,
+    "type": "training",
+    "start_date": "2024-06-20T16:00:00+00:00",
+    "finish_date": "2024-06-20T18:00:00+00:00",
+    "is_passed": 1,
+    "company": "Аладьева Ирина Анатольевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7030553918105905264",
+    "name": "Вебинар. Порядок хранения и передачи ценностей.",
+    "local_time_string": "",
+    "max_pers": 0,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p>Работа с наличными деньгами не ограничивается только кассовым обслуживанием клиентов. На тебя может быть возложена ответственность за сохранность ценностей, как на заведующего кассой или второе должностное лицо.</p><p>Задача эта очень ответственная. Нужно быть готовым принять на себя такую роль. Этот вебинар поможет тебе узнать &laquo;золотые правила&raquo; хранения и передачи ценностей.</p><p>На встрече мы обсудим:</p><ul><li>Правила безопасного доступа к ценностям;</li><li>Порядок формирования, упаковки и хранения наличных денег и других ценностей;</li><li>Особенности передачи ценностей между кассовыми работниками и должностными лицами;</li><li>Алгоритм проведения ревизии и оформления актов.</li></ul><p>Обучение пройдет в онлайн формате на платформе Skype для бизнеса. После записи на вебинар тебе придет отдельное приглашение с ящика Training_Retail, где будут указаны все реквизиты для подключения.</p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский;macroregion_2][Дальневосточный;macroregion_3][Московский;macroregion_4][Северо-Западный;macroregion_5][Южный;macroregion_6][Приволжский",
+    "category": "category_1][Обязательное обучение в должности",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_2][Digital тренинг",
+    "type_detailed": "",
+    "place": "Вне учебного класса",
+    "class": "TrueConf",
+    "person_num": 18,
+    "type": "training",
+    "start_date": "2024-06-06T10:00:00+00:00",
+    "finish_date": "2024-06-06T11:30:00+00:00",
+    "is_passed": 1,
+    "company": "Клочкова Екатерина Дмитриевна; brСеменова Ирина Александровна; brМодина Ольга Сергеевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7037955865691291062",
+    "name": "FRONT. Бизнес. Индивидуальная сессия",
+    "local_time_string": "",
+    "max_pers": 0,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "Индивидуальная сессия с УДО ДО 'Взлетка' ТО 'Красноярский'.",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": "",
+    "class": "ДО Взлетка ТО Красноярский",
+    "person_num": 2,
+    "type": "training",
+    "start_date": "2024-06-07T14:00:00+00:00",
+    "finish_date": "2024-06-07T16:00:00+00:00",
+    "is_passed": 1,
+    "company": "Белоусова Екатерина Михайловна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7042208171737165861",
+    "name": "Диагностика сотрудников Payroll_Хантер, Фармер, Активатор",
+    "local_time_string": "",
+    "max_pers": 0,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>Вы записаны на </span><strong style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>диагностику сотрудников направления&nbsp;Payroll&nbsp;</strong><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>по блокам базовых знаний и компетенций. </span></p><p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>По итогам диагностики будут даны обратная связь и рекомендации по развитию.&nbsp;</span>&nbsp;</p><p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(33, 37, 41); display:inline !important; float:none; font-family:roboto,arial,tahoma,verdana,sans-serif; font-size:14px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-align:left; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>Диагностика&nbsp;пройдет в онлайн формате на платформе TrueConf. Вам придет отдельное приглашение, где будут указаны все реквизиты для подключения.</span></p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский;macroregion_2][Дальневосточный;macroregion_3][Московский;macroregion_4][Северо-Западный;macroregion_5][Южный;macroregion_6][Приволжский",
+    "category": "category_4][Обучение по проектам",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_5][Payroll",
+    "format_education": "format_7][Экзамен",
+    "type_detailed": "",
+    "place": "На рабочих местах",
+    "class": "TrueConf",
+    "person_num": 1,
+    "type": "training",
+    "start_date": "2024-06-27T15:00:00+00:00",
+    "finish_date": "2024-06-27T16:30:00+00:00",
+    "is_passed": 1,
+    "company": "Керимова Татьяна Викторовна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7034858511246131111",
+    "name": "Диагностика сотрудников Payroll_Хантер, Фармер, Активатор",
+    "local_time_string": "",
+    "max_pers": 0,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>Вы записаны на </span><strong style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>диагностику сотрудников направления&nbsp;Payroll&nbsp;</strong><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>по блокам базовых знаний и компетенций. </span></p><p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial; font-size:1em; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>По итогам диагностики будут даны обратная связь и рекомендации по развитию.&nbsp;</span>&nbsp;</p><p><span style='-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); color:rgb(33, 37, 41); display:inline !important; float:none; font-family:roboto,arial,tahoma,verdana,sans-serif; font-size:14px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-align:left; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>Диагностика&nbsp;пройдет в онлайн формате на платформе TrueConf. Вам придет отдельное приглашение, где будут указаны все реквизиты для подключения.</span></p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_3][Московский",
+    "category": "category_4][Обучение по проектам",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность",
+    "hub": "",
+    "channel": "channel_5][Payroll",
+    "format_education": "format_7][Экзамен",
+    "type_detailed": "",
+    "place": "На рабочих местах",
+    "class": "TrueConf",
+    "person_num": 1,
+    "type": "training",
+    "start_date": "2024-06-04T13:00:00+00:00",
+    "finish_date": "2024-06-04T14:30:00+00:00",
+    "is_passed": 1,
+    "company": "Серов Илья Антонович",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7038096793375691512",
+    "name": "FRONT. Стабильность персонала. Индивидуальная сессия",
+    "local_time_string": "",
+    "max_pers": 0,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<span style='font-size:20px'><span style='font-family:arial,helvetica,sans-serif'>Цель:<br />Адаптация Руководителя<br />Супервизия работы УДО<br />Развитие управленческих компетенций по работе с персоналом<br />Составление ИПР, оценка прогресса по ИПР</span></span>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей",
+    "event_rb_type": "",
+    "macroregion": "macroregion_6][Приволжский",
+    "category": "category_3][Полевой визит",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_3][Полевой визит",
+    "type_detailed": "",
+    "place": "Вне учебного класса",
+    "class": "ТО Челябинский ОО Аркаим Семенюта Анна",
+    "person_num": 2,
+    "type": "training",
+    "start_date": "2024-06-13T09:00:00+00:00",
+    "finish_date": "2024-06-13T11:00:00+00:00",
+    "is_passed": 1,
+    "company": "Аладьева Ирина Анатольевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7034500421893223726",
+    "name": "КАДРОВЫЙ РЕЗЕРВ Payroll&DSA: Тренинг по теме 'Работа с установками'",
+    "local_time_string": "",
+    "max_pers": 0,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p style='text-align: left; color: rgb(33, 37, 41); text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: Roboto, Arial, Tahoma, Verdana, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; margin-top: 0px; margin-bottom: 1rem; margin-left: 32px; word-spacing: 0px; white-space: normal; box-sizing: border-box; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;'><span style='font-size:14px'>Тренинг для участников проекта Кадровый резерв Payroll&amp;DSA.</span></p><p style='text-align: left; color: rgb(33, 37, 41); text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: Roboto, Arial, Tahoma, Verdana, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; margin-top: 0px; margin-bottom: 1rem; margin-left: 32px; word-spacing: 0px; white-space: normal; box-sizing: border-box; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;'><span style='font-size:14px'>На тренинге вы <span style='-webkit-text-stroke-width:0px; background-color:rgb(248, 248, 250); color:rgb(24, 28, 53); display:inline !important; float:none; font-family:proxima nova,helvetica,sans-serif; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; orphans:2; text-align:left; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px'>познакомитесь с понятием &laquo;негативные установки&raquo;,&nbsp;сформируете практический навык выявления негативной установки и работы с ней. Поговорим о позитивном настрое и ресурсном состоянии.</span></span></p><p style='text-align: left; color: rgb(33, 37, 41); text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: Roboto, Arial, Tahoma, Verdana, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; margin-top: 0px; margin-bottom: 1rem; margin-left: 32px; word-spacing: 0px; white-space: normal; box-sizing: border-box; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;'><span style='font-size:14px'>Тренинг пройдет на платформе TrueConf. Ссылка на участие в тренинге будет направлена дополнительно.</span></p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский;macroregion_2][Дальневосточный;macroregion_3][Московский;macroregion_4][Северо-Западный;macroregion_5][Южный;macroregion_6][Приволжский",
+    "category": "category_4][Обучение по проектам",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_5][Payroll;channel_6][DSA",
+    "format_education": "format_5][Онлайн тренинг",
+    "type_detailed": "",
+    "place": "Вне учебного класса",
+    "class": "TrueConf",
+    "person_num": 14,
+    "type": "training",
+    "start_date": "2024-06-13T10:00:00+00:00",
+    "finish_date": "2024-06-13T12:00:00+00:00",
+    "is_passed": 1,
+    "company": "Чапаева Наталья Юрьевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7030546034542295411",
+    "name": "Организация операционно-кассовой работы для руководителей ВСП",
+    "local_time_string": "",
+    "max_pers": 0,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p>Ты - новый руководитель ВСП, занимающий должность не более 3-х месяцев, или сотрудник с опытом, но у тебя недостаточно знаний по организации операционно- кассовой работы:</p><ul><li>Управляющий ДО/ОО/Центра клиентского обслуживания / Заместитель управляющего</li><li>Главный эксперт по продажам и клиентскому сервису</li></ul><p>Этот вебинар подготовлен специально для тебя.</p><p><u>В рамках вебинара будут рассмотрены вопросы:</u></p><ul><li>Перечень действующих ТФ приказов/распоряжений по РКО и порядок их оформления, распределение полномочий. Доведение до сотрудников/ознакомление;</li><li>Прием/Увольнение сотрудников, контроль подотчетных счетов при увольнении;</li><li>Оформление временного перевода сотрудника в/из другого ВСП для кассовой работы;</li><li>Формирование кассового досье отделения;</li><li>Наличие и состав информации, размещенной на стенде для клиентов (требования Инструкции №136-И);</li><li>Контроль с использованием систем видеонаблюдения;</li><li>Контрольные процедуры в ВСП.</li></ul><p>Обучение пройдет в онлайн формате на платформе Skype для бизнеса. После записи на вебинар придет отдельное приглашение с ящика Training_Retail, где будут указаны все реквизиты для подключения.</p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "boss][Для руководителей",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский;macroregion_2][Дальневосточный;macroregion_3][Московский;macroregion_4][Северо-Западный;macroregion_5][Южный;macroregion_6][Приволжский",
+    "category": "category_1][Обязательное обучение в должности",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_2][Digital тренинг",
+    "type_detailed": "",
+    "place": "Вне учебного класса",
+    "class": "TrueConf",
+    "person_num": 14,
+    "type": "training",
+    "start_date": "2024-06-05T10:00:00+00:00",
+    "finish_date": "2024-06-05T11:30:00+00:00",
+    "is_passed": 1,
+    "company": "Модина Ольга Сергеевна; brКлочкова Екатерина Дмитриевна; brСеменова Ирина Александровна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7030545370424757743",
+    "name": "Основы кассовой работы",
+    "local_time_string": "",
+    "max_pers": 0,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "Вебинар для кассовых работников, специалистов по обслуживанию и финансовых менеджеров (старших, ведущих)<br />На встрече вы:<br />&bull; Разберетесь с основными задачами и ролями сотрудников при работе с наличными деньгами и ценностями;<br />&bull; Узнаете об особенностях организации и оснащения рабочих мест;<br />&bull; Познакомитесь с базовым функционалом программ для проведения кассовых операций.<br />&nbsp;<br />Вебинар проходит в онлайн формате на платформе TrueConf. После записи на тренинг вам поступит отдельное прилашение от эксперта, где будут указаны все реквизиты для подключения",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский;macroregion_2][Дальневосточный;macroregion_3][Московский;macroregion_4][Северо-Западный;macroregion_5][Южный;macroregion_6][Приволжский",
+    "category": "category_1][Обязательное обучение в должности",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_2][Digital тренинг",
+    "type_detailed": "",
+    "place": "Вне учебного класса",
+    "class": "TrueConf",
+    "person_num": 9,
+    "type": "training",
+    "start_date": "2024-06-04T10:00:00+00:00",
+    "finish_date": "2024-06-04T11:30:00+00:00",
+    "is_passed": 1,
+    "company": "Клочкова Екатерина Дмитриевна; brСеменова Ирина Александровна; brМодина Ольга Сергеевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7030555118566855794",
+    "name": "Урегулирование расхождений кассы",
+    "local_time_string": "",
+    "max_pers": 0,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p>Рабочий день окончен, осталось распечатать кассовые документы, сдать деньги и ценности, и выйти из кассового модуля. Но нет, что-то пошло не так, остатки по кассе не идут, ты не знаешь, что делать, чтобы исправить ситуацию? Приходи на вебинар.</p><p>На встрече мы:</p><ul><li>рассмотрим случаи возникновения сбойных операций,</li><li>научимся выявлять сбойные операции</li><li>определим порядок ваших действий для урегулирования расхождений кассы/БИС/НКМ.</li></ul><p>Обучение пройдет в онлайн формате на платформе Skype для бизнеса. После записи на вебинар тебе придет отдельное приглашение с ящика Training_Retail, где будут указаны все реквизиты для подключения.</p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский;macroregion_2][Дальневосточный;macroregion_3][Московский;macroregion_4][Северо-Западный;macroregion_5][Южный;macroregion_6][Приволжский",
+    "category": "category_4][Обучение по проектам",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_2][Digital тренинг",
+    "type_detailed": "",
+    "place": "Вне учебного класса",
+    "class": "TrueConf",
+    "person_num": 9,
+    "type": "training",
+    "start_date": "2024-06-13T10:00:00+00:00",
+    "finish_date": "2024-06-13T11:30:00+00:00",
+    "is_passed": 1,
+    "company": "Клочкова Екатерина Дмитриевна; brМодина Ольга Сергеевна; brСеменова Ирина Александровна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7034405890377348728",
+    "name": "Экзамен (НАВЫКИ)_NEW DSA",
+    "local_time_string": "",
+    "max_pers": 0,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<span style='font-size:20px'><span style='font-family:arial,helvetica,sans-serif'>Экзамен будет проходить в формате решения профессионального кейса, в котором менеджеру необходимо будет продемонстрировать свои навыки продаж при проведении встречи с клиентом.</span></span>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский;macroregion_2][Дальневосточный",
+    "category": "category_4][Обучение по проектам",
+    "starting": 0,
+    "type_val": "fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_6][DSA",
+    "format_education": "format_7][Экзамен",
+    "type_detailed": "",
+    "place": "На рабочих местах",
+    "class": "TrueConf",
+    "person_num": 7,
+    "type": "training",
+    "start_date": "2024-06-04T06:00:00+00:00",
+    "finish_date": "2024-06-04T08:00:00+00:00",
+    "is_passed": 1,
+    "company": "Керимова Татьяна Викторовна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7034446117813943872",
+    "name": "Экзамен (НАВЫКИ)_NEW DSA",
+    "local_time_string": "",
+    "max_pers": 0,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<span style='font-size:20px'><span style='font-family:arial,helvetica,sans-serif'>Экзамен будет проходить в формате решения профессионального кейса, в котором менеджеру необходимо будет продемонстрировать свои навыки продаж при проведении встречи с клиентом.</span></span>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_3][Московский;macroregion_4][Северо-Западный;macroregion_5][Южный;macroregion_6][Приволжский",
+    "category": "category_4][Обучение по проектам",
+    "starting": 0,
+    "type_val": "fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_6][DSA",
+    "format_education": "format_7][Экзамен",
+    "type_detailed": "",
+    "place": "На рабочих местах",
+    "class": "TrueConf",
+    "person_num": 7,
+    "type": "training",
+    "start_date": "2024-06-04T10:00:00+00:00",
+    "finish_date": "2024-06-04T12:00:00+00:00",
+    "is_passed": 1,
+    "company": "Керимова Татьяна Викторовна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7034449950599445601",
+    "name": "Экзамен (НАВЫКИ)_NEW DSA",
+    "local_time_string": "",
+    "max_pers": 0,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<span style='font-size:20px'><span style='font-family:arial,helvetica,sans-serif'>Экзамен будет проходить в формате решения профессионального кейса, в котором менеджеру необходимо будет продемонстрировать свои навыки продаж при проведении встречи с клиентом.</span></span>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_3][Московский;macroregion_4][Северо-Западный;macroregion_5][Южный;macroregion_6][Приволжский",
+    "category": "category_4][Обучение по проектам",
+    "starting": 0,
+    "type_val": "fa-lightbulb][Командный br дух;fa-user][Клиент;fa-handshake][Инновации;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_6][DSA",
+    "format_education": "format_7][Экзамен",
+    "type_detailed": "",
+    "place": "На рабочих местах",
+    "class": "TrueConf",
+    "person_num": 8,
+    "type": "training",
+    "start_date": "2024-06-05T10:00:00+00:00",
+    "finish_date": "2024-06-05T12:00:00+00:00",
+    "is_passed": 1,
+    "company": "Керимова Татьяна Викторовна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7032787143671904823",
+    "name": "'Основы тайм - менеджмента'",
+    "local_time_string": "",
+    "max_pers": 0,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p><span style='font-size:20px'>Вспомнив контур оперативного управления, мы увидим, что планирование - первый аспект управленческого цикла. Эффективный план - 50% успеха результативного дня. Тренинг рассказывает об основах тайм - менеджмента, которые помогут сделать рабочий день более организованным и продуктивным.</span></p><p><span style='font-size:20px'>В результате обучения ты;<br />- узнаешь принципы и инструменты эффективного планирования;<br />- определишь свой тип прокрастинации и поймешь, как с ней работать;<br />- разберешь, что важно помнить при делегировании;<br />- потренируешь алгоритм делегирования;</span></p><p><span style='font-size:20px'>Тренинг пройдет в очном формате.<br />После записи тебе придет отдельное приглашение с ящика Training_Retail, где будут указаны реквизиты для прохождения обучения.</span></p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_4][Северо-Западный;macroregion_5][Южный;macroregion_6][Приволжский",
+    "category": "category_4][Обучение по проектам",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-lightbulb][Командный br дух;fa-user][Клиент;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_5][Онлайн тренинг",
+    "type_detailed": "",
+    "place": "На рабочих местах",
+    "class": "True conf",
+    "person_num": 13,
+    "type": "training",
+    "start_date": "2024-06-06T10:00:00+00:00",
+    "finish_date": "2024-06-06T12:00:00+00:00",
+    "is_passed": 1,
+    "company": "Соловьева Ирина Алексеевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}, {
+    "id": "7030555717412059988",
+    "name": "Вебинар. Особенности осуществления кассовых операций",
+    "local_time_string": "",
+    "max_pers": 0,
+    "is_open": 1,
+    "registred": 0,
+    "in_wlist": 0,
+    "price": "",
+    "is_single_person_price": 0,
+    "description": "<p>Ты &ndash; финансовый менеджер/старший/ведущий, и твоя главная задача &ndash; это продажи! Однако, операционно-кассовое обслуживание клиентов тоже неотъемлемая часть твоей работы.&nbsp;</p><p>Ты &ndash; кассир /старший / главный или заведующий кассой. Нюансы кассового обслуживания клиентов &ndash; это твой &laquo;хлеб&raquo;.</p><p>Как выдать деньги по чеку? Или внести их на счет юр. лица? Что делать, если обратился не сам клиент, а его представитель или наследник? Обнаружилась подделка? Или купюра, вызывающая сомнения в ее подлинности? Обо всем этом пойдет речь на вебинаре.</p><p>На встрече мы обсудим:</p><ul><li>Нюансы идентификации клиентов и их представителей;</li><li>Особенности кассового обслуживания юридических и физических лиц;</li><li>Порядок действий при обнаружении проблемных купюр;</li><li>Правила организации работы по перевозке денег между ВСП и ГКО/КЦ</li></ul><p>Обучение пройдет в онлайн формате на платформе Skype для бизнеса. После записи на вебинар тебе придет отдельное приглашение с ящика Training_Retail, где будут указаны все реквизиты для подключения.</p>",
+    "calendar_group": 0,
+    "type_no_access": "",
+    "for_type": "spec][Для специалистов",
+    "event_rb_type": "",
+    "macroregion": "macroregion_1][Сибирский;macroregion_2][Дальневосточный;macroregion_3][Московский;macroregion_4][Северо-Западный;macroregion_5][Южный;macroregion_6][Приволжский",
+    "category": "category_1][Обязательное обучение в должности",
+    "starting": 0,
+    "type_val": "fa-heart][Вовлеченность;fa-check-circle][Ответственность",
+    "hub": "",
+    "channel": "channel_1][Фронт",
+    "format_education": "format_2][Digital тренинг",
+    "type_detailed": "",
+    "place": "Вне учебного класса",
+    "class": "TrueConf",
+    "person_num": 16,
+    "type": "training",
+    "start_date": "2024-06-18T10:00:00+00:00",
+    "finish_date": "2024-06-18T12:00:00+00:00",
+    "is_passed": 1,
+    "company": "Клочкова Екатерина Дмитриевна; brСеменова Ирина Александровна; brМодина Ольга Сергеевна",
+    "start_date_prev_month": 0,
+    "Mandatorys": "0",
+    "ec_event_id": 0,
+    "is_lector": 0,
+    "is_tutor": 0,
+    "sub": 0
+}]

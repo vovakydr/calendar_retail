@@ -13,8 +13,8 @@ export const updateFiltersFromUrl = async (dispatch, location) => {
     console.log("urlParams " + urlParams)
   
     const paramActionMap = {
+      for_type: initialRender,
       spec: initialRender,
-      boss: initialRender,
       registred: initialRender,
       free_places: initialRender,
       for_lectors: initialRender,
@@ -36,6 +36,14 @@ export const updateFiltersFromUrl = async (dispatch, location) => {
     // Fetch dropdown types from the server
     const result = await dispatch(fetchDropDownTypes());
     const dropDownTypes = result.payload || new Map();
+
+    // Fetch dropdown macros from the server
+    const macrosResult = await dispatch(fetchDropDownMacros());
+    const dropDownMacros = macrosResult.payload || new Map();
+
+    // Fetch dropdown channels from the server
+    const channelsResult = await dispatch(fetchDropDownChannels());
+    const dropDownChannels = channelsResult.payload || new Map();
   
     urlParams.forEach((value, key) => {
       const action = paramActionMap[key];

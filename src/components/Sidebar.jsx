@@ -29,9 +29,9 @@ const Sidebar = () => {
     const location = useLocation();
   
     const {
-      spec,
-      boss,
       registred,
+      spec,
+      for_type,
       free_places,
       for_lectors,
       subordinates,
@@ -49,9 +49,9 @@ const Sidebar = () => {
       buttonDisabled,
       dispatch,
       isSubmitted,
-      spec,
-      boss,
       registred,
+      spec,
+      for_type,
       free_places,
       for_lectors,
       subordinates,
@@ -61,9 +61,9 @@ const Sidebar = () => {
     useEffect(() => {
       filteredLogic();
     }, [
-      spec,
-      boss,
       registred,
+      spec,
+      for_type,
       free_places,
       for_lectors,
       subordinates,

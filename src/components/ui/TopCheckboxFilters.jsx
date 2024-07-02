@@ -3,7 +3,7 @@ import { toggleCheckbox } from "../../features/checkboxes/checkboxesSlice";
 
 const TopCheckboxFilters = () => {
   const dispatch = useDispatch();
-  const { spec, boss } = useSelector((store) => store.checkboxes);
+  const { spec, for_type } = useSelector((store) => store.checkboxes);
   return (
     <>
       {" "}
@@ -20,10 +20,10 @@ const TopCheckboxFilters = () => {
       <div className="checkbox-input">
         <input
           type="checkbox"
-          name="boss"
+          name="for_type"
           id="managers"
           onChange={(e) => dispatch(toggleCheckbox(e.target.name))}
-          checked={boss ? true : false}
+          checked={for_type ? true : false}
         />
         <label htmlFor="managers">Для руководителей</label>
       </div>

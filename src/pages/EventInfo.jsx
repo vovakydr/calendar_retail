@@ -14,6 +14,7 @@ import {
   cancelRegistration,
   addRegistration,
 } from "../features/eventInfo/EventInfoSlice";
+import Macroregions from "../components/Macroregions";
 
 import timezone from "dayjs/plugin/timezone";
 import utc from "dayjs/plugin/utc";
@@ -21,6 +22,15 @@ import utc from "dayjs/plugin/utc";
 dayjs.extend(utc);
 dayjs.extend(timezone);
 dayjs.tz.setDefault("Europe/Moscow");
+
+function ResaultInHTML({str}) {
+  const formattedString = str.replace(/br/g, "<br />");
+
+  return (
+    <div dangerouslySetInnerHTML={{__html: formattedString}} />
+  );
+}
+
 
 const EventInfo = () => {
   const [copyLink, setCopyLink] = useState("Поделиться");
@@ -141,13 +151,21 @@ const EventInfo = () => {
                   </p>
                 )}
 
-                <p>Регион</p>
-                <p>{regions ? regions : ""}</p>
+                <p>Макрорегионы</p>
+                {/*<p>{regions ? regions : ""}</p>*/}
+                <Macroregions macroregionsString={ev?.macroregion} />
                 <p>Преподаватель</p>
-                {<div dangerouslySetInnerHTML={{ __html: ev?.company }} />}
+                {/*<div dangerouslySetInnerHTML={{ __html: ev?.company }} />*/}
+                <ResaultInHTML str={ev?.company} />
                 {/* <p>{ev.company} </p> */}
                 {/* <p>Направление</p>
                 <p>Личная пятница</p> */}
+                <p>Свободных мест</p>
+                <div>{ev?.max_pers}</div>
+                <p>Формат обучения</p>
+                <div>{ev?.channel.split('][')[1]}</div>
+                <p>Дополнительный офис</p>
+                <div>{ev?.place}</div>
                 <p dangerouslySetInnerHTML={{ __html: ev?.description }} />
               </div>
             </section>

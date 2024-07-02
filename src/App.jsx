@@ -39,6 +39,7 @@ const router = createHashRouter([
       {
         path: `calendarRetail`,
         element: <CalendarRetail />,
+        children: [{ path: "event-info/:id", element: <EventInfo /> }],
         
       },
       // {
