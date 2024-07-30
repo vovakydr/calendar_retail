@@ -1,3 +1,4 @@
+import React, { useState } from "react";
 import FormatDropdown from "./FormatDropdown";
 import TypesDropdown from "./TypesDropdown";
 import MacrosDropdown from "./MacrosDropdown";
@@ -22,11 +23,43 @@ import BottomCheckboxFilters from "./ui/BottomCheckboxFilters";
 import BossCheckboxFilters from "./ui/BossCheckboxFilters";
 import LectorCheckboxFilters from "./ui/LectorCheckboxFilters";
 import SidebarButtonControl from "./ui/SidebarButtonControl";
+import { fetchUserRoles } from "../features/roles/rolesSlice";
+//import CreateEventModal from "./CreateEventModal";
+import { openCreateEventModal } from "../features/modal/modalSlice";
 
 const Sidebar = () => {
     const dispatch = useDispatch();
     const navigate = useNavigate();
     const location = useLocation();
+
+    const { roles, status } = useSelector((state) => state.roles);
+/*
+    const [isModalOpen, setIsModalOpen] = useState(false);
+    const handleOpenModal = () => {
+      setIsModalOpen(true);
+    };
+
+    const handleCloseModal = () => {
+      setIsModalOpen(false);
+    }; 
+*/
+  const handleCreateEventClick = () => {
+    dispatch(openCreateEventModal());
+  }
+
+    useEffect(() => {
+      const userId = window.userId;
+      if(userId){
+        dispatch(fetchUserRoles(userId));
+      } else {
+        console.error('UserID is not defined');
+      }
+    },[dispatch]);
+    useEffect(() => {
+      console.log('Roles:',roles)
+    }, [roles])
+
+    const isAdminOrTutor = roles.includes('admin') || roles.includes('tutor');
   
     const {
       registred,
@@ -78,6 +111,11 @@ const Sidebar = () => {
   
     return (
       <aside className="sidebar">
+        {isAdminOrTutor && (
+            <div className="button-container">
+              <button onClick={handleCreateEventClick} className="create-event-button">Создать мероприятие</button>
+            </div>
+          )}
         <form
           onSubmit={handleSubmit}
           action="/calendarRetail"

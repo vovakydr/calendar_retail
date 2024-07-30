@@ -9,7 +9,7 @@ import { events as testEvents } from "../../data";
 // const url = "/custom_web_template.html?object_id=6673451655755009275";
 
 // ---PROD URL---
-const url = "/custom_web_template.html?object_id=7009797198158191181";
+const url = "/custom_web_template.html?object_id=7045132913724882625";
 
 // const url = "http://localhost:3000/events";
 

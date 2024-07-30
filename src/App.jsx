@@ -23,6 +23,7 @@ import Redirect from "./Redirect";
 import dayjs from "dayjs";
 import { updateMonthIndex } from "./features/calendar/calendarSlice";
 import { enableMapSet } from 'immer';
+import { fetchUserRoles } from "./features/roles/rolesSlice";
 
 enableMapSet();
 
@@ -78,6 +79,13 @@ function App() {
     }
     dispatch(handleCurrentMonth());
     dispatch(getCalendarEvents());
+    const userId = window.userId
+    if(userId){
+      dispatch(fetchUserRoles(userId));
+    } else {
+      console.error('User ID is not defined');
+    }
+    
   }, []);
 
 

@@ -15,6 +15,7 @@ import {
   addRegistration,
 } from "../features/eventInfo/EventInfoSlice";
 import Macroregions from "../components/Macroregions";
+import RegistartionForm from "../components/RegistrationForm";
 
 import timezone from "dayjs/plugin/timezone";
 import utc from "dayjs/plugin/utc";
@@ -40,6 +41,7 @@ const EventInfo = () => {
   const { regions, isRegistrationLoading } = useSelector(
     (store) => store.eventInfo
   );
+  const [showLeadersModal, setShowLeadersModal] = useState(false);
 
   console.log("render");
 
@@ -54,6 +56,19 @@ const EventInfo = () => {
   }, [calendarEvents]);
 
   const urlAddress = window.location.href;
+
+  const openLeadersModal = () => {
+    setShowLeadersModal(true);
+  };
+
+  const closeLeaderModal = () => {
+    setShowLeadersModal(false);
+  };
+
+  const handleRegistration = (registrationData) => {
+    dispatch(addRegistration(registrationData));
+    closeLeaderModal();
+  };
 
   return (
     <>
@@ -175,7 +190,7 @@ const EventInfo = () => {
               ""
             ) : (
               <div className="info-button-container">
-                {ev?.spec ? (
+                {ev?.registred === 1 ? (
                   <button
                     disabled={isRegistrationLoading}
                     onClick={() =>
@@ -196,14 +211,15 @@ const EventInfo = () => {
                 ) : (
                   <button
                     disabled={isRegistrationLoading}
-                    onClick={() =>
+                    /*onClick={() =>
                       dispatch(
                         addRegistration({
                           id: ev.path_id || ev.id,
                           userId: window.userId,
                         })
                       )
-                    }
+                    }*/
+                    onClick={openLeadersModal}
                   >
                     {isRegistrationLoading ? (
                       <span className="loading-spinner"></span>
@@ -216,6 +232,21 @@ const EventInfo = () => {
             )}
           </aside>
         </>
+      )}
+      {showLeadersModal && (
+        <div className="modal">
+          <div className="modal_content">
+            <span className="close-modal" onClick={closeLeaderModal}>
+              &times;
+            </span>
+            <RegistartionForm 
+              event={ev}
+              isRegistrationLoading={isRegistrationLoading}
+              addRegistration={handleRegistration}
+              userId={window.userId}
+            />
+          </div>
+        </div>
       )}
     </>
   );

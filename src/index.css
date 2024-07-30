@@ -1203,3 +1203,271 @@ input[type="radio"] {
 .gratitude button:hover {
   opacity: 0.8;
 }
+.modal {
+  display: block;
+  position: fixed;
+  z-index: 1000;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.modal_content {
+  background-color: white;
+  margin: 15% auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 80%;
+  max-width: 800px;
+  position: relative;
+  border-radius: 10px;
+}
+
+.modal_content h2 {
+  font-size: 22px;
+  font-weight: bold;
+  padding-bottom: 25px;
+}
+
+.close-modal {
+  color: #aaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.close-modal:hover,
+.close-modal:focus {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}
+.leader span {
+  border-bottom: 1px solid #000;
+  font-weight: bold;
+  color: #C00000;
+  width: 60%;
+  display: inline-block;
+  white-space: nowrap;
+  overflow: hidden;
+  padding: 5px;
+}
+.leader svg {
+  font-size: 1.5em;
+}
+.create-event-button {
+  background-color: var(--red)!important;
+  color: var(--white)!important;
+}
+
+.search-bar input{
+  display: inline-block !important;
+  width: 90%!important;
+}
+
+.search-bar svg {
+  display: inline-block;
+  font-size: 1.5em;
+  vertical-align: middle;
+}
+
+/* Add this CSS in your main stylesheet or within the component if using CSS-in-JS libraries */
+
+.modal {
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+}
+
+.modal_content {
+  position: relative;
+  background-color: #fff;
+  border-radius: 10px;
+  padding: 20px;
+  width: 80%;
+  max-width: 1200px;
+  max-height: 80%;
+  overflow-y: auto;
+}
+
+.close-modal {
+  background: none;
+  border: none;
+  font-size: 1.5rem;
+  cursor: pointer;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+.tabs {
+  display: flex;
+  margin-top: 20px;
+}
+
+.tab-button {
+  padding: 10px 20px;
+  margin-right: 10px;
+  cursor: pointer;
+  background-color: #f0f0f0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.tab-button.active {
+  background-color: #c00000;
+  color: #fff;
+}
+
+.tab-content-container {
+  margin-top: 20px;
+}
+
+.tab-content {
+  display: none;
+}
+
+.tab-content.active {
+  display: block;
+  background-color: #fff;
+  color:#000;
+}
+
+.readInput {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 15px;
+}
+
+.readInput input,
+.readInput select,
+.readInput textarea {
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  width: 100%;
+  margin-top: 5px;
+}
+
+.readInput input[readonly] {
+  background-color: #f9f9f9;
+}
+
+.readInputCheckbox {
+  display: inline-block;
+  margin-bottom: 15px;
+}
+
+.readInputCheckbox input {
+  display: inline-block;
+  margin-left: 15px;
+  margin-top: 5px;
+}
+
+
+
+.type-select-create {
+  background-color: var(--grey);
+  list-style: none;
+  border-radius: 0.75rem;
+
+  width: 274px;
+  cursor: pointer;
+  font-weight: 500;
+  letter-spacing: 0.32px;
+  font-size: 0.875rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  box-shadow: 0px 4px 12px 0px rgba(0, 0, 0, 0.12);
+}
+.type-select-create li {
+  background-color: #fff;
+  padding: 0.75rem 1rem;
+  transition: all 0.2s ease;
+}
+.type-select-create li:first-child {
+  border-top-left-radius: 0.75rem;
+  border-top-right-radius: 0.75rem;
+}
+.type-select-create li:last-child {
+  border-bottom-left-radius: 0.75rem;
+  border-bottom-right-radius: 0.75rem;
+}
+
+.type-select-create li:hover {
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+.create-dropdown button {
+  margin-bottom: 20px;
+}
+
+.input-file {
+  position: relative;
+  display: inline-block;
+  padding: 1rem 1.5rem;
+}
+.input-file-text {
+  padding: 0 10px;
+  line-height: 40px;
+  text-align: left;
+  height: 40px;
+  display: block;
+  float: left;
+  box-sizing: border-box;
+  width: 200px;
+  border-radius: 6px 0 0 6px;
+  border: 1px solid #ddd;
+}
+.input-file-btn {
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+  outline: none;
+  text-decoration: none;
+  font-size: 14px;
+  vertical-align: middle;
+  color: #fff;
+  text-align: center;
+  border-radius: 0 4px 4px 0;
+  background-color: rgb(228, 0, 56);
+  line-height: 22px;
+  height: 40px;
+  padding: 10px 20px;
+  box-sizing: border-box;
+  border: none;
+  margin: 0;
+  transition: background-color 0.2s;
+}
+.input-file input[type=file] {
+  position: absolute;
+  z-index: -1;
+  opacity: 0;
+  display: block;
+  width: 0;
+  height: 0;
+}
+
+/* Focus */
+.input-file input[type=file]:focus + .input-file-btn {
+  box-shadow: 0 0 0 0.2rem rgba(0,123,255,.25);
+}
+
+/* Hover/active */
+.input-file:hover .input-file-btn {
+  opacity: 0.8;
+}
+.input-file:active .input-file-btn {
+  background-color: #2E703A;
+}
+
+/* Disabled */
+.input-file input[type=file]:disabled + .input-file-btn {
+  background-color: #eee;
+}
+
+

@@ -4,7 +4,7 @@ export const events = [{
     "local_time_string": "",
     "max_pers": 499,
     "is_open": 1,
-    "registred": 0,
+    "registred": 1,
     "in_wlist": 0,
     "price": "",
     "is_single_person_price": 0,

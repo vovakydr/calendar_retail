@@ -3,12 +3,11 @@ import { createAsyncThunk } from "@reduxjs/toolkit";
 import axios from "axios";
 import { nanoid } from "nanoid";
 
-//const URL = "https://jsonplaceholder.typicode.com/todos/";
+
 // const TestURL =
-//   "https://rsbt-astwebtut.trosbank.trus.tsocgen/custom_web_template.html?object_id=6675296127857605162&";
-
-const URL = "/custom_web_template.html?object_id=6675296127857605162&";
-
+//const URL = "/custom_web_template.html?object_id=6675296127857605162&";
+// prod URL
+const URL = "/custom_web_template.html?object_id=7045151921102575737&";
 // cancel registration
 
 export const cancelRegistration = createAsyncThunk(
